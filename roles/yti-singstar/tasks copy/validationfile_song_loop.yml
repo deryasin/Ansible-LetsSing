@@ -1,0 +1,11 @@
+- name: Save current TXT hash
+  stat:
+    path: "{{song_dict.songfolder}}/{{song.uid}}/{{song.uid}}.txt"
+    checksum_algorithm: md5
+    get_checksum: true
+  register: singstar_txthash
+  
+- name: Update Validationfile
+  template:
+    src: validation.json.j2
+    dest: "{{song_dict.validationfilefolder}}/validation.json"

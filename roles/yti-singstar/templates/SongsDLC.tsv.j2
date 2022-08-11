@@ -1,0 +1,29 @@
+ENABLED	UID	ID	ARTIST	TITLE	YEAR	DIFFICULTY	SKU_INT	SKU_FR	SKU_SPA	SKU_GER	DLC_INDEX	VIDEO_RATIO	GENRE_POP_UNLOCKED	GENRE_RAP	GENRE_BALLAD	GENRE_ROCK	GENRE_HAPPY_UNLOCKED	GENRE_FIESTA	GENRE_LOVE	GENRE_SAD	GENRE_OLD_UNLOCKED	GENRE_2000	GENRE_RECENT	GENRE_RANDOM_UNLOCKED	GENRE_VO	GENRE_WOMEN	GENRE_ENGLISH	GENRE_MEN
+x	144	AllNightLong	Lionel_Richie	All Night Long	1983	0	x	x	x	x	1	RATIO_4_3	x					x			x			x			x	x
+x	116	AThousandMiles	Vanessa Carlton	A Thousand Miles	2001	2	x	x	x	x	1	RATIO_16_9			x		x		x			x		x		x	x	
+x	96	BadRomance	Lady Gaga	Bad Romance	2009	0	x	x	x	x	1	RATIO_16_9	x					x	x			x		x		x	x	
+x	111	BlueMonday	New Order	Blue Monday	1988	1	x	x	x	x	1	RATIO_4_3	x					x			x			x			x	x
+x	113	BoysDontCry	The Cure	Boys Don't Cry	1980	2	x	x	x	x	1	RATIO_4_3				x	x				x			x			x	x
+x	142	ComeOnEileen	Dexy's Midnight_Runners	Come On Eileen	1982	1	x	x	x	x	1	RATIO_4_3				x	x				x			x			x	x
+x	136	CrazyLittleThingCalledLove	Queen	Crazy Little Thing Called Love	1980	2	x	x	x	x	1	RATIO_16_9				x	x				x			x			x	x
+x	133	EverybodyWantsToRuleTheWorld	Tears For Fears	Everybody Wants To Rule The World	1985	1	x	x	x	x	1	RATIO_16_9				x	x				x			x			x	x
+x	131	FallingInLoveWithYou	UB40	(I Can't Help) Falling In Love With You	1993	1	x	x	x	x	1	RATIO_16_9			x				x		x			x			x	x
+x	109	HeartOfGlass	Blondie	Heart Of Glass	1978	0	x	x	x	x	1	RATIO_4_3	x				x		x		x			x		x	x	
+x	115	IWillSurvive	Gloria Gaynor	I Will Survive	1978	0	x	x	x	x	1	RATIO_4_3	x					x			x			x		x	x	
+x	108	MadWorld	Tears For Fears	Mad World	1983	2	x	x	x	x	1	RATIO_4_3			x					x	x			x			x	x
+x	145	NoMoney	Galantis	No Money	2016	2	x	x	x	x	1	RATIO_16_9	x					x					x	x			x	
+x	132	OurHouse	Madness	Our House	1982	1	x	x	x	x	1	RATIO_4_3	x				x				x			x			x	x
+x	146	PerfectStrangers	Jonas Blue Ft. JP Cooper	Perfect Strangers	2016	1	x	x	x	x	1	RATIO_16_9	x				x		x				x	x			x	x
+x	143	Reality	Lost Frequencies Ft. Janieck Devy	Reality	2016	2	x	x	x	x	1	RATIO_16_9	x				x						x	x			x	x
+x	135	Sacrifice	Elton_John	Sacrifice	1989	0	x	x	x	x	1	RATIO_4_3			x					x	x			x			x	x
+x	141	SweetLovin	Sigala Ft. Bryn Christopher	Sweet Lovin'	2014	2	x	x	x	x	1	RATIO_16_9	x					x				x		x			x	x
+x	138	TaintedLove	Soft Cell	Tainted Love	1981	1	x	x	x	x	1	RATIO_4_3	x						x		x			x			x	x
+x	80	TakeOnMe	A-ha	Take On Me	1985	2	x	x	x	x	1	RATIO_4_3				x	x	x			x			x			x	x
+x	140	Tears	Clean Bandit Ft.Louisa Johnson	Tears	2016	2	x	x	x	x	1	RATIO_16_9	x					x					x	x		x	x	
+x	114	TheFear	Lily Allen	The Fear	2009	1	x	x	x	x	1	RATIO_16_9	x				x					x		x		x	x	
+x	139	UpsideDown	Diana_Ross	Upside Down	1980	1	x	x	x	x	1	RATIO_4_3	x				x				x			x		x	x	
+x	95	WeWillRockYou	Queen	We Will Rock You	1977	1	x	x	x	x	1	RATIO_16_9				x		x			x			x			x	x
+x	137	Zombie	The Cranberries	Zombie	1994	1	x	x	x	x	1	RATIO_4_3				x				x	x			x		x	x	
+{% for song in song_dict['songs'] %}
+{{ 'x	' if song.enabled else '	' }}{{ song.id }}	{{ song.uid }}	{{ song.artist }}	{{ song.name }}	{{ song.release }}	{{ song.difficulty }}	x	x	x	x	1	RATIO_{{ song.ratio|replace(":", "_") }}	{{ 'x	' if song.pop is defined and song.pop == True else '	' }}{{ 'x	' if song.rap is defined and song.rap == True else '	' }}{{ 'x	' if song.ballad is defined and song.ballad == True else '	' }}{{ 'x	' if song.rock is defined and song.rock == True else '	' }}{{ 'x	' if song.happy is defined and song.happy == True else '	' }}{{ 'x	' if song.fiesta is defined and song.fiesta == True else '	' }}{{ 'x	' if song.love is defined and song.love == True else '	' }}{{ 'x	' if song.sad is defined and song.sad == True else '	' }}{{ 'x	' if song.old is defined and song.old == True else '	' }}{{ 'x	' if song.2000 is defined and song.2000 == True else '	' }}{{ 'x	' if song.recent is defined and song.recent == True else '	' }}x   {{ 'x	' if song.vo is defined and song.vo == True else '	' }}{{ 'x	' if song.women is defined and song.women == True else '	' }}{{ 'x	' if song.english is defined and song.english == True else '	' }}{{ 'x	' if song.men is defined and song.men == True else '	' }}
+{% endfor %}

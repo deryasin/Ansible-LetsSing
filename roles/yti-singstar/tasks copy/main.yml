@@ -1,0 +1,32 @@
+
+- name: Collect all songs..
+  set_fact:
+    songlist: "{{songlist|default([]) + [song_dict.1.uid] }}"
+  no_log: true
+  loop: "{{ lookup('list', singstar, wantlist=False)|subelements('songs') }}"
+  loop_control:
+    loop_var: song_dict
+
+- name: Validate Data
+  include_tasks: check.yml
+  loop: "{{ lookup('list', singstar, wantlist=False) }}"
+  loop_control:
+    loop_var: song_dict
+# ädnern zu singstar_current_song
+- name: Download Video..
+  include_tasks: download.yml
+  loop: "{{ lookup('list', singstar, wantlist=False) }}"
+  loop_control:
+    loop_var: song_dict
+- name: Update Validationfile
+  include_tasks: validationfile.yml
+  loop: "{{ lookup('list', singstar, wantlist=False) }}"
+  loop_control:
+    loop_var: song_dict
+
+#- generate vxla
+- name: Create Meta Files
+  include_tasks: generate.yml
+  loop: "{{ lookup('list', singstar, wantlist=False) }}"
+  loop_control:
+    loop_var: song_dict

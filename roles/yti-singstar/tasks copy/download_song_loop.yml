@@ -1,0 +1,100 @@
+- name: Set complete path and song name
+  set_fact:
+    songpathname: "{{ song_dict.songfolder }}/{{ song.uid }}/{{ song.uid }}"
+
+- name: Remove old Video and Audio Files
+  file:
+    path: "{{ item }}"
+    state: absent
+  loop:
+    - "{{ songpathname }}.mp4"
+    - "{{ songpathname }}.mp3"
+    - "{{ songpathname }}.ogg"
+
+- name: Download MP4, MP3 and Thumbnail.
+  yt_dlp_ansible:
+    url: "{{ song.url }}"
+    options:
+      format: 'mp4'
+      outtmpl: "{{song.uid}}.%(ext)s"
+      writethumbnail: True
+      keepvideo: True
+      paths: 
+        temp: "{{ singstar_tempdirectory.path }}/"
+        home: "{{ song_dict.songfolder }}/{{ song.uid }}/"
+      postprocessors:
+      - key: "FFmpegExtractAudio"
+        preferredcodec: "mp3"
+        preferredquality: "192"
+# FFMPEG MUSS INSTALLIERT SEIn
+#- name: Convert mp3 to ogg
+- name: Create MP4 without audio
+  shell:
+    cmd: "ffmpeg -y -i {{ songpathname }}.mp4 -vcodec copy -an {{ songpathname }}_noaudio.mp4"
+- name: Copy MP4 without Audio, to match orignal filename
+  copy:
+    src: "{{ songpathname }}_noaudio.mp4"
+    dest: "{{ songpathname }}.mp4"
+- name: Delete old MP4 without Audio file
+  file:
+    dest: "{{ songpathname }}_noaudio.mp4"
+    state: absent
+- name: Cut length of MP4
+  shell:  
+    cmd: "ffmpeg -y -ss {{ song.length.start }} -to {{ song.length.end }} -i {{ songpathname }}.mp4 -c copy {{ songpathname }}_cut.mp4"
+  when: song.length is defined
+
+- name: Copy MP4 cutted, to match orignal filename
+  copy:
+    src: "{{ songpathname }}_cut.mp4"
+    dest: "{{ songpathname }}.mp4"
+  when: song.length is defined 
+
+- name: Delete old MP4 without Audio file
+  file:
+    dest: "{{ songpathname }}_cut.mp4"
+    state: absent 
+
+- name: Convert Audiofile to OGG
+  shell:
+    cmd: "ffmpeg -y -i {{ songpathname }}.mp3 -c:a libvorbis -q:a 4 {{ songpathname }}.ogg"
+# WAS PASSIERT BEI LÄNGERER AUDIO FILE ALS VIDEO?
+- name: Remove original Audiofile
+  file:
+    path: "{{ songpathname }}.mp3"
+    state: absent
+
+- name: Create Audiofile Preview
+  shell:
+    cmd: "ffmpeg -y -t 30 -i {{ songpathname }}.ogg -acodec copy {{ songpathname }}_preview.ogg"
+- block: 
+  - name: Create Icon (normal)
+    shell:
+      cmd: "ffmpeg -y -i {{ songpathname }}.webp -vf scale=128:128 {{ songpathname }}.png"
+    when: song.customfiles.icon is not defined
+
+  - name: Create Backgrounds (normal)
+    shell:
+      cmd: "ffmpeg -y -i {{ songpathname }}.webp -vf scale=512:512 {{ songpathname }}{{ item }}.png"
+    when: song.customfiles.background is not defined
+    loop:
+      - "_Result"
+      - "_InGameLoading"
+  rescue:
+   - name: Create Icon (normal)
+     shell:
+      cmd: "ffmpeg -y -i {{ songpathname }}.jpg -vf scale=128:128 {{ songpathname }}.png"
+     when: song.customfiles.icon is not defined
+   - name: Create Backgrounds (normal)
+     shell:
+      cmd: "ffmpeg -y -i {{ songpathname }}.jpg -vf scale=512:512 {{ songpathname }}{{ item }}.png"
+     when: song.customfiles.background is not defined
+     loop:
+      - "_Result"
+      - "_InGameLoading"
+
+  
+
+
+
+

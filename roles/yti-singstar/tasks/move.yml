@@ -1,0 +1,11 @@
+- name: Move singstar files  into atmospherefolder folder
+  copy:
+    src: "{{ item['src'] }}"
+    dest: "{{ item['dest'] }}"
+  loop:
+    - src:  "{{song_dict['songfolder']}}/SongsDLC.tsv"
+      dest: "{{song_dict['atmospherefolder']}}/contents/{{song_dict['titleid']}}/romfs/Data/StreamingAssets/SongsDLC.tsv"
+    - src:  "{{song_dict['songfolder']}}/name.txt"
+      dest: "{{song_dict['atmospherefolder']}}/contents/{{song_dict['dlcid']}}/romfs/name.txt"
+
+      # covers_duet, covers_long, vxla_duet etc.

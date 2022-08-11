@@ -1,0 +1,25 @@
+- name: Load validation file
+  set_fact:
+    validationjson: "{{ lookup('ansible.builtin.file', '{{song_dict.songfolder}}/validation.json')}}"
+- set_fact:
+    singstar_url_changed: False
+- name: Validate Song
+  include_tasks: check_song.yml
+- name: Set complete path and song name
+  set_fact:
+    songpathname: "{{ song_dict.songfolder }}/{{ song.uid }}/{{ song.uid }}"
+
+- name: Download Mediafiles from Youtube..
+  include_tasks: media_download.yml
+  when: 
+   - singstar_url_changed or ({{song.id}} in {{singstar_force_url}}) or ({{song.id}} in {{singstar_force}})
+
+- name: Copy custom Mediafiles..
+  include_tasks: media_custom.yml
+#  when: song.customfiles.icon is defined or song.customfiles.background is defined
+
+- name: Create Song Meta Files
+  include_tasks: generate_song.yml
+
+- name: Move Song files into atmosphere folder
+  include_tasks: move_song.yml

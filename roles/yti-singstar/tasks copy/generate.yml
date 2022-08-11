@@ -1,0 +1,21 @@
+#- name: Generate SongsDLC.tsv
+#  template:
+#    src: SongsDLC.tsv.j2
+#    dest: "{{song_dict['atmospherefolder']}}/{{song_dict['titleid']/romfs/Data/StreamingAssets/SongsDLC.tsv}}"
+- include_tasks: generate_song_loop.yml
+  loop: "{{ lookup('list', song_dict['songs'], wantlist=False) }}"
+  loop_control:
+    loop_var: song
+- include_tasks: generate_vxla_song_loop.yml
+  loop: "{{ lookup('list', song_dict['songs'], wantlist=False) }}"
+  loop_control:
+    loop_var: song
+- name: Generate TSV
+  template:
+    src: SongsDLC.tsv.j2
+    dest: "{{song_dict['atmospherefolder']}}/contents/{{song_dict['titleid']}}/romfs/Data/StreamingAssets/SongsDLC.tsv"
+
+- name: Generate name.txt
+  template:
+    src: name.txt.j2
+    dest: "{{song_dict['atmospherefolder']}}/contents/{{song_dict['dlcid']}}/romfs/Songs/name.txt"

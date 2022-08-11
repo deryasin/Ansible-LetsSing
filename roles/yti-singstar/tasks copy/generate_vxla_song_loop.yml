@@ -1,0 +1,5 @@
+- debug:
+    msg: "{{ song_dict.songfolder }}/{{ song.uid }}/{{ song.uid }}.txt {{ song_dict.songfolder }}/{{ song.uid }}/{{ song.uid }}.vxla"
+- script: "scripts/ultrastar2letssing.py --input {{ song_dict.songfolder }}/{{ song.uid }}/{{ song.uid }}.txt --output {{ song_dict.songfolder }}/{{ song.uid }}/{{ song.uid }}.vxla"
+  args:
+    creates: "{{ song_dict.songfolder }}/{{ song.uid }}/{{ song.uid }}.vxla"

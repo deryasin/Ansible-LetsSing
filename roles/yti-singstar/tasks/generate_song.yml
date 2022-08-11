@@ -1,0 +1,24 @@
+- name: Generate XML
+  template:
+    src: song_meta.xml.j2
+    dest: "{{song_dict['songfolder']}}/{{song.uid}}/{{song.uid}}_meta.xml"
+    output_encoding: utf-8
+    trim_blocks: True
+- script: "scripts/ultrastar2letssing.py --input {{ song_dict.songfolder }}/{{ song.uid }}/{{ song.uid }}.txt --output {{ song_dict.songfolder }}/{{ song.uid }}/{{ song.uid }}.vxla {% if song.pitch is defined %} --pitch {{song.pitch|string}} {% endif %}"
+  args:
+    creates: "{{ song_dict.songfolder }}/{{ song.uid }}/{{ song.uid }}.vxla"
+     
+- name: Save current TXT hash
+  stat:
+    path: "{{song_dict.songfolder}}/{{song.uid}}/{{song.uid}}.txt"
+    checksum_algorithm: md5
+    get_checksum: true
+  register: singstar_txthash
+  when: singstar_url_changed or singstar_txt_changed
+- debug:
+    msg: "{{validationjson[song.id|string]}}"
+- name: Update Validationfile
+  template:
+    src: validation.json.j2
+    dest: "{{song_dict.validationfilefolder}}/validation.json"
+  when: singstar_url_changed or singstar_txt_changed

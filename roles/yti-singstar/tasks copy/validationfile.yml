@@ -1,0 +1,4 @@
+- include_tasks: validationfile_song_loop.yml
+  loop: "{{ lookup('list', song_dict['songs'], wantlist=False) }}"
+  loop_control:
+    loop_var: song

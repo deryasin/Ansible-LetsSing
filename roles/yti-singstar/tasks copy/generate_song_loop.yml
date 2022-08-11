@@ -1,0 +1,8 @@
+#- name: Generate SongsDLC.tsv
+#  template:
+#    src: SongsDLC.tsv.j2
+#    dest: "{{song_dict['atmospherefolder']}}/{{song_dict['titleid']/romfs/Data/StreamingAssets/SongsDLC.tsv}}"
+- name: Generate XML
+  template:
+    src: song_meta.xml.j2
+    dest: "{{song_dict['atmospherefolder']}}/contents/{{song_dict['dlcid']}}/romfs/Songs/{{ song.uid }}_meta.xml"

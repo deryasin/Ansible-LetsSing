@@ -1,0 +1,32 @@
+- name: Check if custom icon exists
+  stat:
+    path: "{{file}}"
+  register: custom_icon_result
+  vars:
+    file: "{{ songpathname }}_custom_icon.jpg"
+
+- name: Check if custom background exists
+  stat:
+    path: "{{file}}"
+  register: custom_background_result
+  vars:
+    file: "{{ songpathname }}_custom_background.jpg"
+
+- name: Create Icon (Custom)
+  shell:
+    cmd: "ffmpeg -y -i {{ songpathname }}_custom_icon.jpg -vf scale=128:128 {{ songpathname }}.png"
+  when: custom_icon_result.stat.exists
+
+- name: Create Backgrounds (Custom)
+  shell:
+    cmd: "ffmpeg -y -i {{ songpathname }}_custom_background.jpg -vf scale=512:512 {{ songpathname }}{{ item }}.png"
+  when: custom_background_result.stat.exists
+  loop:
+    - "_Result"
+    - "_InGameLoading"
+
+  
+
+
+
+

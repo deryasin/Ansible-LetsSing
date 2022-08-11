@@ -1,0 +1,1644 @@
+singstar_url_changed: false
+singstar_txt_changed: false
+singstar_force: []
+singstar_force_url: []
+singstar_force_txt: []
+singstar:
+  - titleid: 0100CC30149B8000
+    dlcid: 0100CC30149B900E
+    songfolder: /home/yasin/singstar/songs
+#    atmospherefolder: "/media/yasin/2E32-AB9F/atmosphere"
+    atmospherefolder: "/home/yasin/singstar/atmosphere"
+    validationfilefolder: "/home/yasin/singstar/songs/"
+    songs:
+      - name: Baka Mitai
+        enabled: True
+        uid: bakamitai
+        id: 999
+        artist: Shun Akiyama
+        release: 2005
+        ratio: "16:9"
+        difficulty: 4
+        line1: Baka Mitai
+        genre: Rock
+        url: "https://www.youtube.com/watch?v=g3jCAyPai2Y"
+        customfiles:
+          icon: /home/yasin/singstar/songs/bakamitai/bakamitai_custom.jpg
+        pop: True
+        rap:
+        ballad: True
+        love: True
+        sad: True
+        old: True
+        men: True
+        
+      - name: Rock Me Amadeus
+        enabled: True
+        uid: rockmeamadeus
+        id: 998
+        artist: Falco
+        release: 1985
+        ratio: "4:3"
+        difficulty: 3
+        line1: Rock Me Amadeus!
+        genre: Rock
+        url: "https://www.youtube.com/watch?v=fixvgrAHInw"
+        rap: True
+        ballad: True
+        rock: True
+        old: True
+        english: True
+        men: True
+
+      - name: Pokemon Theme
+        enabled: True
+        uid: pokemon
+        id: 997
+        artist: Pokemon
+        release: 1999
+        ratio: "4:3"
+        difficulty: 2
+        line1: Pokemon
+        genre: Rock
+        url: "https://www.youtube.com/watch?v=LUlZ5n0cyak"
+        pop: True
+        ballad: True
+        rock: True
+        happy: True
+        fiesta: True
+        2000: True
+        english: True
+        men: True
+
+      - name: Simarik
+        enabled: True
+        uid: kisskiss
+        id: 996
+        artist: Tarkan 
+        release: 1999
+        ratio: "4:3"
+        difficulty: 2
+        line1: Kiss Kiss
+        genre: Rock
+        url: "https://www.youtube.com/watch?v=cpp69ghR1IM"
+        pop: True
+        happy: True
+        fiesta: True
+        love: True
+        old: True
+        2000: True
+        men: True
+
+      - name: I Want It That Way
+        enabled: True
+        uid: iwantitthatway
+        id: 995
+        artist: Backstreet Boys 
+        release: 2012
+        ratio: "4:3"
+        difficulty: 2
+        line1: I Want It That Way
+        genre: Rock
+        url: "https://www.youtube.com/watch?v=4fndeDfaWCg"
+        pop: True
+        rap:
+        ballad: 
+        rock: True
+        happy: True
+        fiesta:
+        love: True
+        sad:
+        old: True
+        2000: True
+        recent:
+        women:
+        english: True
+        men: True
+
+      - name: Show Yourself 
+        enabled: True
+        uid: showyourself
+        id: 994
+        artist: Frozen 2
+        release: 2019
+        ratio: "16:9"
+        difficulty: 4
+        line1: Show Yourself
+        genre: Rock
+        url: "https://www.youtube.com/watch?v=md7dK5-qvHc"
+        pop: True
+        rap:
+        ballad: True
+        rock:
+        happy:
+        fiesta:
+        love:
+        sad: True
+        old:
+        2000:
+        recent: True
+        women: True
+        english: True
+        men:
+
+      - name: Call Me Maybe
+        enabled: False
+        uid: callmemaybe
+        id: 993
+        artist: Carly Rae Japsen
+        release: 2012
+        ratio: "16:9"
+        difficulty: 2
+        line1: Call Me Maybe
+        genre: Pop
+        url: "https://www.youtube.com/watch?v=fWNaR-rxAic"
+        pop: 
+        rap:
+        ballad:
+        rock:
+        happy:
+        fiesta:
+        love:
+        sad:
+        old:
+        2000:
+        recent:
+        women:
+        english:
+        men:
+
+      - name: Sei ein Mann
+        enabled: True
+        uid: seieinmann
+        id: 992
+        artist: Mulan
+        release: 1998
+        ratio: "4:3"
+        difficulty: 1
+        line1: Sei ein Mann
+        genre: Rock
+        url: "https://www.youtube.com/watch?v=F-2JXmL2ZMk"
+        pop: 
+        rap:
+        ballad:
+        rock:
+        happy:
+        fiesta:
+        love:
+        sad:
+        old:
+        2000:
+        recent:
+        women:
+        english:
+        men:
+
+      - name: Mit aller Kraft
+        enabled: True
+        uid: mitallerkraft
+        id: 991
+        artist: Detektiv Conan
+        release: 2003
+        ratio: "16:9"
+        difficulty: 2
+        line1: Mit aller Kraft
+        genre: Rock
+        url: "https://www.youtube.com/watch?v=4ekiyjeLk0k"
+        pop: 
+        rap:
+        ballad:
+        rock:
+        happy:
+        fiesta:
+        love:
+        sad:
+        old:
+        2000:
+        recent:
+        women:
+        english:
+        men:
+
+      - name: Die Reise beginnt
+        enabled: True
+        uid: diereisebeginnt
+        id: 990
+        artist: One Piece 
+        release: 2007
+        ratio: "4:3"
+        difficulty: 2
+        line1: Die Reise beginnt
+        genre: Rock
+        url: "https://www.youtube.com/watch?v=f4xz_4Hrj6I"
+        pop: 
+        rap:
+        ballad:
+        rock:
+        happy:
+        fiesta:
+        love:
+        sad:
+        old:
+        2000:
+        recent:
+        women:
+        english:
+        men:
+
+      - name: Dschinghis Khan
+        enabled: True
+        uid: dschinghiskhan
+        id: 989
+        artist: Dschinghis Khan
+        release: 1979
+        ratio: "16:9"
+        difficulty: 4
+        line1: Dschinghis Khan
+        genre: Rock
+        url: "https://www.youtube.com/watch?v=i0xOSxgs6w8"
+        pop: 
+        rap:
+        ballad:
+        rock:
+        happy:
+        fiesta:
+        love:
+        sad:
+        old:
+        2000:
+        recent:
+        women:
+        english:
+        men:
+
+      - name: Stay with me
+        enabled: True
+        uid: staywithme
+        id: 988
+        artist: Miki Matsubara
+        release: 1979
+        ratio: "4:3"
+        difficulty: 4
+        line1: Stay with me
+        genre: Rock
+        url: "https://www.youtube.com/watch?v=M0qMgoChzGI"
+        pop: 
+        rap:
+        ballad:
+        rock:
+        happy:
+        fiesta:
+        love:
+        sad:
+        old:
+        2000:
+        recent:
+        women:
+        english:
+        men:
+
+      - name: DOTA
+        enabled: True
+        uid: dota
+        id: 987
+        artist: Basshunter
+        release: 2006
+        ratio: "16:9"
+        difficulty: 1
+        line1: DOTA
+        genre: Rock
+        url: "https://www.youtube.com/watch?v=aTJncWndUB8"
+        pop: 
+        rap:
+        ballad:
+        rock:
+        happy:
+        fiesta:
+        love:
+        sad:
+        old:
+        2000:
+        recent:
+        women:
+        english:
+        men:
+
+      - name: I'm Going Slightly Mad
+        enabled: True
+        uid: slightlymad
+        id: 986
+        artist: Queen
+        release: 1990
+        ratio: "4:3"
+        difficulty: 4
+        line1: I'm Going Slightly Mad
+        genre: Rock
+        url: "https://www.youtube.com/watch?v=Od6hY_50Dh0"
+        pop: 
+        rap:
+        ballad:
+        rock:
+        happy:
+        fiesta:
+        love:
+        sad:
+        old:
+        2000:
+        recent:
+        women:
+        english:
+        men:
+
+      - name: Wiener Blut
+        enabled: True
+        uid: wienerblut
+        id: 985
+        artist: Falco
+        release: 1988
+        ratio: "4:3"
+        difficulty: 2
+        line1: Wiener Blut
+        genre: Rock
+        url: "https://www.youtube.com/watch?v=OMrwcix41sY"
+        pop: 
+        rap:
+        ballad:
+        rock:
+        happy:
+        fiesta:
+        love:
+        sad:
+        old:
+        2000:
+        recent:
+        women:
+        english:
+        men:
+
+      - name: Mein Geheimnis
+        enabled: True
+        uid: meingeheimnis
+        id: 984
+        artist: Detektiv Conan
+        release: 2004
+        ratio: "4:3"
+        difficulty: 2
+        line1: Mein Geheimnis
+        genre: Rock
+        url: "https://www.youtube.com/watch?v=HDktPH9Evi4"
+        pop: 
+        rap:
+        ballad:
+        rock:
+        happy:
+        fiesta:
+        love:
+        sad:
+        old:
+        2000:
+        recent:
+        women:
+        english:
+        men:
+
+      - name: Leb deinen Traum
+        enabled: True
+        uid: lebdeinentraum
+        id: 983
+        artist: Digimon
+        release: 2000
+        ratio: "4:3"
+        difficulty: 2
+        line1: Leb deinen Traum
+        genre: Rock
+        url: "https://www.youtube.com/watch?v=0pUIblcKmeA" # NOCHMAL PRÜFEN"
+        pop: 
+        rap:
+        ballad:
+        rock:
+        happy:
+        fiesta:
+        love:
+        sad:
+        old:
+        2000:
+        recent:
+        women:
+        english:
+        men:
+
+      - name: Blue Bird
+        enabled: True
+        uid: bluebird
+        id: 982
+        artist: Naruto
+        release: 2008
+        ratio: "16:9"
+        difficulty: 3
+        line1: Blue Bird
+        genre: Rock
+        url: "https://www.youtube.com/watch?v=KpsJWFuVTdI"
+        pop: 
+        rap:
+        ballad:
+        rock:
+        happy:
+        fiesta:
+        love:
+        sad:
+        old:
+        2000:
+        recent:
+        women:
+        english:
+        men:
+
+      - name: 24 Hour Cinderella
+        enabled: True
+        uid: cinderella24
+        id: 981
+        artist: Goro Majima
+        release: 2015
+        ratio: "16:9"
+        difficulty: 3
+        line1: 24 Hour Cinderella
+        genre: Rock
+        url: "https://www.youtube.com/watch?v=Yhe7rcDUTeI"
+        pop: 
+        rap:
+        ballad:
+        rock:
+        happy:
+        fiesta:
+        love:
+        sad:
+        old:
+        2000:
+        recent:
+        women:
+        english:
+        men:
+
+      - name: Unten im Meer
+        enabled: True
+        uid: untenimmeer
+        id: 980
+        artist: Arielle
+        release: 1998
+        ratio: "16:9"
+        difficulty: 1
+        line1: Unten im Meer
+        genre: Rock
+        url: "https://www.youtube.com/watch?v=LZDn_yG2wJo" # PRÜFEN
+        pop: 
+        rap:
+        ballad:
+        rock:
+        happy:
+        fiesta:
+        love:
+        sad:
+        old:
+        2000:
+        recent:
+        women:
+        english:
+        men:
+
+      - name: Go
+        enabled: True
+        uid: go
+        id: 979
+        artist: Flow
+        release: 2004
+        ratio: "16:9"
+        difficulty: 2
+        line1: Go
+        genre: Rock
+        url: "https://www.youtube.com/watch?v=xjBTNbEXbAA"
+        length:
+          start: "00:00:00"
+          end: "00:01:31"
+        pop: 
+        rap:
+        ballad:
+        rock:
+        happy:
+        fiesta:
+        love:
+        sad:
+        old:
+        2000:
+        recent:
+        women:
+        english:
+        men:
+
+      - name: Colors
+        enabled: True
+        uid: colors 
+        id: 978
+        artist: Flow
+        release: 2007
+        ratio: "16:9"
+        difficulty: 2
+        line1: Colors
+        genre: Rock
+        url: "https://www.youtube.com/watch?v=FUH9S44D1BM"
+        length: 
+          start: "00:00:00"
+          end: "00:01:31"
+        pop: 
+        rap:
+        ballad:
+        rock:
+        happy:
+        fiesta:
+        love:
+        sad:
+        old:
+        2000:
+        recent:
+        women:
+        english:
+        men:
+
+      - name: Hit the Road Jack
+        enabled: True
+        uid: hittheroad
+        id: 977
+        artist: Ray Charles
+        release: 1969
+        ratio: "4:3"
+        difficulty: 2
+        line1: Hit the Road Jack
+        genre: Rock
+        url: "https://www.youtube.com/watch?v=uFpSMRIx6PM"
+        pop: 
+        rap:
+        ballad:
+        rock:
+        happy:
+        fiesta:
+        love:
+        sad:
+        old:
+        2000:
+        recent:
+        women:
+        english:
+        men:
+
+      - name: Shinzou Wo Sasageyo
+        enabled: True
+        uid: sasageo
+        id: 976
+        artist: Attack on Titan
+        release: 2004
+        ratio: "16:9"
+        difficulty: 3
+        line1: Shinzou Wo Sasageyo
+        genre: Rock
+        url: "https://www.youtube.com/watch?v=0iuV94Cz1uY"
+        pop: 
+        rap:
+        ballad:
+        rock:
+        happy:
+        fiesta:
+        love:
+        sad:
+        old:
+        2000:
+        recent:
+        women:
+        english:
+        men:
+
+      - name: History Maker
+        enabled: True
+        uid: historymaker
+        id: 975
+        artist: Yuri on ICE
+        release: 2016
+        ratio: "16:9"
+        difficulty: 4
+        line1: History Maker
+        genre: Rock
+        url: "https://www.youtube.com/watch?v=5u3RGhznctE"
+        pop: 
+        rap:
+        ballad:
+        rock:
+        happy:
+        fiesta:
+        love:
+        sad:
+        old:
+        2000:
+        recent:
+        women:
+        english:
+        men:
+#      - name: Sag das Zauberwort
+#        enabled: True
+#        uid: sailormoon
+ #       id:  974
+#        artist: Sailor Moon
+#        release: 
+#        ratio: "16:9"
+#        difficulty: 3
+#        line1: Sag das Zauberwort
+#        genre: Rock
+#        url:      
+      - name: Sag das Zauberwort
+        enabled: True
+        uid: sailormoon
+        id:  973
+        artist: Sailor Moon
+        release: 1997
+        ratio: "4:3"
+        difficulty: 3
+        line1: Sag das Zauberwort
+        genre: Rock
+        url: "https://www.youtube.com/watch?v=dn7Nv1sn6LQ"
+        pop: 
+        rap:
+        ballad:
+        rock:
+        happy:
+        fiesta:
+        love:
+        sad:
+        old:
+        2000:
+        recent:
+        women:
+        english:
+        men:      
+      - name: Revenge
+        enabled: True
+        uid: minecraftrevenge
+        id: 972
+        artist: CaptainSparklez
+        release: 2011
+        ratio: "16:9"
+        difficulty: 3
+        line1: Revenge
+        genre: Rock
+        url: https://www.youtube.com/watch?v=cPJUBQd-PNM 
+      - name: The Day
+        enabled: True
+        uid: theday
+        id: 971
+        artist: Porno Graffitti
+        release: 2016
+        ratio: "16:9"
+        difficulty: 3
+        line1: Hotaru no Hikari
+        genre: Rock
+        url: "https://www.youtube.com/watch?v=yu0HjPzFYnY"
+        pop: 
+        rap:
+        ballad:
+        rock:
+        happy:
+        fiesta:
+        love:
+        sad:
+        old:
+        2000:
+        recent:
+        women:
+        english:
+        men:
+        length:
+          start: "00:00:00"
+          end: "00:04:00"
+
+      - name: Hotaru no Hikari
+        enabled: True
+        uid: hotarunohiraki
+        id: 970
+        artist: Naruto
+        release: 2009
+        ratio: "16:9"
+        difficulty: 3
+        line1: Hotaru no Hikari
+        genre: Rock
+        url: "https://www.youtube.com/watch?v=H3aqR_n3sM4"
+        length:
+          start: "00:00:00"
+          end: "00:01:29"
+        pop: 
+        rap:
+        ballad:
+        rock:
+        happy:
+        fiesta:
+        love:
+        sad:
+        old:
+        2000:
+        recent:
+        women:
+        english:
+        men:
+
+      - name: Die Legende
+        enabled: True
+        uid: dielegende
+        id: 969
+        artist: One Piece
+        release: 2003
+        ratio: "16:9"
+        difficulty: 1
+        line1: Die Legende
+        genre: Rock
+        url: "https://www.youtube.com/watch?v=A1Xw31qQRGo"
+        pop: 
+        rap:
+        ballad:
+        rock:
+        happy:
+        fiesta:
+        love:
+        sad:
+        old:
+        2000:
+        recent:
+        women:
+        english:
+        men:
+
+      - name: Unravel
+        enabled: True
+        uid: unravel
+        id: 968
+        artist: Tokyo Ghoul
+        release: 2014
+        ratio: "16:9"
+        difficulty: 3
+        line1: Unravel
+        genre: Rock
+        url: "https://www.youtube.com/watch?v=uMeR2W19wT0"             
+        pop: 
+        rap:
+        ballad:
+        rock:
+        happy:
+        fiesta:
+        love:
+        sad:
+        old:
+        2000:
+        recent:
+        women:
+        english:
+        men:
+# neu
+      - name: Hikaru Nara (TV)
+        enabled: True
+        uid: hikarunara
+        id: 967
+        artist: Goose House 
+        release:  2014
+        ratio: "16:9"
+        difficulty: 3
+        line1: Hikaru Nara (TV)
+        genre: Pop
+        url: https://www.youtube.com/watch?v=kVQEhXO9csI
+        pop: True
+        rap:
+        ballad: True
+        rock:
+        happy: True
+        fiesta:
+        love: True
+        sad:
+        old:
+        2000:
+        recent: True
+        women: True
+        english: True
+        men: True
+
+      - name: How Far I'll Go 
+        enabled: True
+        uid: moana
+        id: 966
+        artist: Disney
+        release: 2016
+        ratio: "16:9"
+        difficulty: 4
+        line1: How Far I'll Go 
+        genre: Pop
+        url: https://youtu.be/cPAbx5kgCJo       
+        pop: True
+        rap:
+        ballad: True
+        rock:
+        happy: True
+        fiesta:
+        love:
+        sad: True
+        old:
+        2000:
+        recent: True
+        women: True
+        english: True
+        men:
+
+      - name: You're Welcome
+        enabled: True
+        uid: yourewelcome
+        id: 965
+        artist: Disney
+        release: 2016
+        ratio: "16:9"
+        difficulty: 2
+        line1: You're Welcome
+        genre: Pop
+        url: https://www.youtube.com/watch?v=79DijItQXMM  
+        pop: True
+        rap:
+        ballad: True
+        rock:
+        happy: True
+        fiesta:
+        love:
+        sad:
+        old:
+        2000:
+        recent: True
+        women: 
+        english: True
+        men: True
+
+      - name: Komm, sueßer Tod
+        enabled: True
+        uid: kommsuessertod
+        id: 964
+        artist: Evangelion
+        release: 1997
+        ratio: "16:9"
+        difficulty: 4
+        line1: Komm, sueßer Tod
+        genre: Pop
+        url: https://www.youtube.com/watch?v=086uhG3Rf3U       
+        pop: True
+        rap:
+        ballad: True
+        rock:
+        happy:
+        fiesta:
+        love: True
+        sad: True
+        old: True
+        2000: True
+        recent:
+        women: True
+        english: True
+        men:
+
+      # - name: We are Number One
+      #   enabled: True
+      #   uid: numberone
+      #   id: 963
+      #   artist: Lazy Town
+      #   release: 2014
+      #   ratio: "16:9"
+      #   difficulty: 3
+      #   line1: We are Number One
+      #   genre: Pop
+      #   url: https://www.youtube.com/watch?v=PfYnvDL0Qcw      
+      #   pop: True
+      #   rap:
+      #   ballad: 
+      #   rock:
+      #   happy: True
+      #   fiesta: True
+      #   love:
+      #   sad:
+      #   old:
+      #   2000:
+      #   recent:
+      #   women:
+      #   english: True
+      #   men: True
+
+      - name: Flyers
+        enabled: True
+        uid: flyers
+        id: 962
+        artist: BRADIO 
+        release: 2015
+        ratio: "16:9"
+        difficulty: 4
+        line1: Flyers
+        genre: Rock
+        url: https://www.youtube.com/watch?v=UjjTMNDZi-A     
+        pop: True
+        rap: True
+        ballad: True
+        rock: True
+        happy: True
+        fiesta: True
+        love:
+        sad:
+        old:
+        2000:
+        recent: True
+        women:
+        english: True
+        men: True
+
+      - name: Fliegt Durch Die Zeit
+        enabled: True
+        uid: fliegtdurchdiezeit
+        id: 961
+        artist: Inu Yasha
+        release: 2000
+        ratio: "16:9"
+        difficulty: 3
+        line1: Fliegt Durch Die Zeit
+        genre: Rock
+        url: https://youtu.be/pobNph9hdZc     
+        pop: True
+        rap:
+        ballad: True
+        rock:
+        happy: True
+        fiesta:
+        love: True
+        sad:
+        old: True
+        2000: True
+        recent:
+        women: True
+        english: True
+        men:
+
+      - name: Du wirst unbesiegbar sein
+        enabled: True
+        uid: duwirstunbesiegbarsein
+        id: 960
+        artist: Dragonball Z
+        release: 1990
+        ratio: "16:9"
+        difficulty: 2
+        line1: Du wirst unbesiegbar sein
+        genre: Rock
+        url: https://youtu.be/EO090Z7Cjqc      
+        pop: True
+        rap: True
+        ballad: True
+        rock:
+        happy: True
+        fiesta: True
+        love:
+        sad:
+        old: True
+        2000: True
+        recent:
+        women:
+        english: True
+        men: True
+
+      - name: Wir werden siegen 
+        enabled: True
+        uid: wirwerdensiegen
+        id: 959
+        artist: Digimon
+        release: 2000
+        ratio: "4:3"
+        difficulty: 2
+        line1: Wir werden siegen 
+        genre: Rock
+        url: https://youtu.be/ksOw-xlMt_s       
+        pop: True
+        rap:
+        ballad:
+        rock:
+        happy: True
+        fiesta: True
+        love:
+        sad:
+        old: True
+        2000: True
+        recent:
+        women:
+        english: True
+        men: True
+
+      - name: Wir drehen auf
+        enabled: True
+        uid: wirdrehenauf
+        id: 958
+        artist: Digimon 
+        release: 2000
+        ratio: "4:3"
+        difficulty: 2
+        line1: Wir drehen auf
+        genre: Rock
+        url: https://www.youtube.com/watch?v=a6fMTu-0NoU      
+        pop: True
+        rap:
+        ballad: True
+        rock:
+        happy: True
+        fiesta: True
+        love:
+        sad:
+        old: True
+        2000: True
+        recent:
+        women:
+        english: True
+        men: T
+
+      # - name: 
+      #   enabled: True
+      #   uid: 
+      #   id: 967
+      #   artist: 
+      #   release: 
+      #   ratio: "16:9"
+      #   difficulty: 3
+      #   line1: 
+      #   genre: Rock
+      #   url:       
+      #   pop: 
+      #   rap:
+      #   ballad:
+      #   rock:
+      #   happy:
+      #   fiesta:
+      #   love:
+      #   sad:
+      #   old:
+      #   2000:
+      #   recent:
+      #   women:
+      #   english:
+      #   men:
+
+      # - name: 
+      #   enabled: True
+      #   uid: 
+      #   id: 967
+      #   artist: 
+      #   release: 
+      #   ratio: "16:9"
+      #   difficulty: 3
+      #   line1: 
+      #   genre: Rock
+      #   url:       
+      #   pop: 
+      #   rap:
+      #   ballad:
+      #   rock:
+      #   happy:
+      #   fiesta:
+      #   love:
+      #   sad:
+      #   old:
+      #   2000:
+      #   recent:
+      #   women:
+      #   english:
+      #   men:
+
+      # - name: 
+      #   enabled: True
+      #   uid: 
+      #   id: 967
+      #   artist: 
+      #   release: 
+      #   ratio: "16:9"
+      #   difficulty: 3
+      #   line1: 
+      #   genre: Rock
+      #   url:       
+      #   pop: 
+      #   rap:
+      #   ballad:
+      #   rock:
+      #   happy:
+      #   fiesta:
+      #   love:
+      #   sad:
+      #   old:
+      #   2000:
+      #   recent:
+      #   women:
+      #   english:
+      #   men:
+
+      # - name: 
+      #   enabled: True
+      #   uid: 
+      #   id: 967
+      #   artist: 
+      #   release: 
+      #   ratio: "16:9"
+      #   difficulty: 3
+      #   line1: 
+      #   genre: Rock
+      #   url:       
+      #   pop: 
+      #   rap:
+      #   ballad:
+      #   rock:
+      #   happy:
+      #   fiesta:
+      #   love:
+      #   sad:
+      #   old:
+      #   2000:
+      #   recent:
+      #   women:
+      #   english:
+      #   men:
+
+      # - name: 
+      #   enabled: True
+      #   uid: 
+      #   id: 967
+      #   artist: 
+      #   release: 
+      #   ratio: "16:9"
+      #   difficulty: 3
+      #   line1: 
+      #   genre: Rock
+      #   url:       
+      #   pop: 
+      #   rap:
+      #   ballad:
+      #   rock:
+      #   happy:
+      #   fiesta:
+      #   love:
+      #   sad:
+      #   old:
+      #   2000:
+      #   recent:
+      #   women:
+      #   english:
+      #   men:
+
+      # - name: 
+      #   enabled: True
+      #   uid: 
+      #   id: 967
+      #   artist: 
+      #   release: 
+      #   ratio: "16:9"
+      #   difficulty: 3
+      #   line1: 
+      #   genre: Rock
+      #   url:       
+      #   pop: 
+      #   rap:
+      #   ballad:
+      #   rock:
+      #   happy:
+      #   fiesta:
+      #   love:
+      #   sad:
+      #   old:
+      #   2000:
+      #   recent:
+      #   women:
+      #   english:
+      #   men:
+
+      # - name: 
+      #   enabled: True
+      #   uid: 
+      #   id: 967
+      #   artist: 
+      #   release: 
+      #   ratio: "16:9"
+      #   difficulty: 3
+      #   line1: 
+      #   genre: Rock
+      #   url:       
+      #   pop: 
+      #   rap:
+      #   ballad:
+      #   rock:
+      #   happy:
+      #   fiesta:
+      #   love:
+      #   sad:
+      #   old:
+      #   2000:
+      #   recent:
+      #   women:
+      #   english:
+      #   men:
+
+      # - name: 
+      #   enabled: True
+      #   uid: 
+      #   id: 967
+      #   artist: 
+      #   release: 
+      #   ratio: "16:9"
+      #   difficulty: 3
+      #   line1: 
+      #   genre: Rock
+      #   url:       
+      #   pop: 
+      #   rap:
+      #   ballad:
+      #   rock:
+      #   happy:
+      #   fiesta:
+      #   love:
+      #   sad:
+      #   old:
+      #   2000:
+      #   recent:
+      #   women:
+      #   english:
+      #   men:
+
+      # - name: 
+      #   enabled: True
+      #   uid: 
+      #   id: 967
+      #   artist: 
+      #   release: 
+      #   ratio: "16:9"
+      #   difficulty: 3
+      #   line1: 
+      #   genre: Rock
+      #   url:       
+      #   pop: 
+      #   rap:
+      #   ballad:
+      #   rock:
+      #   happy:
+      #   fiesta:
+      #   love:
+      #   sad:
+      #   old:
+      #   2000:
+      #   recent:
+      #   women:
+      #   english:
+      #   men:
+
+      # - name: 
+      #   enabled: True
+      #   uid: 
+      #   id: 967
+      #   artist: 
+      #   release: 
+      #   ratio: "16:9"
+      #   difficulty: 3
+      #   line1: 
+      #   genre: Rock
+      #   url:       
+      #   pop: 
+      #   rap:
+      #   ballad:
+      #   rock:
+      #   happy:
+      #   fiesta:
+      #   love:
+      #   sad:
+      #   old:
+      #   2000:
+      #   recent:
+      #   women:
+      #   english:
+      #   men:
+
+      # - name: 
+      #   enabled: True
+      #   uid: 
+      #   id: 967
+      #   artist: 
+      #   release: 
+      #   ratio: "16:9"
+      #   difficulty: 3
+      #   line1: 
+      #   genre: Rock
+      #   url:       
+      #   pop: 
+      #   rap:
+      #   ballad:
+      #   rock:
+      #   happy:
+      #   fiesta:
+      #   love:
+      #   sad:
+      #   old:
+      #   2000:
+      #   recent:
+      #   women:
+      #   english:
+      #   men:
+
+      # - name: 
+      #   enabled: True
+      #   uid: 
+      #   id: 967
+      #   artist: 
+      #   release: 
+      #   ratio: "16:9"
+      #   difficulty: 3
+      #   line1: 
+      #   genre: Rock
+      #   url:       
+      #   pop: 
+      #   rap:
+      #   ballad:
+      #   rock:
+      #   happy:
+      #   fiesta:
+      #   love:
+      #   sad:
+      #   old:
+      #   2000:
+      #   recent:
+      #   women:
+      #   english:
+      #   men:
+
+      # - name: 
+      #   enabled: True
+      #   uid: 
+      #   id: 967
+      #   artist: 
+      #   release: 
+      #   ratio: "16:9"
+      #   difficulty: 3
+      #   line1: 
+      #   genre: Rock
+      #   url:       
+      #   pop: 
+      #   rap:
+      #   ballad:
+      #   rock:
+      #   happy:
+      #   fiesta:
+      #   love:
+      #   sad:
+      #   old:
+      #   2000:
+      #   recent:
+      #   women:
+      #   english:
+      #   men:
+
+      # - name: 
+      #   enabled: True
+      #   uid: 
+      #   id: 967
+      #   artist: 
+      #   release: 
+      #   ratio: "16:9"
+      #   difficulty: 3
+      #   line1: 
+      #   genre: Rock
+      #   url:       
+      #   pop: 
+      #   rap:
+      #   ballad:
+      #   rock:
+      #   happy:
+      #   fiesta:
+      #   love:
+      #   sad:
+      #   old:
+      #   2000:
+      #   recent:
+      #   women:
+      #   english:
+      #   men:
+
+      # - name: 
+      #   enabled: True
+      #   uid: 
+      #   id: 967
+      #   artist: 
+      #   release: 
+      #   ratio: "16:9"
+      #   difficulty: 3
+      #   line1: 
+      #   genre: Rock
+      #   url:       
+      #   pop: 
+      #   rap:
+      #   ballad:
+      #   rock:
+      #   happy:
+      #   fiesta:
+      #   love:
+      #   sad:
+      #   old:
+      #   2000:
+      #   recent:
+      #   women:
+      #   english:
+      #   men:
+
+      # - name: 
+      #   enabled: True
+      #   uid: 
+      #   id: 967
+      #   artist: 
+      #   release: 
+      #   ratio: "16:9"
+      #   difficulty: 3
+      #   line1: 
+      #   genre: Rock
+      #   url:       
+      #   pop: 
+      #   rap:
+      #   ballad:
+      #   rock:
+      #   happy:
+      #   fiesta:
+      #   love:
+      #   sad:
+      #   old:
+      #   2000:
+      #   recent:
+      #   women:
+      #   english:
+      #   men:
+
+      # - name: 
+      #   enabled: True
+      #   uid: 
+      #   id: 967
+      #   artist: 
+      #   release: 
+      #   ratio: "16:9"
+      #   difficulty: 3
+      #   line1: 
+      #   genre: Rock
+      #   url:       
+      #   pop: 
+      #   rap:
+      #   ballad:
+      #   rock:
+      #   happy:
+      #   fiesta:
+      #   love:
+      #   sad:
+      #   old:
+      #   2000:
+      #   recent:
+      #   women:
+      #   english:
+      #   men:
+
+      # - name: 
+      #   enabled: True
+      #   uid: 
+      #   id: 967
+      #   artist: 
+      #   release: 
+      #   ratio: "16:9"
+      #   difficulty: 3
+      #   line1: 
+      #   genre: Rock
+      #   url:       
+      #   pop: 
+      #   rap:
+      #   ballad:
+      #   rock:
+      #   happy:
+      #   fiesta:
+      #   love:
+      #   sad:
+      #   old:
+      #   2000:
+      #   recent:
+      #   women:
+      #   english:
+      #   men:
+
+      # - name: 
+      #   enabled: True
+      #   uid: 
+      #   id: 967
+      #   artist: 
+      #   release: 
+      #   ratio: "16:9"
+      #   difficulty: 3
+      #   line1: 
+      #   genre: Rock
+      #   url:       
+      #   pop: 
+      #   rap:
+      #   ballad:
+      #   rock:
+      #   happy:
+      #   fiesta:
+      #   love:
+      #   sad:
+      #   old:
+      #   2000:
+      #   recent:
+      #   women:
+      #   english:
+      #   men:
+
+      # - name: 
+      #   enabled: True
+      #   uid: 
+      #   id: 967
+      #   artist: 
+      #   release: 
+      #   ratio: "16:9"
+      #   difficulty: 3
+      #   line1: 
+      #   genre: Rock
+      #   url:       
+      #   pop: 
+      #   rap:
+      #   ballad:
+      #   rock:
+      #   happy:
+      #   fiesta:
+      #   love:
+      #   sad:
+      #   old:
+      #   2000:
+      #   recent:
+      #   women:
+      #   english:
+      #   men:
+
+      # - name: 
+      #   enabled: True
+      #   uid: 
+      #   id: 967
+      #   artist: 
+      #   release: 
+      #   ratio: "16:9"
+      #   difficulty: 3
+      #   line1: 
+      #   genre: Rock
+      #   url:       
+      #   pop: 
+      #   rap:
+      #   ballad:
+      #   rock:
+      #   happy:
+      #   fiesta:
+      #   love:
+      #   sad:
+      #   old:
+      #   2000:
+      #   recent:
+      #   women:
+      #   english:
+      #   men:
+
+
+
+    
+#      - name: "Bohemian Rhapsody"
+#        enabled: True
+#        uid: "bohemianrhapsody"
+#        id: 999
+#        url: https://www.youtube.com/watch?v=axAtWjn3MfI
+#        gap: 1000
+#        genre: rock
+#        artist: Queen
+#        release: 2002
+#        difficulty: 2,4
+#        pitch: +10
+#        lineone: test
+#        linetwo: test2
+#        ratio: "16:9"
+#        customfiles:
+#          icon: /root/songs/custom/queen.jpg
+          #background: PATH # InGameLoading und Result
+#      - name: "Another One Bites The Dust"
+#        enabled: True
+#        uid: "anotheronebitesthedust" # automatisch generieren lassen
+#        id: 998
+#        url: https://www.youtube.com/watch?v=rY0WxgSXdEE
+#        gap: 1000
+#        genre: rock
+#        artist: Queen
+#        release: 2002
+#        difficulty: 2,4
+#        pitch: +10
+#        lineone: test
+#        linetwo: test2
+#        ratio: "16:9"
+
+
+# Mehrere title
+# Überprüfen ob ID doppelt oder in Vergangenheit schon benutzt
+# Generiere speicherdatei wo drin steht "Letzte ID " und "Aktuell verwendete Youtube URL" und dann abfrage ob das richtig ist oder einfach überschreiben

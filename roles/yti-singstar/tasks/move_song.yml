@@ -1,0 +1,23 @@
+- name: Move Song files into atmosphere folder
+  copy:
+    src: "{{ item['src'] }}"
+    dest: "{{ item['dest'] }}"
+  loop:
+    - src:  "{{song_dict['songfolder']}}/{{song.uid}}/{{song.uid}}.ogg"
+      dest: "{{song_dict['atmospherefolder']}}/contents/{{song_dict['dlcid']}}/romfs/Songs/audio/{{song.uid}}.ogg"
+    - src:  "{{song_dict['songfolder']}}/{{song.uid}}/{{song.uid}}_preview.ogg"
+      dest: "{{song_dict['atmospherefolder']}}/contents/{{song_dict['dlcid']}}/romfs/Songs/audio_preview/{{song.uid}}_preview.ogg"
+    - src:  "{{song_dict['songfolder']}}/{{song.uid}}/{{song.uid}}_InGameLoading.png"
+      dest: "{{song_dict['atmospherefolder']}}/contents/{{song_dict['dlcid']}}/romfs/Songs/backgrounds/InGameLoading/{{song.uid}}_InGameLoading.png"
+    - src:  "{{song_dict['songfolder']}}/{{song.uid}}/{{song.uid}}_Result.png"
+      dest: "{{song_dict['atmospherefolder']}}/contents/{{song_dict['dlcid']}}/romfs/Songs/backgrounds/Result/{{song.uid}}_Result.png"
+    - src:  "{{song_dict['songfolder']}}/{{song.uid}}/{{song.uid}}.png"
+      dest: "{{song_dict['atmospherefolder']}}/contents/{{song_dict['dlcid']}}/romfs/Songs/covers/{{song.uid}}.png"
+    - src:  "{{song_dict['songfolder']}}/{{song.uid}}/{{song.uid}}.mp4"
+      dest: "{{song_dict['atmospherefolder']}}/contents/{{song_dict['dlcid']}}/romfs/Songs/videos/{{song.uid}}.mp4"
+    - src:  "{{song_dict['songfolder']}}/{{song.uid}}/{{song.uid}}.vxla"
+      dest: "{{song_dict['atmospherefolder']}}/contents/{{song_dict['dlcid']}}/romfs/Songs/vxla/{{song.uid}}.vxla"
+    - src: "{{song_dict['songfolder']}}/{{song.uid}}/{{song.uid}}_meta.xml"
+      dest: "{{song_dict['atmospherefolder']}}/contents/{{song_dict['dlcid']}}/romfs/{{ song.uid }}_meta.xml"
+
+      # covers_duet, covers_long, vxla_duet etc.

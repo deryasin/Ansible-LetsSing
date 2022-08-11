@@ -1,0 +1,43 @@
+- name: Check if all role variables are defined
+  assert:
+    that:
+      - singstar is defined
+      - singstar is not mapping
+      - singstar is iterable
+      - singstar is not string
+    quiet: true
+
+- name: Collect all songs..
+  set_fact:
+    songlist: "{{songlist|default([]) + [song_dict.1.uid] }}"
+  no_log: true
+  loop: "{{ lookup('list', singstar, wantlist=False)|subelements('songs') }}"
+  loop_control:
+    loop_var: song_dict
+
+- name: Validate Data
+  include_tasks: check_song_loop.yml
+  loop: "{{ lookup('list', song_dict['songs'], wantlist=False) }}"
+  loop_control:
+    loop_var: song
+
+- name: Download Video..
+  include_tasks: download.yml
+  when: 
+   - singstar_url_changed or ({{song.id}} in {{singstar_force_url}}) or ({{song.id}} in {{singstar_force}}) 
+  loop: "{{ lookup('list', song_dict['songs'], wantlist=False) }}"
+  loop_control:
+    loop_var: song
+
+- name: Update Validationfile
+  include_tasks: validationfile_song_loop.yml
+  when: singstar_url_changed or singstar_txt_changed
+  loop: "{{ lookup('list', song_dict['songs'], wantlist=False) }}"
+  loop_control:
+    loop_var: song
+
+- name: Create Meta Files
+  include_tasks: generate_song_song_loop.yml
+  loop: "{{ lookup('list', singstar, wantlist=False) }}"
+  loop_control:
+    loop_var: song_dict

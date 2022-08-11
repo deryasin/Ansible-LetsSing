@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DLCSong xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Genre>{{song.genre}}</Genre>
+  <Id>{{song.uid}}</Id>
+  <Uid>{{song.id}}</Uid>
+  <Artist>{{song.artist}}</Artist>
+  <Title>{{song.name}}</Title>
+  <Year>{{song.release}}</Year>
+  <Ratio>Ratio_{{song.ratio|replace(":", "_")}}</Ratio>
+  <Difficulty>Difficulty{{song.difficulty}}</Difficulty>
+  <Feat />
+  <Line1>{{song.line1|default("")}}</Line1>
+  <Line2>{{song.line2|default("")}}</Line2>
+</DLCSong>
+        

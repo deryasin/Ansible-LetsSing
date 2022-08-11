@@ -1,0 +1,17 @@
+{
+{% for song in song_dict['songs'] %}
+{% if validationjson[song.id|string] is defined %}
+    "{{ song.id }}": {
+        "name": "{{ song.uid }}",
+        "txthash": "{{validationjson[song.id|string].txthash}}",
+        "url": "{{ song.url }}"
+{% endif %}
+
+{% if loop.last %}
+    }
+{% endif %}
+{% if not loop.last and validationjson[loop.nextitem["id"]|string] is defined %}
+    },
+{% endif %}
+{% endfor %}
+}

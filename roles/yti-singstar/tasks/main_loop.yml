@@ -1,0 +1,19 @@
+- name: Load validation file
+  set_fact:
+    validationjson: "{{ lookup('ansible.builtin.file', '{{song_dict.songfolder}}/validation.json')}}"
+    
+- name: Validate Data
+  include_tasks: check.yml
+
+- include_tasks: main_loop_song.yml
+  loop: "{{ lookup('list', song_dict['songs'], wantlist=False) }}"
+  loop_control:
+    loop_var: song
+  when: (only is not defined) or (only is defined and song.id|string in only)
+
+- name: Create singstar Meta Files
+  include_tasks: generate.yml
+
+- name: Move Singstar Files into atmospherefolder
+  include_tasks: move.yml
+

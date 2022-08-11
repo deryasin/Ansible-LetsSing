@@ -1,0 +1,15 @@
+ANSIBLE_MODULE_ARGS: 
+    url: "{{ song.url }}"
+    options:
+    outtmpl: "{{song.name}}.%(ext)"
+    keepvideo: False
+    writethumbnail: False
+    paths: 
+        temp: "{{ singstar_tempdirectory.path }}/"
+        home: "{{ song_dict.songfolder }}/{{song.name}}/"
+    postprocessors:
+        - key: "FFmpegExtractAudio"
+          preferredcodec: "mp3"
+          preferredquality: "192"
+
+

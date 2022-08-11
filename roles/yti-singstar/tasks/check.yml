@@ -1,0 +1,30 @@
+- name: Check if all role variables are defined
+  assert:
+    that:
+      - singstar is defined
+      - singstar is not mapping
+      - singstar is iterable
+      - singstar is not string
+    quiet: true
+
+- name: Check if directorys are valid
+  block: 
+  - name: Check if directorys are valid
+    stat:
+      path: "{{item}}"
+    loop: "{{ singstar_patharray }}"
+    register: singstar_directorys
+    vars:
+      singstar_patharray:
+        - "{{song_dict['atmospherefolder']}}/contents/{{song_dict['titleid']}}/romfs/Data/StreamingAssets/"
+        - "{{song_dict['atmospherefolder']}}/contents/{{song_dict['dlcid']}}/romfs/Songs/"
+  - name: Check if directorys are valid
+    assert:
+      that: "{{directory.stat.exists}}"
+      quiet: yes
+      success_msg: "test"
+      fail_msg: "{{ directory.invocation.module_args.path }} don't exists."
+    loop: "{{ singstar_directorys.results }}"
+    loop_control:
+      loop_var: directory
+  

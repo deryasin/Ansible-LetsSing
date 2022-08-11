@@ -1,0 +1,17 @@
+- name: Create temp directory
+  tempfile:
+    state: directory
+    suffix: singstar
+  register: singstar_tempdirectory
+
+- include_tasks: main_loop.yml
+  loop: "{{ lookup('list', singstar, wantlist=False)}}"
+  loop_control:
+    loop_var: song_dict
+    
+- name: Delete temp directory
+  file:
+    path: "{{ singstar_tempdirectory }}"
+    state: absent
+
+

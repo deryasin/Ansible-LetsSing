@@ -1,0 +1,22 @@
+- name: Set complete path and song name
+  set_fact:
+    songpathname: "{{ song_dict.songfolder }}/{{ song.uid }}/{{ song.uid }}"
+
+- name: Create Icon (Custom)
+  shell:
+    cmd: "ffmpeg -y -i {{ song.customfiles.icon }} -vf scale=128:128 {{ songpathname }}.png"
+  when: song.customfiles.icon is defined
+
+- name: Create Backgrounds (Custom)
+  shell:
+    cmd: "ffmpeg -y -i {{ song.customfiles.icon }} -vf scale=512:512 {{ songpathname }}{{ item }}.png"
+  when: song.customfiles.background is defined
+  loop:
+    - "_Result"
+    - "_InGameLoading"
+
+  
+
+
+
+

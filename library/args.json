@@ -1,0 +1,21 @@
+{
+    "ANSIBLE_MODULE_ARGS": {
+    "url": "https://www.youtube.com/watch?v=fJ9rUzIMcZQ",
+	"options": 
+        {
+            "keepvideo": "False",
+            "writethumbnail": "False",
+            "paths": {
+                "temp": "/tmp/",
+                "home": "/root/songs/bohemianrhapsody"  
+            },
+            "postprocessors": [{
+                "key": "FFmpegExtractAudio",
+                "preferredcodec": "mp3",
+                "preferredquality": "192"
+                }]
+        }
+    }
+}
+
+

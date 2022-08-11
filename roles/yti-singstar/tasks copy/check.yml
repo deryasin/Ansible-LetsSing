@@ -1,0 +1,86 @@
+- name: Check if all variables are defined
+  assert:
+    that:
+      - singstar is defined
+      - singstar is not mapping
+      - singstar is iterable
+      - singstar is not string
+    quiet: true
+- assert:
+    that:
+      - song.name is defined
+      - song.uid is defined
+      - song.id is defined
+      - song.url is defined
+      - song.genre is defined
+      - song.artist is defined
+      - song.release is defined
+  #    - song.gap is defined
+      - song.difficulty is defined
+      
+    quiet: true
+    success_msg: Everything is defined.
+    fail_msg: "Song is missig a variable!"
+  loop: "{{ lookup('list', song_dict['songs'], wantlist=False) }}"
+  loop_control:
+    loop_var: song
+
+- name: Load validation file
+  set_fact:
+    validationjson: "{{ lookup('ansible.builtin.file', '{{song_dict.songfolder}}/validation.json')}}"
+
+- include_tasks: check_song_loop.yml
+  loop: "{{ lookup('list', song_dict['songs'], wantlist=False) }}"
+  loop_control:
+    loop_var: song
+#  loop: "{{ lookup('list', song_dict['songs'], wantlist=False) }}"
+#  loop_control:
+#  loop_var: song
+#- name: Check if TXT changed
+#  stat:
+#    path: "{{song_dict.songfolder}}/{{song.uid}}/{{song.uid}}.txt" # eistiert in ansible
+#    checksum_algorithm: md5
+#    get_checksum: true
+#  loop: "{{ lookup('list', song_dict['songs'], wantlist=False) }}"
+#  loop_control:
+#    loop_var: song
+#  register: singstar_txts
+
+#- assert:
+#    that: "{{singstar_txt.stat.checksum == validationjson[song.id|string]['txthash']}}"
+#  loop: "{{ singstar_txts.results }}"
+#  loop_control:
+#    loop_var: singstar_txt
+#- assert:
+#    that: singstar_txt.stat.exists
+#  loop: "{{ singstar_txts.results }}"
+#  loop_control:
+#    loop_var: singstar_txt
+
+
+- name: Check if directorys are valid
+  block: 
+  - name: Check if directorys are valid
+    stat:
+      path: "{{item}}"
+    loop: "{{ singstar_patharray }}"
+    register: singstar_directorys
+    vars:
+      singstar_patharray:
+        - "{{song_dict['atmospherefolder']}}/contents/{{song_dict['titleid']}}/romfs/Data/StreamingAssets/"
+        - "{{song_dict['atmospherefolder']}}/contents/{{song_dict['dlcid']}}/romfs/Songs/"
+  - name: Check if directorys are valid
+    assert:
+      that: "{{directory.stat.exists}}"
+      quiet: yes
+      success_msg: "test"
+      fail_msg: "{{ directory.invocation.module_args.path }} don't exists."
+    loop: "{{ singstar_directorys.results }}"
+    loop_control:
+      loop_var: directory
+  
+
+
+#- name: Check if URL changed
+#- name: Check if ID changed
+#- name: Check if force is set (array with IDS to force)
