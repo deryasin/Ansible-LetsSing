@@ -7,7 +7,7 @@ singstar:
   - titleid: 0100CC30149B8000
     dlcid: 0100CC30149B900E
     songfolder: /home/yasin/singstar/songs
-#    atmospherefolder: "/media/yasin/2E32-AB9F/atmosphere"
+    #atmospherefolder: "/media/yasin/2E32-AB9F/atmosphere"
     atmospherefolder: "/home/yasin/singstar/atmosphere"
     validationfilefolder: "/home/yasin/singstar/songs/"
     songs:
@@ -49,6 +49,7 @@ singstar:
         old: True
         english: True
         men: True
+        pitch: 0
 
       - name: Pokemon Theme
         enabled: True
@@ -81,6 +82,7 @@ singstar:
         line1: Kiss Kiss
         genre: Rock
         url: "https://www.youtube.com/watch?v=cpp69ghR1IM"
+        pitch: 0
         pop: True
         happy: True
         fiesta: True
@@ -152,19 +154,19 @@ singstar:
         line1: Call Me Maybe
         genre: Pop
         url: "https://www.youtube.com/watch?v=fWNaR-rxAic"
-        pop: 
-        rap:
+        pop: True
+        rap: 
         ballad:
         rock:
-        happy:
+        happy: True
         fiesta:
-        love:
+        love: True
         sad:
-        old:
-        2000:
+        old: True
+        2000: True
         recent:
-        women:
-        english:
+        women: True
+        english: True
         men:
 
       - name: Sei ein Mann
@@ -178,20 +180,20 @@ singstar:
         line1: Sei ein Mann
         genre: Rock
         url: "https://www.youtube.com/watch?v=F-2JXmL2ZMk"
-        pop: 
+        pop: True
         rap:
-        ballad:
+        ballad: True
         rock:
-        happy:
-        fiesta:
+        happy: True
+        fiesta: True
         love:
         sad:
-        old:
-        2000:
+        old: True
+        2000: True
         recent:
         women:
-        english:
-        men:
+        english: True
+        men: True
 
       - name: Mit aller Kraft
         enabled: True
@@ -204,19 +206,19 @@ singstar:
         line1: Mit aller Kraft
         genre: Rock
         url: "https://www.youtube.com/watch?v=4ekiyjeLk0k"
-        pop: 
+        pop: True
         rap:
-        ballad:
+        ballad: Tru
         rock:
-        happy:
+        happy: True
         fiesta:
-        love:
+        love: True
         sad:
-        old:
-        2000:
+        old: True
+        2000: True
         recent:
-        women:
-        english:
+        women: True
+        english: True
         men:
 
       - name: Die Reise beginnt
@@ -230,20 +232,20 @@ singstar:
         line1: Die Reise beginnt
         genre: Rock
         url: "https://www.youtube.com/watch?v=f4xz_4Hrj6I"
-        pop: 
+        pop: True
         rap:
-        ballad:
-        rock:
-        happy:
-        fiesta:
+        ballad: True
+        rock: True
+        happy: True
+        fiesta: True
         love:
         sad:
-        old:
-        2000:
+        old: True
+        2000: True
         recent:
-        women:
-        english:
-        men:
+        women: True
+        english: True
+        men: True
 
       - name: Dschinghis Khan
         enabled: True
@@ -255,21 +257,21 @@ singstar:
         difficulty: 4
         line1: Dschinghis Khan
         genre: Rock
-        url: "https://www.youtube.com/watch?v=i0xOSxgs6w8"
-        pop: 
+        url: "https://www.youtube.com/watch?v=UIYRRIasCPY"
+        pop: True
         rap:
-        ballad:
+        ballad: True
         rock:
-        happy:
-        fiesta:
-        love:
+        happy: True
+        fiesta: True
+        love: True
         sad:
-        old:
+        old: True
         2000:
         recent:
-        women:
-        english:
-        men:
+        women: True
+        english: True
+        men: True
 
       - name: Stay with me
         enabled: True
@@ -282,19 +284,19 @@ singstar:
         line1: Stay with me
         genre: Rock
         url: "https://www.youtube.com/watch?v=M0qMgoChzGI"
-        pop: 
+        pop: True
         rap:
-        ballad:
+        ballad: True
         rock:
         happy:
         fiesta:
-        love:
-        sad:
-        old:
+        love: True
+        sad: True
+        old: True
         2000:
         recent:
-        women:
-        english:
+        women: True
+        english: True
         men:
 
       - name: DOTA
@@ -308,20 +310,20 @@ singstar:
         line1: DOTA
         genre: Rock
         url: "https://www.youtube.com/watch?v=aTJncWndUB8"
-        pop: 
-        rap:
+        pop: True
+        rap: True
         ballad:
         rock:
-        happy:
-        fiesta:
+        happy: True
+        fiesta: True
         love:
         sad:
-        old:
-        2000:
+        old: True
+        2000: True
         recent:
         women:
-        english:
-        men:
+        english: True
+        men: True
 
       - name: I'm Going Slightly Mad
         enabled: True
@@ -333,21 +335,21 @@ singstar:
         difficulty: 4
         line1: I'm Going Slightly Mad
         genre: Rock
-        url: "https://www.youtube.com/watch?v=Od6hY_50Dh0"
+        url: "https://www.youtube.com/watch?v=Od6hY_50Dh0" #FALSCH
         pop: 
         rap:
-        ballad:
-        rock:
-        happy:
+        ballad: True
+        rock: True
+        happy: True
         fiesta:
         love:
         sad:
-        old:
+        old: True
         2000:
         recent:
         women:
-        english:
-        men:
+        english: True
+        men: True
 
       - name: Wiener Blut
         enabled: True
@@ -361,19 +363,19 @@ singstar:
         genre: Rock
         url: "https://www.youtube.com/watch?v=OMrwcix41sY"
         pop: 
-        rap:
+        rap: True
         ballad:
-        rock:
-        happy:
+        rock: True
+        happy: True
         fiesta:
         love:
         sad:
-        old:
+        old: True
         2000:
         recent:
         women:
-        english:
-        men:
+        english: True
+        men: True
 
       - name: Mein Geheimnis
         enabled: True
@@ -385,20 +387,20 @@ singstar:
         difficulty: 2
         line1: Mein Geheimnis
         genre: Rock
-        url: "https://www.youtube.com/watch?v=HDktPH9Evi4"
-        pop: 
+        url: "https://www.youtube.com/watch?v=cFrRgoGiDpo"
+        pop: True
         rap:
         ballad:
         rock:
         happy:
         fiesta:
-        love:
-        sad:
-        old:
-        2000:
+        love: True
+        sad: True
+        old: True
+        2000: True
         recent:
-        women:
-        english:
+        women: True
+        english: True
         men:
 
       - name: Leb deinen Traum
@@ -412,20 +414,20 @@ singstar:
         line1: Leb deinen Traum
         genre: Rock
         url: "https://www.youtube.com/watch?v=0pUIblcKmeA" # NOCHMAL PRÜFEN"
-        pop: 
+        pop: True
         rap:
-        ballad:
-        rock:
-        happy:
-        fiesta:
+        ballad: True
+        rock: True
+        happy: True
+        fiesta: True
         love:
         sad:
-        old:
-        2000:
+        old: True
+        2000: True
         recent:
         women:
-        english:
-        men:
+        english: True
+        men: True
 
       - name: Blue Bird
         enabled: True
@@ -438,19 +440,19 @@ singstar:
         line1: Blue Bird
         genre: Rock
         url: "https://www.youtube.com/watch?v=KpsJWFuVTdI"
-        pop: 
+        pop: True
         rap:
         ballad:
         rock:
-        happy:
-        fiesta:
+        happy: True
+        fiesta: True
         love:
         sad:
-        old:
-        2000:
+        old: True
+        2000: True
         recent:
-        women:
-        english:
+        women: True
+        english: 
         men:
 
       - name: 24 Hour Cinderella
@@ -464,46 +466,47 @@ singstar:
         line1: 24 Hour Cinderella
         genre: Rock
         url: "https://www.youtube.com/watch?v=Yhe7rcDUTeI"
-        pop: 
-        rap:
-        ballad:
-        rock:
-        happy:
-        fiesta:
-        love:
-        sad:
-        old:
-        2000:
-        recent:
-        women:
-        english:
-        men:
+        pop: True
+        rap: True
+        ballad: True
+        rock: True
+        happy: True
+        fiesta: True
+        love: True
+        sad: True
+        old: True
+        2000: True
+        recent: True
+        women: True
+        english: True
+        men: True
 
       - name: Unten im Meer
         enabled: True
         uid: untenimmeer
         id: 980
-        artist: Arielle
+        artist: Disney
         release: 1998
         ratio: "16:9"
         difficulty: 1
         line1: Unten im Meer
         genre: Rock
-        url: "https://www.youtube.com/watch?v=LZDn_yG2wJo" # PRÜFEN
-        pop: 
+        url: "https://www.youtube.com/watch?v=LZDn_yG2wJo"
+        pitch: 0
+        pop: True
         rap:
-        ballad:
+        ballad: True
         rock:
-        happy:
+        happy: True
         fiesta:
         love:
         sad:
-        old:
+        old: True
         2000:
         recent:
-        women:
-        english:
-        men:
+        women: True
+        english: True
+        men: True
 
       - name: Go
         enabled: True
@@ -521,18 +524,18 @@ singstar:
           end: "00:01:31"
         pop: 
         rap:
-        ballad:
-        rock:
-        happy:
-        fiesta:
+        ballad: True
+        rock: True
+        happy: True
+        fiesta: True
         love:
         sad:
         old:
         2000:
         recent:
         women:
-        english:
-        men:
+        english: True
+        men: True
 
       - name: Colors
         enabled: True
@@ -548,20 +551,20 @@ singstar:
         length: 
           start: "00:00:00"
           end: "00:01:31"
-        pop: 
+        pop:
         rap:
         ballad:
-        rock:
-        happy:
-        fiesta:
+        rock: True
+        happy: True
+        fiesta: True
         love:
         sad:
         old:
         2000:
         recent:
         women:
-        english:
-        men:
+        english: True
+        men: True
 
       - name: Hit the Road Jack
         enabled: True
@@ -572,22 +575,22 @@ singstar:
         ratio: "4:3"
         difficulty: 2
         line1: Hit the Road Jack
-        genre: Rock
+        genre: Pop
         url: "https://www.youtube.com/watch?v=uFpSMRIx6PM"
-        pop: 
+        pop: True
         rap:
-        ballad:
+        ballad: True
         rock:
-        happy:
+        happy: True
         fiesta:
         love:
         sad:
-        old:
+        old: True
         2000:
         recent:
         women:
-        english:
-        men:
+        english: True
+        men: True
 
       - name: Shinzou Wo Sasageyo
         enabled: True
@@ -600,20 +603,20 @@ singstar:
         line1: Shinzou Wo Sasageyo
         genre: Rock
         url: "https://www.youtube.com/watch?v=0iuV94Cz1uY"
-        pop: 
+        pop:
         rap:
         ballad:
-        rock:
-        happy:
-        fiesta:
-        love:
+        rock: True
+        happy: True
+        fiesta: True
+        love: 
         sad:
         old:
         2000:
         recent:
         women:
-        english:
-        men:
+        english: True
+        men: True
 
       - name: History Maker
         enabled: True
@@ -626,11 +629,11 @@ singstar:
         line1: History Maker
         genre: Rock
         url: "https://www.youtube.com/watch?v=5u3RGhznctE"
-        pop: 
+        pop: True
         rap:
-        ballad:
+        ballad: True
         rock:
-        happy:
+        happy: True
         fiesta:
         love:
         sad:
@@ -638,19 +641,21 @@ singstar:
         2000:
         recent:
         women:
-        english:
-        men:
+        english: True
+        men: True
+
 #      - name: Sag das Zauberwort
 #        enabled: True
 #        uid: sailormoon
- #       id:  974
+#        id:  974
 #        artist: Sailor Moon
 #        release: 
 #        ratio: "16:9"
 #        difficulty: 3
 #        line1: Sag das Zauberwort
 #        genre: Rock
-#        url:      
+#        url:
+
       - name: Sag das Zauberwort
         enabled: True
         uid: sailormoon
@@ -662,20 +667,21 @@ singstar:
         line1: Sag das Zauberwort
         genre: Rock
         url: "https://www.youtube.com/watch?v=dn7Nv1sn6LQ"
-        pop: 
+        pop: True
         rap:
-        ballad:
-        rock:
-        happy:
-        fiesta:
+        ballad: True
+        rock: 
+        happy: True
+        fiesta: True
         love:
         sad:
-        old:
-        2000:
+        old: True
+        2000: True
         recent:
-        women:
-        english:
-        men:      
+        women: True
+        english: True
+        men:
+      
       - name: Revenge
         enabled: True
         uid: minecraftrevenge
@@ -686,7 +692,25 @@ singstar:
         difficulty: 3
         line1: Revenge
         genre: Rock
-        url: https://www.youtube.com/watch?v=cPJUBQd-PNM 
+        url: https://www.youtube.com/watch?v=cPJUBQd-PNM  # CUT !
+        length: 
+          start: "00:00:00"
+          end: "00:03:41"
+        pop: True
+        rap: True
+        ballad: True
+        rock: True
+        happy: True
+        fiesta: True
+        love: True
+        sad: True
+        old: True
+        2000: True
+        recent: True
+        women: True
+        english: True
+        men: True
+
       - name: The Day
         enabled: True
         uid: theday
@@ -701,17 +725,17 @@ singstar:
         pop: 
         rap:
         ballad:
-        rock:
-        happy:
-        fiesta:
+        rock: True
+        happy: True
+        fiesta: True
         love:
         sad:
         old:
         2000:
-        recent:
+        recent: True
         women:
-        english:
-        men:
+        english: True
+        men: True
         length:
           start: "00:00:00"
           end: "00:04:00"
@@ -730,9 +754,9 @@ singstar:
         length:
           start: "00:00:00"
           end: "00:01:29"
-        pop: 
+        pop: True
         rap:
-        ballad:
+        ballad: True
         rock:
         happy:
         fiesta:
@@ -741,8 +765,8 @@ singstar:
         old:
         2000:
         recent:
-        women:
-        english:
+        women: True
+        english: True
         men:
 
       - name: Die Legende
@@ -756,20 +780,20 @@ singstar:
         line1: Die Legende
         genre: Rock
         url: "https://www.youtube.com/watch?v=A1Xw31qQRGo"
-        pop: 
-        rap:
-        ballad:
-        rock:
-        happy:
-        fiesta:
-        love:
-        sad:
-        old:
-        2000:
-        recent:
-        women:
-        english:
-        men:
+        pop: True
+        rap: True
+        ballad: True
+        rock: True
+        happy: True
+        fiesta: True
+        love: True
+        sad: True
+        old: True
+        2000: True
+        recent: True
+        women: True
+        english: True
+        men: True
 
       - name: Unravel
         enabled: True
@@ -785,17 +809,17 @@ singstar:
         pop: 
         rap:
         ballad:
-        rock:
+        rock: True
         happy:
         fiesta:
-        love:
-        sad:
+        love: True
+        sad: True
         old:
         2000:
-        recent:
-        women:
-        english:
-        men:
+        recent: True
+        women: 
+        english: True
+        men: True
 # neu
       - name: Hikaru Nara (TV)
         enabled: True
@@ -901,31 +925,31 @@ singstar:
         english: True
         men:
 
-      # - name: We are Number One
-      #   enabled: True
-      #   uid: numberone
-      #   id: 963
-      #   artist: Lazy Town
-      #   release: 2014
-      #   ratio: "16:9"
-      #   difficulty: 3
-      #   line1: We are Number One
-      #   genre: Pop
-      #   url: https://www.youtube.com/watch?v=PfYnvDL0Qcw      
-      #   pop: True
-      #   rap:
-      #   ballad: 
-      #   rock:
-      #   happy: True
-      #   fiesta: True
-      #   love:
-      #   sad:
-      #   old:
-      #   2000:
-      #   recent:
-      #   women:
-      #   english: True
-      #   men: True
+      - name: We are Number One
+        enabled: True
+        uid: numberone
+        id: 963
+        artist: Lazy Town
+        release: 2014
+        ratio: "16:9"
+        difficulty: 3
+        line1: We are Number One
+        genre: Pop
+        url: https://www.youtube.com/watch?v=PfYnvDL0Qcw      
+        pop: True
+        rap:
+        ballad: 
+        rock:
+        happy: True
+        fiesta: True
+        love:
+        sad:
+        old:
+        2000:
+        recent:
+        women:
+        english: True
+        men: True
 
       - name: Flyers
         enabled: True
@@ -1055,111 +1079,111 @@ singstar:
         recent:
         women:
         english: True
-        men: T
+        men: True
 
-      # - name: 
+      # - name: Chala Head Chala
       #   enabled: True
-      #   uid: 
-      #   id: 967
-      #   artist: 
-      #   release: 
+      #   uid: chala
+      #   id: 957
+      #   artist: Dragon Ball Z
+      #   release: 1989
       #   ratio: "16:9"
       #   difficulty: 3
-      #   line1: 
+      #   line1: Chala Head Chala
       #   genre: Rock
-      #   url:       
-      #   pop: 
+      #   url: https://youtu.be/ulLm6JCVXuQ       
+      #   pop: True
       #   rap:
       #   ballad:
-      #   rock:
-      #   happy:
+      #   rock: True
+      #   happy: True
       #   fiesta:
       #   love:
-      #   sad:
-      #   old:
-      #   2000:
+      #   sad: 
+      #   old: True
+      #   2000: True
       #   recent:
       #   women:
-      #   english:
-      #   men:
+      #   english: True
+      #   men: True
 
-      # - name: 
-      #   enabled: True
-      #   uid: 
-      #   id: 967
-      #   artist: 
-      #   release: 
-      #   ratio: "16:9"
-      #   difficulty: 3
-      #   line1: 
-      #   genre: Rock
-      #   url:       
-      #   pop: 
-      #   rap:
-      #   ballad:
-      #   rock:
-      #   happy:
-      #   fiesta:
-      #   love:
-      #   sad:
-      #   old:
-      #   2000:
-      #   recent:
-      #   women:
-      #   english:
-      #   men:
+      - name: Nur Fragen in meinem Kopf
+        enabled: True
+        uid: nurfrageninmeinemkopf
+        id: 956
+        artist: Detektiv Conan
+        release: 1996
+        ratio: "16:9"
+        difficulty: 3
+        line1: 
+        genre: Rock
+        url: https://youtu.be/_msgKxw-JKk      
+        pop: True
+        rap: 
+        ballad: True
+        rock: True
+        happy: True
+        fiesta: True
+        love: True
+        sad:
+        old: True
+        2000: True
+        recent:
+        women:
+        english: True
+        men: True
 
-      # - name: 
-      #   enabled: True
-      #   uid: 
-      #   id: 967
-      #   artist: 
-      #   release: 
-      #   ratio: "16:9"
-      #   difficulty: 3
-      #   line1: 
-      #   genre: Rock
-      #   url:       
-      #   pop: 
-      #   rap:
-      #   ballad:
-      #   rock:
-      #   happy:
-      #   fiesta:
-      #   love:
-      #   sad:
-      #   old:
-      #   2000:
-      #   recent:
-      #   women:
-      #   english:
-      #   men:
+      - name: Sk8er Boi
+        enabled: True
+        uid: skterboi
+        id: 955
+        artist: Avril Lavigne
+        release: 2002
+        ratio: "16:9"
+        difficulty: 3
+        line1: Sk8er Boi
+        genre: Pop
+        url: https://youtu.be/TIy3n2b7V9k       
+        pop: True
+        rap:
+        ballad:
+        rock: True
+        happy: True
+        fiesta:
+        love: True
+        sad: True
+        old: True
+        2000: True
+        recent:
+        women: True
+        english: True
+        men:
 
-      # - name: 
-      #   enabled: True
-      #   uid: 
-      #   id: 967
-      #   artist: 
-      #   release: 
-      #   ratio: "16:9"
-      #   difficulty: 3
-      #   line1: 
-      #   genre: Rock
-      #   url:       
-      #   pop: 
-      #   rap:
-      #   ballad:
-      #   rock:
-      #   happy:
-      #   fiesta:
-      #   love:
-      #   sad:
-      #   old:
-      #   2000:
-      #   recent:
-      #   women:
-      #   english:
-      #   men:
+      - name: Gummibaerenbande
+        enabled: True
+        uid: gummibaerenbande
+        id: 954
+        artist: Gummibaerenbande
+        release: 1985
+        ratio: "4:3"
+        difficulty: 0
+        line1: Gummibaerenbande 
+        genre: Rock
+        url: https://youtu.be/YO1GBsuzTWU
+        pop: True
+        rap:
+        ballad: True
+        rock:
+        happy: True
+        fiesta: True
+        love:
+        sad:
+        old: True
+        2000:
+        recent:
+        women:
+        english: True
+        men: True
 
       # - name: 
       #   enabled: True

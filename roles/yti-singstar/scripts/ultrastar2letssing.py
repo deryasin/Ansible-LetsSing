@@ -13,6 +13,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument('--input', required=True, help='Ultrastar text file')
 parser.add_argument('--pitch', default=48, help="Note Correction, 48 default, use -70 for notes over 100")
 parser.add_argument('--output', required=True, help="Song ID (Queen - Killer Queen => killerqueen)")
+parser.add_argument('--length', required=False, help="To fix the visual bug on the end of the song please define the video length")
 args = parser.parse_args()
 class UltraStar2LetsSing:
     def __init__(self, input):
@@ -23,6 +24,9 @@ class UltraStar2LetsSing:
             for line in f:
                 line = line.replace('\n', '')
                 line = line.replace('\r', '')
+                line = line.replace('ä', 'ae')
+                line = line.replace('ö', 'oe')
+                line = line.replace('ü', 'ue')
                 if line.startswith("#"):
                     p = line.split(":", 1)
                     if len(p) == 2:
@@ -56,11 +60,10 @@ class UltraStar2LetsSing:
             elif note[0] == "-":
                 start = last_page
                 end = float(note[1]) * 60 / bpm / 4 + gap
-                if last_page != 0.0:
-                    if sing_it["notes_full"][-1]["t2"] > end:
-                        print(start)
-                        end = sing_it["notes_full"][-1]["t2"]
-                        print(start)
+                if sing_it["notes_full"][-1]["t2"] > end:
+                    print(start)
+                    end = sing_it["notes_full"][-1]["t2"]
+                    print(start)
                 last_page = end
                 sing_it["pages"].append(
                     {"t1": start, "t2": end, "value": ""})
