@@ -43,11 +43,11 @@
     dest: "{{ songpathname }}_noaudio.mp4"
     state: absent
  
-  
-- name: Convert Audiofile to OGG (normal)
+
+- name: Convert Audiofile to OGG (normal) and normalize volume
   shell:
-    cmd: "ffmpeg -y -i {{ songpathname }}.mp3 -c:a libvorbis -q:a 4 {{ songpathname }}.ogg"   
-    
+    cmd: "ffmpeg -y -i {{ songpathname }}.mp3 -filter:a loudnorm -c:a libvorbis -q:a 4 {{ songpathname }}.ogg"   
+
 - name: Convert Audiofile to OGG (and cut)
   shell:
     cmd: "ffmpeg -y -ss {{ song.length.start }} -to {{ song.length.end }} -i {{ songpathname }}.mp3 -c:a libvorbis -q:a 4 {{ songpathname }}.ogg"
@@ -103,6 +103,7 @@
      loop:
       - "_Result"
       - "_InGameLoading"
+
 
   
 

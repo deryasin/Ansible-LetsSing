@@ -18,6 +18,11 @@
   include_tasks: media_custom.yml
 #  when: song.customfiles.icon is defined or song.customfiles.background is defined
 
+- name: Register song length
+  shell: |
+    ffprobe {{ songpathname }}.ogg 2>&1 | grep "Duration"| cut -d ' ' -f 4 | sed s/,// | sed 's@\..*@@g' | awk '{ split($1, A, ":"); split(A[3], B, "."); print 3600*A[1] + 60*A[2] + B[1]}'
+  register: song_length
+
 - name: Create Song Meta Files
   include_tasks: generate_song.yml
 

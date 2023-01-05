@@ -19,7 +19,7 @@
 - name: Check if URL changed
   set_fact:
     singstar_url_changed: True
-  when: (validationjson["{{song.id|string}}"]["url"] != song.url) or ({{song.id}} in {{singstar_force_url}}) or ({{song.id}} in {{singstar_force}})
+  when: (validationjson["{{song.id|string}}"]["url"] != song.url) or ({{song.id}} in {{singstar_force_url}}) or ({{song.id}} in {{singstar_force}}) or (0 in {{singstar_force_url}})
 
 - assert:
     that: ({{song.id}} in {{singstar_force_url}}) or ({{song.id}} in {{singstar_force}})
@@ -44,7 +44,7 @@
         
     - set_fact:
         singstar_txt_changed: True
-      when: ({{singstar_txt.stat.checksum != validationjson[song.id|string]['txthash']}}) or ({{song.id}} in {{singstar_force_txt}}) or ({{song.id}} in {{singstar_force}})
+      when: ({{singstar_txt.stat.checksum != validationjson[song.id|string]['txthash']}}) or ({{song.id}} in {{singstar_force_txt}}) or ({{song.id}} in {{singstar_force}}) or (0 in {{singstar_force_txt}})
     - assert:
         that: ({{song.id}} in {{singstar_force_txt}}) or ({{song.id}} in {{singstar_force}})
         quiet: true
@@ -54,10 +54,8 @@
       file:
         state: absent
         path: "{{song_dict.songfolder}}/{{song.uid}}/{{song.uid}}.vxla"    
-      when: ({{singstar_txt.stat.checksum != validationjson[song.id|string]['txthash']}}) or ({{song.id}} in {{singstar_force_txt}}) or ({{song.id}} in {{singstar_force}})
-
-      
-
+      when: singstar_txt_changed
+#      when: ({{singstar_txt.stat.checksum != validationjson[song.id|string]['txthash']}}) or ({{song.id}} in {{singstar_force_txt}}) or ({{song.id}} in {{singstar_force}})
       loop: "{{ lookup('list', song_dict['songs'], wantlist=False) }}"
 
       

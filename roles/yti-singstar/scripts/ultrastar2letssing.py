@@ -13,7 +13,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument('--input', required=True, help='Ultrastar text file')
 parser.add_argument('--pitch', default=48, help="Note Correction, 48 default, use -70 for notes over 100")
 parser.add_argument('--output', required=True, help="Song ID (Queen - Killer Queen => killerqueen)")
-parser.add_argument('--length', required=False, help="To fix the visual bug on the end of the song please define the video length")
+parser.add_argument('--length', required=False, default=None, help="To fix the visual bug on the end of the song please define the video length")
 args = parser.parse_args()
 class UltraStar2LetsSing:
     def __init__(self, input):
@@ -27,6 +27,7 @@ class UltraStar2LetsSing:
                 line = line.replace('ä', 'ae')
                 line = line.replace('ö', 'oe')
                 line = line.replace('ü', 'ue')
+                line = line.replace('ß', 'ss')
                 if line.startswith("#"):
                     p = line.split(":", 1)
                     if len(p) == 2:
@@ -86,7 +87,7 @@ class UltraStar2LetsSing:
                # if end > last_page:
                 start = last_page
                 sing_it["pages"].append(
-                    {"t1": start, "t2": end + 0.100, "value": ""}) # VIDEO LÄNGE ALS END
+                    {"t1": start, "t2":  float(f"{ args.length if args.length is not None else end + 0.100 }"), "value": ""}) # VIDEO LÄNGE ALS END
         return sing_it
 
     def write_intervals(self, interval_arr, parent):

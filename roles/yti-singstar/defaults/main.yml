@@ -1,3 +1,4 @@
+# LAUTSTÄRKE AUF EIN LEVEL IMMER
 singstar_url_changed: false
 singstar_txt_changed: false
 singstar_force: []
@@ -8,7 +9,7 @@ singstar:
     dlcid: 0100CC30149B900E
     songfolder: /home/yasin/singstar/songs
     #atmospherefolder: "/media/yasin/2E32-AB9F/atmosphere"
-    atmospherefolder: "/home/yasin/singstar/atmosphere"
+    atmospherefolder: "/home/yasin/.local/share/yuzu/sdmc/atmosphere/"
     validationfilefolder: "/home/yasin/singstar/songs/"
     songs:
       - name: Baka Mitai
@@ -1028,6 +1029,7 @@ singstar:
         women:
         english: True
         men: True
+        pitch: 24
 
       - name: Wir werden siegen 
         enabled: True
@@ -1158,6 +1160,7 @@ singstar:
         women: True
         english: True
         men:
+        pitch: 0
 
       - name: Gummibaerenbande
         enabled: True

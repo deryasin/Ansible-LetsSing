@@ -5,6 +5,10 @@
   loop:
     - src:  "{{song_dict['songfolder']}}/SongsDLC.tsv"
       dest: "{{song_dict['atmospherefolder']}}/contents/{{song_dict['titleid']}}/romfs/Data/StreamingAssets/SongsDLC.tsv"
+    - src:  "{{song_dict['songfolder']}}/SongsDLC.tsv"
+      dest: "{{song_dict['atmospherefolder']}}/contents/{{song_dict['dlcid']}}/romfs/SongsDLC.tsv"
+    - src:  "mixtape.xml"
+      dest: "{{song_dict['atmospherefolder']}}/contents/{{song_dict['dlcid']}}/romfs/mixtape.xml"
     - src:  "{{song_dict['songfolder']}}/name.txt"
       dest: "{{song_dict['atmospherefolder']}}/contents/{{song_dict['dlcid']}}/romfs/name.txt"
 

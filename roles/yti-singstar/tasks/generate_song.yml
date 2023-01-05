@@ -4,7 +4,9 @@
     dest: "{{song_dict['songfolder']}}/{{song.uid}}/{{song.uid}}_meta.xml"
     output_encoding: utf-8
     trim_blocks: True
-- script: "scripts/ultrastar2letssing.py --input {{ song_dict.songfolder }}/{{ song.uid }}/{{ song.uid }}.txt --output {{ song_dict.songfolder }}/{{ song.uid }}/{{ song.uid }}.vxla {% if song.pitch is defined %} --pitch {{song.pitch|string}} {% endif %}"
+    
+- name: Generate VXLA 
+  script: "scripts/ultrastar2letssing.py --input {{ song_dict.songfolder }}/{{ song.uid }}/{{ song.uid }}.txt --output {{ song_dict.songfolder }}/{{ song.uid }}/{{ song.uid }}.vxla {% if song.pitch is defined %} --pitch {{song.pitch|string}} {% endif %} --length {{song_length.stdout}}"
   args:
     creates: "{{ song_dict.songfolder }}/{{ song.uid }}/{{ song.uid }}.vxla"
      

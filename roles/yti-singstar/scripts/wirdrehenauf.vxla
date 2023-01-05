@@ -46,7 +46,7 @@
       <Interval t1="152.406" t2="154.155" value=""/>
       <Interval t1="154.155" t2="158.387" value=""/>
       <Interval t1="158.387" t2="160.587" value=""/>
-      <Interval t1="160.587" t2="162.042" value=""/>
+      <Interval t1="160.587" t2="2.000" value=""/>
    </IntervalLayer>
    <IntervalLayer datatype="STRING" name="lyrics">
       <Interval t1="0.171" t2="0.284" value="Na"/>
