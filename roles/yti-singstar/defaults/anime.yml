@@ -5,54 +5,14 @@ singstar_force: []
 singstar_force_url: []
 singstar_force_txt: []
 singstar:
-  - titleid: 0100D7701692E000
-    dlcid: 0100D7701692F009
-    songfolder: "/home/yasin/singstar-cp/singstar/songs/"
-    validationfilefolder: "/home/yasin/singstar-cp/singstar/songs/"
+  - titleid: 0100CC30149B8000
+    dlcid: 0100CC30149B900E
+    songfolder: /home/yasin/singstar/songs
     #atmospherefolder: "/media/yasin/2E32-AB9F/atmosphere"
-    atmospherefolder: "/home/yasin/singstar-cp/singstar/atmosphere-2023/"
-    #atmospherefolder: "/media/f/atmosphere"
+    atmospherefolder: "/home/yasin/.local/share/yuzu/sdmc/atmosphere/"
+    validationfilefolder: "/home/yasin/singstar/songs/"
     songs:
-      - name: Baka Mitai
-        enabled: True
-        uid: bakamitai
-        id: 999
-        artist: Shun Akiyama
-        release: 2005
-        ratio: "16:9"
-        difficulty: 4
-        line1: Baka Mitai
-        genre: Rock
-        url: "https://www.youtube.com/watch?v=g3jCAyPai2Y"
-        customfiles:
-          icon: /home/yasin/singstar/songs/bakamitai/bakamitai_custom.jpg
-        pop: True
-        rap:
-        ballad: True
-        love: True
-        sad: True
-        old: True
-        men: True
         
-      - name: Rock Me Amadeus
-        enabled: True
-        uid: rockmeamadeus
-        id: 998
-        artist: Falco
-        release: 1985
-        ratio: "4:3"
-        difficulty: 3
-        line1: Rock Me Amadeus!
-        genre: Rock
-        url: "https://www.youtube.com/watch?v=fixvgrAHInw"
-        rap: True
-        ballad: True
-        rock: True
-        old: True
-        english: True
-        men: True
-        pitch: 0
-
       - name: Pokemon Theme
         enabled: True
         uid: pokemon
@@ -70,130 +30,6 @@ singstar:
         happy: True
         fiesta: True
         2000: True
-        english: True
-        men: True
-
-      - name: Simarik
-        enabled: True
-        uid: kisskiss
-        id: 996
-        artist: Tarkan 
-        release: 1999
-        ratio: "4:3"
-        difficulty: 2
-        line1: Kiss Kiss
-        genre: Rock
-        url: "https://www.youtube.com/watch?v=cpp69ghR1IM"
-        pitch: 0
-        pop: True
-        happy: True
-        fiesta: True
-        love: True
-        old: True
-        2000: True
-        men: True
-
-      - name: I Want It That Way
-        enabled: True
-        uid: iwantitthatway
-        id: 995
-        artist: Backstreet Boys 
-        release: 2012
-        ratio: "4:3"
-        difficulty: 2
-        line1: I Want It That Way
-        genre: Rock
-        url: "https://www.youtube.com/watch?v=4fndeDfaWCg"
-        pop: True
-        rap:
-        ballad: 
-        rock: True
-        happy: True
-        fiesta:
-        love: True
-        sad:
-        old: True
-        2000: True
-        recent:
-        women:
-        english: True
-        men: True
-
-      - name: Show Yourself 
-        enabled: True
-        uid: showyourself
-        id: 994
-        artist: Frozen 2
-        release: 2019
-        ratio: "16:9"
-        difficulty: 4
-        line1: Show Yourself
-        genre: Rock
-        url: "https://www.youtube.com/watch?v=md7dK5-qvHc"
-        pop: True
-        rap:
-        ballad: True
-        rock:
-        happy:
-        fiesta:
-        love:
-        sad: True
-        old:
-        2000:
-        recent: True
-        women: True
-        english: True
-        men:
-
-      - name: Call Me Maybe
-        enabled: False
-        uid: callmemaybe
-        id: 993
-        artist: Carly Rae Japsen
-        release: 2012
-        ratio: "16:9"
-        difficulty: 2
-        line1: Call Me Maybe
-        genre: Pop
-        url: "https://www.youtube.com/watch?v=fWNaR-rxAic"
-        pop: True
-        rap: 
-        ballad:
-        rock:
-        happy: True
-        fiesta:
-        love: True
-        sad:
-        old: True
-        2000: True
-        recent:
-        women: True
-        english: True
-        men:
-
-      - name: Sei ein Mann
-        enabled: True
-        uid: seieinmann
-        id: 992
-        artist: Mulan
-        release: 1998
-        ratio: "4:3"
-        difficulty: 1
-        line1: Sei ein Mann
-        genre: Rock
-        url: "https://www.youtube.com/watch?v=F-2JXmL2ZMk"
-        pop: True
-        rap:
-        ballad: True
-        rock:
-        happy: True
-        fiesta: True
-        love:
-        sad:
-        old: True
-        2000: True
-        recent:
-        women:
         english: True
         men: True
 
@@ -249,32 +85,6 @@ singstar:
         english: True
         men: True
 
-      - name: Dschinghis Khan
-        enabled: True
-        uid: dschinghiskhan
-        id: 989
-        artist: Dschinghis Khan
-        release: 1979
-        ratio: "16:9"
-        difficulty: 4
-        line1: Dschinghis Khan
-        genre: Rock
-        url: "https://www.youtube.com/watch?v=UIYRRIasCPY"
-        pop: True
-        rap:
-        ballad: True
-        rock:
-        happy: True
-        fiesta: True
-        love: True
-        sad:
-        old: True
-        2000:
-        recent:
-        women: True
-        english: True
-        men: True
-
       - name: Stay with me
         enabled: True
         uid: staywithme
@@ -300,84 +110,6 @@ singstar:
         women: True
         english: True
         men:
-
-      - name: DOTA
-        enabled: True
-        uid: dota
-        id: 987
-        artist: Basshunter
-        release: 2006
-        ratio: "16:9"
-        difficulty: 1
-        line1: DOTA
-        genre: Rock
-        url: "https://www.youtube.com/watch?v=aTJncWndUB8"
-        pop: True
-        rap: True
-        ballad:
-        rock:
-        happy: True
-        fiesta: True
-        love:
-        sad:
-        old: True
-        2000: True
-        recent:
-        women:
-        english: True
-        men: True
-
-      - name: I'm Going Slightly Mad
-        enabled: True
-        uid: slightlymad
-        id: 986
-        artist: Queen
-        release: 1990
-        ratio: "4:3"
-        difficulty: 4
-        line1: I'm Going Slightly Mad
-        genre: Rock
-        url: "https://www.youtube.com/watch?v=Od6hY_50Dh0" #FALSCH
-        pop: 
-        rap:
-        ballad: True
-        rock: True
-        happy: True
-        fiesta:
-        love:
-        sad:
-        old: True
-        2000:
-        recent:
-        women:
-        english: True
-        men: True
-
-      - name: Wiener Blut
-        enabled: True
-        uid: wienerblut
-        id: 985
-        artist: Falco
-        release: 1988
-        ratio: "4:3"
-        difficulty: 2
-        line1: Wiener Blut
-        genre: Rock
-        url: "https://www.youtube.com/watch?v=OMrwcix41sY"
-        pop: 
-        rap: True
-        ballad:
-        rock: True
-        happy: True
-        fiesta:
-        love:
-        sad:
-        old: True
-        2000:
-        recent:
-        women:
-        english: True
-        men: True
 
       - name: Mein Geheimnis
         enabled: True
@@ -457,64 +189,11 @@ singstar:
         english: 
         men:
 
-      - name: 24 Hour Cinderella
-        enabled: True
-        uid: cinderella24
-        id: 981
-        artist: Goro Majima
-        release: 2015
-        ratio: "16:9"
-        difficulty: 3
-        line1: 24 Hour Cinderella
-        genre: Rock
-        url: "https://www.youtube.com/watch?v=Yhe7rcDUTeI"
-        pop: True
-        rap: True
-        ballad: True
-        rock: True
-        happy: True
-        fiesta: True
-        love: True
-        sad: True
-        old: True
-        2000: True
-        recent: True
-        women: True
-        english: True
-        men: True
-
-      - name: Unten im Meer
-        enabled: True
-        uid: untenimmeer
-        id: 980
-        artist: Disney
-        release: 1998
-        ratio: "16:9"
-        difficulty: 1
-        line1: Unten im Meer
-        genre: Rock
-        url: "https://www.youtube.com/watch?v=LZDn_yG2wJo"
-        pitch: 0
-        pop: True
-        rap:
-        ballad: True
-        rock:
-        happy: True
-        fiesta:
-        love:
-        sad:
-        old: True
-        2000:
-        recent:
-        women: True
-        english: True
-        men: True
-
       - name: Go
         enabled: True
         uid: go
         id: 979
-        artist: Flow
+        artist: Naruto
         release: 2004
         ratio: "16:9"
         difficulty: 2
@@ -568,33 +247,6 @@ singstar:
         english: True
         men: True
 
-      # - name: Hit the Road Jack
-      #   enabled: True
-      #   uid: hittheroad
-      #   id: 977
-      #   artist: Ray Charles
-      #   release: 1969
-      #   ratio: "4:3"
-      #   difficulty: 2
-      #   line1: Hit the Road Jack
-      #   genre: Pop
-      #   url: "https://www.youtube.com/watch?v=uFpSMRIx6PM"
-      #   pop: True
-      #   rap:
-      #   ballad: True
-      #   rock:
-      #   happy: True
-      #   fiesta:
-      #   love:
-      #   sad:
-      #   old: True
-      #   2000:
-      #   recent:
-      #   women:
-      #   english: True
-      #   men: True
-      #   pitch: -12
-
       - name: Shinzou Wo Sasageyo
         enabled: True
         uid: sasageo
@@ -646,18 +298,6 @@ singstar:
         women:
         english: True
         men: True
-
-#      - name: Sag das Zauberwort
-#        enabled: True
-#        uid: sailormoon
-#        id:  974
-#        artist: Sailor Moon
-#        release: 
-#        ratio: "16:9"
-#        difficulty: 3
-#        line1: Sag das Zauberwort
-#        genre: Rock
-#        url:
 
       - name: Sag das Zauberwort
         enabled: True
@@ -718,11 +358,11 @@ singstar:
         enabled: True
         uid: theday
         id: 971
-        artist: Porno Graffitti
+        artist: My Hero Academia
         release: 2016
         ratio: "16:9"
         difficulty: 3
-        line1: Hotaru no Hikari
+        line1: The Day
         genre: Rock
         url: "https://www.youtube.com/watch?v=yu0HjPzFYnY"
         pop: 
@@ -823,12 +463,12 @@ singstar:
         women: 
         english: True
         men: True
-# neu
-      - name: Hikaru Nara (TV)
+        
+      - name: Hikaru Nara
         enabled: True
         uid: hikarunara
         id: 967
-        artist: Goose House 
+        artist: Your Lie In April
         release:  2014
         ratio: "16:9"
         difficulty: 3
@@ -847,58 +487,6 @@ singstar:
         2000:
         recent: True
         women: True
-        english: True
-        men: True
-
-      - name: How Far I'll Go 
-        enabled: True
-        uid: moana
-        id: 966
-        artist: Disney
-        release: 2016
-        ratio: "16:9"
-        difficulty: 4
-        line1: How Far I'll Go 
-        genre: Pop
-        url: https://youtu.be/cPAbx5kgCJo       
-        pop: True
-        rap:
-        ballad: True
-        rock:
-        happy: True
-        fiesta:
-        love:
-        sad: True
-        old:
-        2000:
-        recent: True
-        women: True
-        english: True
-        men:
-
-      - name: You're Welcome
-        enabled: True
-        uid: yourewelcome
-        id: 965
-        artist: Disney
-        release: 2016
-        ratio: "16:9"
-        difficulty: 2
-        line1: You're Welcome
-        genre: Pop
-        url: https://www.youtube.com/watch?v=79DijItQXMM  
-        pop: True
-        rap:
-        ballad: True
-        rock:
-        happy: True
-        fiesta:
-        love:
-        sad:
-        old:
-        2000:
-        recent: True
-        women: 
         english: True
         men: True
 
@@ -958,7 +546,7 @@ singstar:
         enabled: True
         uid: flyers
         id: 962
-        artist: BRADIO 
+        artist: Death Parade 
         release: 2015
         ratio: "16:9"
         difficulty: 4
@@ -980,7 +568,7 @@ singstar:
         english: True
         men: True
 
-      - name: Fliegt Durch Die Zeit
+      - name: Flieg Durch Die Zeit
         enabled: True
         uid: fliegtdurchdiezeit
         id: 961
@@ -1121,7 +709,7 @@ singstar:
         difficulty: 3
         line1: 
         genre: Rock
-        url: https://youtu.be/1ZD-EXc4hA0      
+        url: https://youtu.be/_msgKxw-JKk      
         pop: True
         rap: 
         ballad: True
@@ -1132,59 +720,6 @@ singstar:
         sad:
         old: True
         2000: True
-        recent:
-        women:
-        english: True
-        men: True
-
-      - name: Sk8er Boi
-        enabled: True
-        uid: skterboi
-        id: 955
-        artist: Avril Lavigne
-        release: 2002
-        ratio: "16:9"
-        difficulty: 3
-        line1: Sk8er Boi
-        genre: Pop
-        url: https://youtu.be/TIy3n2b7V9k       
-        pop: True
-        rap:
-        ballad:
-        rock: True
-        happy: True
-        fiesta:
-        love: True
-        sad: True
-        old: True
-        2000: True
-        recent:
-        women: True
-        english: True
-        men:
-        pitch: 0
-
-      - name: Gummibaerenbande
-        enabled: True
-        uid: gummibaerenbande
-        id: 954
-        artist: Gummibaerenbande
-        release: 1985
-        ratio: "4:3"
-        difficulty: 0
-        line1: Gummibaerenbande 
-        genre: Rock
-        url: https://youtu.be/YO1GBsuzTWU
-        pop: True
-        rap:
-        ballad: True
-        rock:
-        happy: True
-        fiesta: True
-        love:
-        sad:
-        old: True
-        2000:
         recent:
         women:
         english: True
