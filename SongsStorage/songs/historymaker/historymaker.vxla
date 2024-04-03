@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<AnnotationFile version="3.0">
+   <IntervalLayer datatype="STRING" name="structure">
+      <Interval t1="2.000" t2="3.000" value="couplet1"/>
+   </IntervalLayer>
+   <IntervalLayer datatype="STRING" name="pages">
+      <Interval t1="0.000" t2="11.592" value=""/>
+      <Interval t1="11.592" t2="14.901" value=""/>
+      <Interval t1="14.901" t2="18.492" value=""/>
+      <Interval t1="18.492" t2="21.690" value=""/>
+      <Interval t1="21.690" t2="23.821" value=""/>
+      <Interval t1="23.821" t2="26.795" value=""/>
+      <Interval t1="26.795" t2="29.487" value=""/>
+      <Interval t1="29.487" t2="32.461" value=""/>
+      <Interval t1="32.461" t2="34.256" value=""/>
+      <Interval t1="34.256" t2="37.285" value=""/>
+      <Interval t1="37.285" t2="39.024" value=""/>
+      <Interval t1="39.024" t2="41.156" value=""/>
+      <Interval t1="41.156" t2="44.354" value=""/>
+      <Interval t1="44.354" t2="46.261" value=""/>
+      <Interval t1="46.261" t2="48.225" value=""/>
+      <Interval t1="48.225" t2="53.218" value=""/>
+      <Interval t1="53.218" t2="60.511" value=""/>
+      <Interval t1="60.511" t2="65.896" value=""/>
+      <Interval t1="65.896" t2="67.692" value=""/>
+      <Interval t1="67.692" t2="69.767" value=""/>
+      <Interval t1="69.767" t2="73.021" value=""/>
+      <Interval t1="73.021" t2="74.928" value=""/>
+      <Interval t1="74.928" t2="76.724" value=""/>
+      <Interval t1="76.724" t2="80.426" value=""/>
+      <Interval t1="80.426" t2="84.017" value=""/>
+      <Interval t1="84.017" t2="90.000" value=""/>
+   </IntervalLayer>
+   <IntervalLayer datatype="STRING" name="lyrics">
+      <Interval t1="8.450" t2="8.618" value="Can"/>
+      <Interval t1="8.730" t2="8.899" value=" you"/>
+      <Interval t1="9.067" t2="9.628" value=" hear"/>
+      <Interval t1="10.245" t2="10.413" value=" my"/>
+      <Interval t1="10.526" t2="10.694" value=" heart"/>
+      <Interval t1="10.862" t2="11.311" value="beat?"/>
+      <Interval t1="11.704" t2="11.872" value="Tired"/>
+      <Interval t1="11.984" t2="12.153" value=" of"/>
+      <Interval t1="12.321" t2="12.489" value=" feel"/>
+      <Interval t1="12.657" t2="13.218" value="ing"/>
+      <Interval t1="13.779" t2="13.836" value=" ne"/>
+      <Interval t1="13.948" t2="14.004" value="ver"/>
+      <Interval t1="14.116" t2="14.340" value=" e"/>
+      <Interval t1="14.453" t2="14.509" value="nough"/>
+      <Interval t1="14.621" t2="14.789" value="~"/>
+      <Interval t1="15.014" t2="15.406" value="I"/>
+      <Interval t1="15.631" t2="15.799" value=" close"/>
+      <Interval t1="15.911" t2="16.080" value=" my"/>
+      <Interval t1="16.248" t2="16.809" value=" eyes and"/>
+      <Interval t1="17.426" t2="17.594" value=" tell"/>
+      <Interval t1="17.706" t2="17.875" value=" my"/>
+      <Interval t1="18.043" t2="18.324" value="self"/>
+      <Interval t1="18.604" t2="18.772" value="That"/>
+      <Interval t1="18.885" t2="19.333" value=" my"/>
+      <Interval t1="19.502" t2="19.670" value=" dreams"/>
+      <Interval t1="19.782" t2="20.231" value=" will"/>
+      <Interval t1="20.399" t2="20.568" value=" come"/>
+      <Interval t1="20.680" t2="21.353" value=" true"/>
+      <Interval t1="21.858" t2="22.026" value="There'll"/>
+      <Interval t1="22.138" t2="22.307" value=" be"/>
+      <Interval t1="22.475" t2="22.924" value=" no"/>
+      <Interval t1="23.092" t2="23.260" value=" more"/>
+      <Interval t1="23.373" t2="23.541" value=" dark"/>
+      <Interval t1="23.653" t2="23.765" value="ness"/>
+      <Interval t1="23.934" t2="24.102" value="When"/>
+      <Interval t1="24.214" t2="24.495" value=" you"/>
+      <Interval t1="24.663" t2="24.943" value=" be"/>
+      <Interval t1="25.112" t2="25.392" value="lieve"/>
+      <Interval t1="25.504" t2="25.785" value=" in"/>
+      <Interval t1="26.009" t2="26.458" value=" your"/>
+      <Interval t1="26.570" t2="26.682" value="self"/>
+      <Interval t1="26.907" t2="27.075" value="You"/>
+      <Interval t1="27.187" t2="27.356" value=" are"/>
+      <Interval t1="27.468" t2="27.636" value=" uns"/>
+      <Interval t1="27.804" t2="28.085" value="top"/>
+      <Interval t1="28.253" t2="28.365" value="pa"/>
+      <Interval t1="28.422" t2="28.590" value="~"/>
+      <Interval t1="28.702" t2="29.151" value="ble"/>
+      <Interval t1="29.600" t2="29.768" value="Where"/>
+      <Interval t1="29.880" t2="30.048" value="~"/>
+      <Interval t1="30.161" t2="30.329" value=" your"/>
+      <Interval t1="30.497" t2="30.666" value=" des"/>
+      <Interval t1="30.778" t2="30.946" value="ti"/>
+      <Interval t1="31.114" t2="31.283" value="ny"/>
+      <Interval t1="31.395" t2="31.563" value=" lies"/>
+      <Interval t1="31.675" t2="32.180" value="~"/>
+      <Interval t1="32.573" t2="32.741" value="Danc"/>
+      <Interval t1="32.853" t2="33.022" value="ing"/>
+      <Interval t1="33.134" t2="33.583" value=" on"/>
+      <Interval t1="33.751" t2="33.919" value=" the"/>
+      <Interval t1="34.032" t2="34.144" value=" blades,"/>
+      <Interval t1="34.368" t2="34.536" value="you"/>
+      <Interval t1="34.649" t2="34.873" value=" set"/>
+      <Interval t1="34.985" t2="35.266" value=" my"/>
+      <Interval t1="35.434" t2="35.715" value=" heart"/>
+      <Interval t1="35.883" t2="36.163" value=" on"/>
+      <Interval t1="36.332" t2="36.612" value=" fire"/>
+      <Interval t1="36.780" t2="37.173" value="~"/>
+      <Interval t1="37.398" t2="37.566" value="Don't"/>
+      <Interval t1="37.678" t2="37.846" value=" stop"/>
+      <Interval t1="37.959" t2="38.127" value=" us"/>
+      <Interval t1="38.239" t2="38.688" value=" now,"/>
+      <Interval t1="39.137" t2="39.305" value="the"/>
+      <Interval t1="39.473" t2="39.642" value=" mo"/>
+      <Interval t1="39.754" t2="39.922" value="ment"/>
+      <Interval t1="40.034" t2="40.203" value=" of"/>
+      <Interval t1="40.371" t2="40.820" value=" truth"/>
+      <Interval t1="41.268" t2="41.437" value="We"/>
+      <Interval t1="41.549" t2="41.942" value=" were"/>
+      <Interval t1="42.166" t2="42.334" value=" born"/>
+      <Interval t1="42.447" t2="42.615" value=" to"/>
+      <Interval t1="42.727" t2="42.895" value=" make"/>
+      <Interval t1="43.064" t2="43.232" value=" his"/>
+      <Interval t1="43.344" t2="43.512" value="to"/>
+      <Interval t1="43.625" t2="44.017" value="ry"/>
+      <Interval t1="44.522" t2="44.691" value="We'll"/>
+      <Interval t1="44.803" t2="44.971" value=" make"/>
+      <Interval t1="45.083" t2="45.252" value=" it"/>
+      <Interval t1="45.420" t2="45.588" value=" hap"/>
+      <Interval t1="45.700" t2="46.093" value="pen,"/>
+      <Interval t1="46.374" t2="46.542" value="we'll"/>
+      <Interval t1="46.654" t2="46.822" value=" turn"/>
+      <Interval t1="46.935" t2="47.103" value=" it"/>
+      <Interval t1="47.215" t2="47.383" value=" a"/>
+      <Interval t1="47.496" t2="47.888" value="round"/>
+      <Interval t1="48.393" t2="48.561" value="Yes,"/>
+      <Interval t1="48.674" t2="48.842" value=" we"/>
+      <Interval t1="48.954" t2="49.122" value=" were"/>
+      <Interval t1="49.291" t2="49.459" value=" born"/>
+      <Interval t1="49.571" t2="49.740" value=" to"/>
+      <Interval t1="49.852" t2="50.020" value=" make"/>
+      <Interval t1="50.188" t2="50.357" value=" his"/>
+      <Interval t1="50.469" t2="50.637" value="to"/>
+      <Interval t1="50.805" t2="51.254" value="ry"/>
+      <Interval t1="56.472" t2="56.640" value="Born"/>
+      <Interval t1="56.752" t2="56.920" value=" to"/>
+      <Interval t1="57.033" t2="57.201" value=" make"/>
+      <Interval t1="57.369" t2="57.537" value=" his"/>
+      <Interval t1="57.650" t2="57.818" value="to"/>
+      <Interval t1="57.986" t2="58.547" value="ry"/>
+      <Interval t1="63.035" t2="63.204" value="Born-"/>
+      <Interval t1="63.316" t2="63.484" value="born-"/>
+      <Interval t1="63.596" t2="63.765" value="born"/>
+      <Interval t1="63.933" t2="64.101" value=" to"/>
+      <Interval t1="64.213" t2="64.382" value=" make"/>
+      <Interval t1="64.550" t2="64.718" value=" his"/>
+      <Interval t1="64.830" t2="64.999" value="to"/>
+      <Interval t1="65.111" t2="65.560" value="ry"/>
+      <Interval t1="66.009" t2="66.177" value="Don't"/>
+      <Interval t1="66.289" t2="66.457" value=" stop"/>
+      <Interval t1="66.570" t2="66.738" value=" us"/>
+      <Interval t1="66.906" t2="67.355" value=" now,"/>
+      <Interval t1="67.804" t2="67.972" value="the"/>
+      <Interval t1="68.140" t2="68.309" value=" mo"/>
+      <Interval t1="68.421" t2="68.589" value="ment"/>
+      <Interval t1="68.701" t2="68.870" value=" of"/>
+      <Interval t1="68.982" t2="69.431" value=" truth"/>
+      <Interval t1="69.879" t2="70.048" value="We"/>
+      <Interval t1="70.160" t2="70.553" value=" were"/>
+      <Interval t1="70.777" t2="70.945" value=" born"/>
+      <Interval t1="71.058" t2="71.226" value=" to"/>
+      <Interval t1="71.338" t2="71.506" value=" make"/>
+      <Interval t1="71.675" t2="71.843" value=" his"/>
+      <Interval t1="71.955" t2="72.123" value="to"/>
+      <Interval t1="72.292" t2="72.684" value="ry"/>
+      <Interval t1="73.189" t2="73.358" value="We'll"/>
+      <Interval t1="73.470" t2="73.638" value=" make"/>
+      <Interval t1="73.750" t2="73.919" value=" it"/>
+      <Interval t1="74.087" t2="74.255" value=" hap"/>
+      <Interval t1="74.367" t2="74.760" value="pen,"/>
+      <Interval t1="75.041" t2="75.209" value="we'll"/>
+      <Interval t1="75.321" t2="75.489" value=" turn"/>
+      <Interval t1="75.602" t2="75.770" value=" it"/>
+      <Interval t1="75.882" t2="76.050" value=" a"/>
+      <Interval t1="76.163" t2="76.555" value="round"/>
+      <Interval t1="76.836" t2="77.004" value="Yes,"/>
+      <Interval t1="77.116" t2="77.397" value=" we"/>
+      <Interval t1="77.509" t2="77.790" value=" were"/>
+      <Interval t1="77.958" t2="78.126" value=" born"/>
+      <Interval t1="78.238" t2="78.407" value=" to"/>
+      <Interval t1="78.519" t2="78.687" value=" make"/>
+      <Interval t1="78.855" t2="79.024" value=" his"/>
+      <Interval t1="79.136" t2="79.304" value="to"/>
+      <Interval t1="79.416" t2="79.865" value="ry"/>
+      <Interval t1="80.987" t2="81.156" value="We"/>
+      <Interval t1="81.268" t2="81.436" value=" were"/>
+      <Interval t1="81.548" t2="81.717" value=" born"/>
+      <Interval t1="81.829" t2="81.997" value=" to"/>
+      <Interval t1="82.109" t2="82.278" value=" make"/>
+      <Interval t1="82.446" t2="82.614" value=" his"/>
+      <Interval t1="82.726" t2="82.895" value="to"/>
+      <Interval t1="83.007" t2="83.400" value="ry"/>
+      <Interval t1="84.241" t2="84.409" value="Yes,"/>
+      <Interval t1="84.522" t2="84.690" value=" we"/>
+      <Interval t1="84.802" t2="84.970" value=" were"/>
+      <Interval t1="85.083" t2="85.251" value=" born"/>
+      <Interval t1="85.363" t2="85.531" value=" to"/>
+      <Interval t1="85.644" t2="85.812" value=" make"/>
+      <Interval t1="85.980" t2="86.148" value=" his"/>
+      <Interval t1="86.261" t2="86.429" value="to"/>
+      <Interval t1="86.597" t2="88.617" value="ry!"/>
+   </IntervalLayer>
+   <IntervalLayer datatype="STRING" name="notes_full">
+      <Interval t1="8.450" t2="8.618" value="#p49#.Can#h"/>
+      <Interval t1="8.730" t2="8.899" value="#p49#. you#h"/>
+      <Interval t1="9.067" t2="9.628" value="#p49#. hear#h"/>
+      <Interval t1="10.245" t2="10.413" value="#p49#. my#h"/>
+      <Interval t1="10.526" t2="10.694" value="#p49#. heart#h"/>
+      <Interval t1="10.862" t2="11.311" value="#p49#.beat?#h"/>
+      <Interval t1="11.704" t2="11.872" value="#p49#.Tired#h"/>
+      <Interval t1="11.984" t2="12.153" value="#p49#. of#h"/>
+      <Interval t1="12.321" t2="12.489" value="#p49#. feel#h"/>
+      <Interval t1="12.657" t2="13.218" value="#p49#.ing#h"/>
+      <Interval t1="13.779" t2="13.836" value="#p49#. ne#h"/>
+      <Interval t1="13.948" t2="14.004" value="#p49#.ver#h"/>
+      <Interval t1="14.116" t2="14.340" value="#p49#. e#h"/>
+      <Interval t1="14.453" t2="14.509" value="#p49#.nough#h"/>
+      <Interval t1="14.621" t2="14.789" value="#p49#.~#h"/>
+      <Interval t1="15.014" t2="15.406" value="#p49#.I#h"/>
+      <Interval t1="15.631" t2="15.799" value="#p49#. close#h"/>
+      <Interval t1="15.911" t2="16.080" value="#p49#. my#h"/>
+      <Interval t1="16.248" t2="16.809" value="#p49#. eyes and#h"/>
+      <Interval t1="17.426" t2="17.594" value="#p49#. tell#h"/>
+      <Interval t1="17.706" t2="17.875" value="#p49#. my#h"/>
+      <Interval t1="18.043" t2="18.324" value="#p49#.self#h"/>
+      <Interval t1="18.604" t2="18.772" value="#p49#.That#h"/>
+      <Interval t1="18.885" t2="19.333" value="#p49#. my#h"/>
+      <Interval t1="19.502" t2="19.670" value="#p49#. dreams#h"/>
+      <Interval t1="19.782" t2="20.231" value="#p49#. will#h"/>
+      <Interval t1="20.399" t2="20.568" value="#p49#. come#h"/>
+      <Interval t1="20.680" t2="21.353" value="#p49#. true#h"/>
+      <Interval t1="21.858" t2="22.026" value="#p49#.There'll#h"/>
+      <Interval t1="22.138" t2="22.307" value="#p49#. be#h"/>
+      <Interval t1="22.475" t2="22.924" value="#p49#. no#h#g5"/>
+      <Interval t1="23.092" t2="23.260" value="#p49#. more#h#g5"/>
+      <Interval t1="23.373" t2="23.541" value="#p49#. dark#h"/>
+      <Interval t1="23.653" t2="23.765" value="#p49#.ness#h"/>
+      <Interval t1="23.934" t2="24.102" value="#p49#.When#h"/>
+      <Interval t1="24.214" t2="24.495" value="#p49#. you#h"/>
+      <Interval t1="24.663" t2="24.943" value="#p49#. be#h"/>
+      <Interval t1="25.112" t2="25.392" value="#p49#.lieve#h"/>
+      <Interval t1="25.504" t2="25.785" value="#p49#. in#h"/>
+      <Interval t1="26.009" t2="26.458" value="#p49#. your#h"/>
+      <Interval t1="26.570" t2="26.682" value="#p49#.self#h"/>
+      <Interval t1="26.907" t2="27.075" value="#p49#.You#h"/>
+      <Interval t1="27.187" t2="27.356" value="#p49#. are#h"/>
+      <Interval t1="27.468" t2="27.636" value="#p49#. uns#h"/>
+      <Interval t1="27.804" t2="28.085" value="#p49#.top#h"/>
+      <Interval t1="28.253" t2="28.365" value="#p49#.pa#h#g5"/>
+      <Interval t1="28.422" t2="28.590" value="#p49#.~#h#g5"/>
+      <Interval t1="28.702" t2="29.151" value="#p49#.ble#h"/>
+      <Interval t1="29.600" t2="29.768" value="#p49#.Where#h"/>
+      <Interval t1="29.880" t2="30.048" value="#p49#.~#h"/>
+      <Interval t1="30.161" t2="30.329" value="#p49#. your#h"/>
+      <Interval t1="30.497" t2="30.666" value="#p49#. des#h"/>
+      <Interval t1="30.778" t2="30.946" value="#p49#.ti#h"/>
+      <Interval t1="31.114" t2="31.283" value="#p49#.ny#h"/>
+      <Interval t1="31.395" t2="31.563" value="#p49#. lies#h"/>
+      <Interval t1="31.675" t2="32.180" value="#p49#.~#h"/>
+      <Interval t1="32.573" t2="32.741" value="#p49#.Danc#h"/>
+      <Interval t1="32.853" t2="33.022" value="#p49#.ing#h"/>
+      <Interval t1="33.134" t2="33.583" value="#p49#. on#h"/>
+      <Interval t1="33.751" t2="33.919" value="#p49#. the#h"/>
+      <Interval t1="34.032" t2="34.144" value="#p49#. blades,#h"/>
+      <Interval t1="34.368" t2="34.536" value="#p49#.you#h"/>
+      <Interval t1="34.649" t2="34.873" value="#p51#. set#h"/>
+      <Interval t1="34.985" t2="35.266" value="#p52#. my#h"/>
+      <Interval t1="35.434" t2="35.715" value="#p51#. heart#h#g5"/>
+      <Interval t1="35.883" t2="36.163" value="#p52#. on#h"/>
+      <Interval t1="36.332" t2="36.612" value="#p54#. fire#h"/>
+      <Interval t1="36.780" t2="37.173" value="#p52#.~#h"/>
+      <Interval t1="37.398" t2="37.566" value="#p49#.Don't#h#g5"/>
+      <Interval t1="37.678" t2="37.846" value="#p52#. stop#h#g5"/>
+      <Interval t1="37.959" t2="38.127" value="#p54#. us#h"/>
+      <Interval t1="38.239" t2="38.688" value="#p52#. now,#h"/>
+      <Interval t1="39.137" t2="39.305" value="#p49#.the#h"/>
+      <Interval t1="39.473" t2="39.642" value="#p54#. mo#h"/>
+      <Interval t1="39.754" t2="39.922" value="#p52#.ment#h"/>
+      <Interval t1="40.034" t2="40.203" value="#p54#. of#h"/>
+      <Interval t1="40.371" t2="40.820" value="#p54#. truth#h"/>
+      <Interval t1="41.268" t2="41.437" value="#p54#.We#h"/>
+      <Interval t1="41.549" t2="41.942" value="#p52#. were#h"/>
+      <Interval t1="42.166" t2="42.334" value="#p54#. born#h"/>
+      <Interval t1="42.447" t2="42.615" value="#p52#. to#h"/>
+      <Interval t1="42.727" t2="42.895" value="#p54#. make#h#g5"/>
+      <Interval t1="43.064" t2="43.232" value="#p57#. his#h#g5"/>
+      <Interval t1="43.344" t2="43.512" value="#p56#.to#h#g5"/>
+      <Interval t1="43.625" t2="44.017" value="#p52#.ry#h#g5"/>
+      <Interval t1="44.522" t2="44.691" value="#p49#.We'll#h"/>
+      <Interval t1="44.803" t2="44.971" value="#p52#. make#h"/>
+      <Interval t1="45.083" t2="45.252" value="#p54#. it#h"/>
+      <Interval t1="45.420" t2="45.588" value="#p52#. hap#h"/>
+      <Interval t1="45.700" t2="46.093" value="#p52#.pen,#h"/>
+      <Interval t1="46.374" t2="46.542" value="#p49#.we'll#h"/>
+      <Interval t1="46.654" t2="46.822" value="#p54#. turn#h"/>
+      <Interval t1="46.935" t2="47.103" value="#p52#. it#h"/>
+      <Interval t1="47.215" t2="47.383" value="#p54#. a#h"/>
+      <Interval t1="47.496" t2="47.888" value="#p54#.round#h"/>
+      <Interval t1="48.393" t2="48.561" value="#p54#.Yes,#h"/>
+      <Interval t1="48.674" t2="48.842" value="#p54#. we#h"/>
+      <Interval t1="48.954" t2="49.122" value="#p52#. were#h"/>
+      <Interval t1="49.291" t2="49.459" value="#p54#. born#h"/>
+      <Interval t1="49.571" t2="49.740" value="#p52#. to#h"/>
+      <Interval t1="49.852" t2="50.020" value="#p54#. make#h"/>
+      <Interval t1="50.188" t2="50.357" value="#p57#. his#h"/>
+      <Interval t1="50.469" t2="50.637" value="#p56#.to#h"/>
+      <Interval t1="50.805" t2="51.254" value="#p52#.ry#h"/>
+      <Interval t1="56.472" t2="56.640" value="#p54#.Born#h"/>
+      <Interval t1="56.752" t2="56.920" value="#p52#. to#h"/>
+      <Interval t1="57.033" t2="57.201" value="#p54#. make#h"/>
+      <Interval t1="57.369" t2="57.537" value="#p57#. his#h"/>
+      <Interval t1="57.650" t2="57.818" value="#p56#.to#h"/>
+      <Interval t1="57.986" t2="58.547" value="#p52#.ry#h"/>
+      <Interval t1="63.035" t2="63.204" value="#p54#.Born-#h#g5"/>
+      <Interval t1="63.316" t2="63.484" value="#p54#.born-#h#g5"/>
+      <Interval t1="63.596" t2="63.765" value="#p54#.born#h#g5"/>
+      <Interval t1="63.933" t2="64.101" value="#p52#. to#h"/>
+      <Interval t1="64.213" t2="64.382" value="#p54#. make#h"/>
+      <Interval t1="64.550" t2="64.718" value="#p57#. his#h"/>
+      <Interval t1="64.830" t2="64.999" value="#p56#.to#h"/>
+      <Interval t1="65.111" t2="65.560" value="#p52#.ry#h"/>
+      <Interval t1="66.009" t2="66.177" value="#p49#.Don't#h"/>
+      <Interval t1="66.289" t2="66.457" value="#p52#. stop#h"/>
+      <Interval t1="66.570" t2="66.738" value="#p54#. us#h"/>
+      <Interval t1="66.906" t2="67.355" value="#p52#. now,#h"/>
+      <Interval t1="67.804" t2="67.972" value="#p49#.the#h"/>
+      <Interval t1="68.140" t2="68.309" value="#p54#. mo#h"/>
+      <Interval t1="68.421" t2="68.589" value="#p52#.ment#h"/>
+      <Interval t1="68.701" t2="68.870" value="#p54#. of#h"/>
+      <Interval t1="68.982" t2="69.431" value="#p54#. truth#h"/>
+      <Interval t1="69.879" t2="70.048" value="#p54#.We#h"/>
+      <Interval t1="70.160" t2="70.553" value="#p52#. were#h"/>
+      <Interval t1="70.777" t2="70.945" value="#p54#. born#h"/>
+      <Interval t1="71.058" t2="71.226" value="#p52#. to#h"/>
+      <Interval t1="71.338" t2="71.506" value="#p54#. make#h"/>
+      <Interval t1="71.675" t2="71.843" value="#p57#. his#h"/>
+      <Interval t1="71.955" t2="72.123" value="#p56#.to#h"/>
+      <Interval t1="72.292" t2="72.684" value="#p52#.ry#h"/>
+      <Interval t1="73.189" t2="73.358" value="#p49#.We'll#h"/>
+      <Interval t1="73.470" t2="73.638" value="#p52#. make#h"/>
+      <Interval t1="73.750" t2="73.919" value="#p54#. it#h"/>
+      <Interval t1="74.087" t2="74.255" value="#p52#. hap#h"/>
+      <Interval t1="74.367" t2="74.760" value="#p52#.pen,#h"/>
+      <Interval t1="75.041" t2="75.209" value="#p49#.we'll#h"/>
+      <Interval t1="75.321" t2="75.489" value="#p54#. turn#h"/>
+      <Interval t1="75.602" t2="75.770" value="#p52#. it#h"/>
+      <Interval t1="75.882" t2="76.050" value="#p54#. a#h"/>
+      <Interval t1="76.163" t2="76.555" value="#p54#.round#h"/>
+      <Interval t1="76.836" t2="77.004" value="#p54#.Yes,#h#g5"/>
+      <Interval t1="77.116" t2="77.397" value="#p54#. we#h"/>
+      <Interval t1="77.509" t2="77.790" value="#p52#. were#h#g5"/>
+      <Interval t1="77.958" t2="78.126" value="#p54#. born#h#g5"/>
+      <Interval t1="78.238" t2="78.407" value="#p52#. to#h"/>
+      <Interval t1="78.519" t2="78.687" value="#p54#. make#h"/>
+      <Interval t1="78.855" t2="79.024" value="#p57#. his#h"/>
+      <Interval t1="79.136" t2="79.304" value="#p56#.to#h"/>
+      <Interval t1="79.416" t2="79.865" value="#p52#.ry#h"/>
+      <Interval t1="80.987" t2="81.156" value="#p54#.We#h"/>
+      <Interval t1="81.268" t2="81.436" value="#p52#. were#h"/>
+      <Interval t1="81.548" t2="81.717" value="#p54#. born#h"/>
+      <Interval t1="81.829" t2="81.997" value="#p52#. to#h"/>
+      <Interval t1="82.109" t2="82.278" value="#p54#. make#h"/>
+      <Interval t1="82.446" t2="82.614" value="#p57#. his#h"/>
+      <Interval t1="82.726" t2="82.895" value="#p56#.to#h"/>
+      <Interval t1="83.007" t2="83.400" value="#p52#.ry#h"/>
+      <Interval t1="84.241" t2="84.409" value="#p54#.Yes,#h"/>
+      <Interval t1="84.522" t2="84.690" value="#p54#. we#h"/>
+      <Interval t1="84.802" t2="84.970" value="#p52#. were#h"/>
+      <Interval t1="85.083" t2="85.251" value="#p54#. born#h"/>
+      <Interval t1="85.363" t2="85.531" value="#p52#. to#h"/>
+      <Interval t1="85.644" t2="85.812" value="#p54#. make#h"/>
+      <Interval t1="85.980" t2="86.148" value="#p57#. his#h"/>
+      <Interval t1="86.261" t2="86.429" value="#p56#.to#h"/>
+      <Interval t1="86.597" t2="88.617" value="#p52#.ry!#h"/>
+   </IntervalLayer>
+</AnnotationFile>

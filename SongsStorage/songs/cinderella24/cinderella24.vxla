@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<AnnotationFile version="3.0">
+   <IntervalLayer datatype="STRING" name="structure">
+      <Interval t1="2.000" t2="3.000" value="couplet1"/>
+   </IntervalLayer>
+   <IntervalLayer datatype="STRING" name="pages">
+      <Interval t1="0.000" t2="9.360" value=""/>
+      <Interval t1="9.360" t2="11.211" value=""/>
+      <Interval t1="11.211" t2="12.611" value=""/>
+      <Interval t1="12.611" t2="13.761" value=""/>
+      <Interval t1="13.761" t2="17.412" value=""/>
+      <Interval t1="17.412" t2="19.912" value=""/>
+      <Interval t1="19.912" t2="22.163" value=""/>
+      <Interval t1="22.163" t2="23.363" value=""/>
+      <Interval t1="23.363" t2="25.363" value=""/>
+      <Interval t1="25.363" t2="27.763" value=""/>
+      <Interval t1="27.763" t2="30.164" value=""/>
+      <Interval t1="30.164" t2="33.964" value=""/>
+      <Interval t1="33.964" t2="39.115" value=""/>
+      <Interval t1="39.115" t2="42.316" value=""/>
+      <Interval t1="42.316" t2="46.667" value=""/>
+      <Interval t1="46.667" t2="50.467" value=""/>
+      <Interval t1="50.467" t2="54.768" value=""/>
+      <Interval t1="54.768" t2="59.169" value=""/>
+      <Interval t1="59.169" t2="62.369" value=""/>
+      <Interval t1="62.369" t2="65.570" value=""/>
+      <Interval t1="65.570" t2="67.820" value=""/>
+      <Interval t1="67.820" t2="73.471" value=""/>
+      <Interval t1="73.471" t2="76.622" value=""/>
+      <Interval t1="76.622" t2="78.372" value=""/>
+      <Interval t1="78.372" t2="79.772" value=""/>
+      <Interval t1="79.772" t2="81.022" value=""/>
+      <Interval t1="81.022" t2="84.573" value=""/>
+      <Interval t1="84.573" t2="87.023" value=""/>
+      <Interval t1="87.023" t2="89.374" value=""/>
+      <Interval t1="89.374" t2="90.574" value=""/>
+      <Interval t1="90.574" t2="92.574" value=""/>
+      <Interval t1="92.574" t2="93.824" value=""/>
+      <Interval t1="93.824" t2="97.375" value=""/>
+      <Interval t1="97.375" t2="99.525" value=""/>
+      <Interval t1="99.525" t2="103.976" value=""/>
+      <Interval t1="103.976" t2="110.000" value=""/>
+   </IntervalLayer>
+   <IntervalLayer datatype="STRING" name="lyrics">
+      <Interval t1="7.060" t2="7.460" value="Su"/>
+      <Interval t1="7.460" t2="7.760" value="na"/>
+      <Interval t1="7.760" t2="7.860" value="o"/>
+      <Interval t1="7.910" t2="8.010" value=" ni"/>
+      <Interval t1="8.060" t2="8.410" value=" I"/>
+      <Interval t1="8.460" t2="8.810" value=" LOVE"/>
+      <Interval t1="8.860" t2="9.260" value=" YOU!"/>
+      <Interval t1="9.460" t2="9.660" value="To"/>
+      <Interval t1="9.660" t2="9.860" value="do"/>
+      <Interval t1="9.860" t2="10.061" value="ke"/>
+      <Interval t1="10.061" t2="10.261" value="yo"/>
+      <Interval t1="10.261" t2="10.661" value="u~"/>
+      <Interval t1="10.711" t2="11.111" value=" kit"/>
+      <Interval t1="11.111" t2="11.161" value="to"/>
+      <Interval t1="11.311" t2="11.661" value="YOU"/>
+      <Interval t1="11.711" t2="12.061" value=" LOVE"/>
+      <Interval t1="12.111" t2="12.511" value=" ME!"/>
+      <Interval t1="12.711" t2="12.911" value="Tsu"/>
+      <Interval t1="12.911" t2="13.111" value="ta"/>
+      <Interval t1="13.111" t2="13.311" value="wa"/>
+      <Interval t1="13.311" t2="13.461" value="ru"/>
+      <Interval t1="13.511" t2="13.711" value=" sa"/>
+      <Interval t1="13.861" t2="14.111" value="Ki"/>
+      <Interval t1="14.111" t2="14.261" value="mi"/>
+      <Interval t1="14.311" t2="14.511" value=" ni"/>
+      <Interval t1="14.561" t2="15.011" value=" ni~"/>
+      <Interval t1="15.111" t2="15.311" value="a"/>
+      <Interval t1="15.311" t2="15.761" value="u"/>
+      <Interval t1="15.911" t2="16.112" value=" ga"/>
+      <Interval t1="16.112" t2="16.462" value="ra"/>
+      <Interval t1="16.462" t2="16.662" value="su"/>
+      <Interval t1="16.712" t2="17.362" value=" no"/>
+      <Interval t1="17.512" t2="17.662" value="Kut"/>
+      <Interval t1="17.662" t2="18.112" value="su"/>
+      <Interval t1="18.162" t2="18.412" value=" wo"/>
+      <Interval t1="18.462" t2="18.912" value=" sa"/>
+      <Interval t1="18.912" t2="19.112" value="ga"/>
+      <Interval t1="19.112" t2="19.862" value="sou"/>
+      <Interval t1="20.012" t2="20.312" value="Fu"/>
+      <Interval t1="20.312" t2="20.512" value="ta"/>
+      <Interval t1="20.512" t2="20.662" value="ri"/>
+      <Interval t1="20.712" t2="20.862" value=" de"/>
+      <Interval t1="20.912" t2="21.212" value=" STEP"/>
+      <Interval t1="21.262" t2="21.612" value=" AND"/>
+      <Interval t1="21.662" t2="22.113" value=" GO!"/>
+      <Interval t1="22.263" t2="22.513" value="It"/>
+      <Interval t1="22.513" t2="22.663" value="su"/>
+      <Interval t1="22.713" t2="22.913" value=" ma"/>
+      <Interval t1="22.913" t2="23.063" value="de"/>
+      <Interval t1="23.113" t2="23.313" value=" mo"/>
+      <Interval t1="23.463" t2="23.863" value="Shin"/>
+      <Interval t1="23.863" t2="24.063" value="ya"/>
+      <Interval t1="24.113" t2="24.513" value=" juu"/>
+      <Interval t1="24.513" t2="24.813" value="ni-ji"/>
+      <Interval t1="24.863" t2="25.263" value=" wo"/>
+      <Interval t1="25.463" t2="25.713" value="Su"/>
+      <Interval t1="25.713" t2="25.913" value="gi"/>
+      <Interval t1="25.913" t2="26.113" value="ta"/>
+      <Interval t1="26.113" t2="26.363" value="~a"/>
+      <Interval t1="26.363" t2="26.663" value="tte"/>
+      <Interval t1="26.713" t2="26.963" value=" bo"/>
+      <Interval t1="26.963" t2="27.113" value="ku"/>
+      <Interval t1="27.113" t2="27.263" value="ra"/>
+      <Interval t1="27.313" t2="27.713" value=" no"/>
+      <Interval t1="27.863" t2="28.064" value="Ra"/>
+      <Interval t1="28.064" t2="28.564" value="bu"/>
+      <Interval t1="28.664" t2="28.914" value=" ma"/>
+      <Interval t1="28.914" t2="29.264" value="jik"/>
+      <Interval t1="29.264" t2="29.464" value="ku"/>
+      <Interval t1="29.514" t2="30.064" value=" wa"/>
+      <Interval t1="30.264" t2="30.514" value="To"/>
+      <Interval t1="30.514" t2="30.864" value="ke"/>
+      <Interval t1="30.914" t2="31.214" value=" wa"/>
+      <Interval t1="31.264" t2="31.664" value=" shi"/>
+      <Interval t1="31.664" t2="31.914" value="na"/>
+      <Interval t1="31.914" t2="33.664" value="i~"/>
+      <Interval t1="34.115" t2="34.465" value="O"/>
+      <Interval t1="34.465" t2="34.865" value="i"/>
+      <Interval t1="34.865" t2="35.215" value="de"/>
+      <Interval t1="35.265" t2="35.665" value=" me"/>
+      <Interval t1="35.665" t2="35.915" value="shi"/>
+      <Interval t1="35.915" t2="36.215" value="ma"/>
+      <Interval t1="36.215" t2="36.715" value="se"/>
+      <Interval t1="36.865" t2="37.265" value=" o"/>
+      <Interval t1="37.265" t2="37.465" value="hi"/>
+      <Interval t1="37.465" t2="37.815" value="me"/>
+      <Interval t1="37.865" t2="38.315" value=" sa"/>
+      <Interval t1="38.315" t2="38.765" value="ma"/>
+      <Interval t1="39.265" t2="39.665" value="Do"/>
+      <Interval t1="39.665" t2="40.066" value="ku"/>
+      <Interval t1="40.116" t2="40.466" value=" no"/>
+      <Interval t1="40.516" t2="40.766" value=" ri"/>
+      <Interval t1="40.766" t2="41.116" value="~in"/>
+      <Interval t1="41.116" t2="41.466" value="go"/>
+      <Interval t1="41.516" t2="41.916" value=" wo"/>
+      <Interval t1="42.466" t2="42.866" value="Ta"/>
+      <Interval t1="42.866" t2="43.266" value="be"/>
+      <Interval t1="43.266" t2="43.616" value="te"/>
+      <Interval t1="43.666" t2="43.916" value=" ne"/>
+      <Interval t1="43.916" t2="44.316" value="muc"/>
+      <Interval t1="44.316" t2="44.616" value="chai"/>
+      <Interval t1="44.666" t2="44.916" value=" sou"/>
+      <Interval t1="44.916" t2="45.516" value="~ou"/>
+      <Interval t1="45.666" t2="46.117" value=" na"/>
+      <Interval t1="46.867" t2="47.217" value="Su"/>
+      <Interval t1="47.217" t2="47.667" value="na"/>
+      <Interval t1="47.667" t2="48.017" value="o"/>
+      <Interval t1="48.067" t2="48.467" value=" su"/>
+      <Interval t1="48.467" t2="48.717" value="gi"/>
+      <Interval t1="48.717" t2="49.017" value="ru"/>
+      <Interval t1="49.067" t2="49.317" value=" ki"/>
+      <Interval t1="49.317" t2="49.467" value="mi"/>
+      <Interval t1="49.517" t2="49.967" value=" ga"/>
+      <Interval t1="50.867" t2="51.267" value="To"/>
+      <Interval t1="51.267" t2="51.667" value="te"/>
+      <Interval t1="51.667" t2="52.017" value="mo"/>
+      <Interval t1="52.068" t2="52.468" value=" i"/>
+      <Interval t1="52.468" t2="52.818" value="to"/>
+      <Interval t1="52.818" t2="53.118" value="shi"/>
+      <Interval t1="53.118" t2="53.818" value="~i"/>
+      <Interval t1="56.068" t2="56.518" value="A"/>
+      <Interval t1="56.668" t2="56.968" value="tar"/>
+      <Interval t1="56.968" t2="57.418" value="i"/>
+      <Interval t1="57.418" t2="57.718" value="ma"/>
+      <Interval t1="57.718" t2="58.169" value="e~"/>
+      <Interval t1="58.219" t2="58.469" value=" i"/>
+      <Interval t1="58.469" t2="59.069" value="ko"/>
+      <Interval t1="59.269" t2="59.669" value="ta"/>
+      <Interval t1="59.669" t2="60.119" value="ka"/>
+      <Interval t1="60.119" t2="60.519" value="ra"/>
+      <Interval t1="60.519" t2="60.919" value="mo"/>
+      <Interval t1="60.919" t2="61.419" value="no"/>
+      <Interval t1="61.469" t2="62.169" value=" sa"/>
+      <Interval t1="62.469" t2="63.069" value="Chi"/>
+      <Interval t1="63.069" t2="63.269" value="kyu"/>
+      <Interval t1="63.269" t2="63.819" value="u~"/>
+      <Interval t1="63.869" t2="64.070" value=" wa"/>
+      <Interval t1="64.120" t2="64.670" value=" ma"/>
+      <Interval t1="64.670" t2="64.870" value="wa"/>
+      <Interval t1="64.870" t2="65.370" value="ri"/>
+      <Interval t1="65.670" t2="66.070" value="Hi"/>
+      <Interval t1="66.120" t2="66.470" value=" wa"/>
+      <Interval t1="66.520" t2="66.920" value=" no"/>
+      <Interval t1="66.920" t2="67.320" value="bo"/>
+      <Interval t1="67.320" t2="67.770" value="ri"/>
+      <Interval t1="67.920" t2="68.470" value="Ki"/>
+      <Interval t1="68.470" t2="68.920" value="mi"/>
+      <Interval t1="68.970" t2="69.670" value=" wa"/>
+      <Interval t1="69.720" t2="70.471" value=" ho"/>
+      <Interval t1="70.521" t2="71.321" value="ho"/>
+      <Interval t1="71.321" t2="72.071" value="e"/>
+      <Interval t1="72.071" t2="72.971" value="mu~"/>
+      <Interval t1="74.271" t2="74.671" value="Su"/>
+      <Interval t1="74.671" t2="74.871" value="na"/>
+      <Interval t1="74.871" t2="75.071" value="o"/>
+      <Interval t1="75.121" t2="75.271" value=" ni"/>
+      <Interval t1="75.321" t2="75.621" value=" I"/>
+      <Interval t1="75.671" t2="75.971" value=" LOVE"/>
+      <Interval t1="76.021" t2="76.572" value=" YOU!"/>
+      <Interval t1="76.722" t2="76.972" value="To"/>
+      <Interval t1="76.972" t2="77.172" value="do"/>
+      <Interval t1="77.172" t2="77.322" value="ke"/>
+      <Interval t1="77.322" t2="77.622" value="yo"/>
+      <Interval t1="77.622" t2="77.872" value="u~"/>
+      <Interval t1="77.922" t2="78.272" value=" kit"/>
+      <Interval t1="78.272" t2="78.322" value="to"/>
+      <Interval t1="78.472" t2="78.822" value="YOU"/>
+      <Interval t1="78.872" t2="79.172" value=" LOVE"/>
+      <Interval t1="79.222" t2="79.722" value=" ME!"/>
+      <Interval t1="79.872" t2="80.122" value="Tsu"/>
+      <Interval t1="80.122" t2="80.272" value="ta"/>
+      <Interval t1="80.272" t2="80.472" value="wa"/>
+      <Interval t1="80.472" t2="80.672" value="ru"/>
+      <Interval t1="80.722" t2="80.972" value=" sa"/>
+      <Interval t1="81.122" t2="81.322" value="Ki"/>
+      <Interval t1="81.322" t2="81.472" value="mi"/>
+      <Interval t1="81.522" t2="81.672" value=" ni"/>
+      <Interval t1="81.722" t2="82.273" value=" ni~"/>
+      <Interval t1="82.273" t2="82.523" value="a"/>
+      <Interval t1="82.523" t2="83.023" value="u"/>
+      <Interval t1="83.073" t2="83.323" value=" ga"/>
+      <Interval t1="83.323" t2="83.573" value="ra"/>
+      <Interval t1="83.573" t2="83.823" value="su"/>
+      <Interval t1="83.873" t2="84.423" value=" no"/>
+      <Interval t1="84.673" t2="84.873" value="Kut"/>
+      <Interval t1="84.873" t2="85.273" value="su"/>
+      <Interval t1="85.323" t2="85.523" value=" wo"/>
+      <Interval t1="85.573" t2="86.023" value=" sa"/>
+      <Interval t1="86.073" t2="86.273" value="ga"/>
+      <Interval t1="86.273" t2="86.973" value="sou"/>
+      <Interval t1="87.123" t2="87.473" value="Fu"/>
+      <Interval t1="87.473" t2="87.673" value="ta"/>
+      <Interval t1="87.673" t2="87.773" value="ri"/>
+      <Interval t1="87.823" t2="88.023" value=" de"/>
+      <Interval t1="88.074" t2="88.374" value=" STEP"/>
+      <Interval t1="88.424" t2="88.774" value=" AND"/>
+      <Interval t1="88.824" t2="89.274" value=" GO!"/>
+      <Interval t1="89.474" t2="89.724" value="It"/>
+      <Interval t1="89.724" t2="89.874" value="su"/>
+      <Interval t1="89.924" t2="90.074" value=" ma"/>
+      <Interval t1="90.074" t2="90.274" value="de"/>
+      <Interval t1="90.324" t2="90.524" value=" mo"/>
+      <Interval t1="90.674" t2="91.074" value="Shin"/>
+      <Interval t1="91.074" t2="91.224" value="ya"/>
+      <Interval t1="91.274" t2="91.724" value=" juu"/>
+      <Interval t1="91.724" t2="92.024" value="ni-ji"/>
+      <Interval t1="92.074" t2="92.524" value=" wo"/>
+      <Interval t1="92.674" t2="92.924" value="Su"/>
+      <Interval t1="92.924" t2="93.124" value="gi"/>
+      <Interval t1="93.124" t2="93.324" value="ta"/>
+      <Interval t1="93.324" t2="93.574" value="~a"/>
+      <Interval t1="93.574" t2="93.774" value="tte"/>
+      <Interval t1="93.924" t2="94.125" value="ki"/>
+      <Interval t1="94.125" t2="94.275" value="mi"/>
+      <Interval t1="94.325" t2="94.475" value=" wa"/>
+      <Interval t1="94.525" t2="95.025" value=" bo"/>
+      <Interval t1="95.025" t2="95.275" value="ku"/>
+      <Interval t1="95.325" t2="95.825" value=" no"/>
+      <Interval t1="95.875" t2="96.125" value=" i"/>
+      <Interval t1="96.125" t2="96.425" value="to"/>
+      <Interval t1="96.425" t2="96.725" value="shi"/>
+      <Interval t1="96.725" t2="97.325" value="i~"/>
+      <Interval t1="97.475" t2="97.675" value="Ni"/>
+      <Interval t1="97.675" t2="98.025" value="ju"/>
+      <Interval t1="98.025" t2="98.475" value="u~"/>
+      <Interval t1="98.475" t2="98.825" value="yo"/>
+      <Interval t1="98.875" t2="99.125" value=" ji"/>
+      <Interval t1="99.125" t2="99.475" value="kan"/>
+      <Interval t1="99.625" t2="100.076" value="Shin"/>
+      <Interval t1="100.076" t2="100.476" value="de"/>
+      <Interval t1="100.476" t2="100.726" value="re"/>
+      <Interval t1="100.726" t2="103.726" value="ra~"/>
+      <Interval t1="104.076" t2="104.476" value="Hey!"/>
+      <Interval t1="104.676" t2="105.176" value=" hey!"/>
+      <Interval t1="105.276" t2="106.077" value=" hey!"/>
+   </IntervalLayer>
+   <IntervalLayer datatype="STRING" name="notes_full">
+      <Interval t1="7.060" t2="7.460" value="#p57#.Su#h"/>
+      <Interval t1="7.460" t2="7.760" value="#p59#.na#h"/>
+      <Interval t1="7.760" t2="7.860" value="#p61#.o#h"/>
+      <Interval t1="7.910" t2="8.010" value="#p62#. ni#h"/>
+      <Interval t1="8.060" t2="8.410" value="#p64#. I#h"/>
+      <Interval t1="8.460" t2="8.810" value="#p64#. LOVE#h"/>
+      <Interval t1="8.860" t2="9.260" value="#p64#. YOU!#h"/>
+      <Interval t1="9.460" t2="9.660" value="#p64#.To#h"/>
+      <Interval t1="9.660" t2="9.860" value="#p64#.do#h"/>
+      <Interval t1="9.860" t2="10.061" value="#p62#.ke#h"/>
+      <Interval t1="10.061" t2="10.261" value="#p61#.yo#h"/>
+      <Interval t1="10.261" t2="10.661" value="#p59#.u~#h"/>
+      <Interval t1="10.711" t2="11.111" value="#p57#. kit#h"/>
+      <Interval t1="11.111" t2="11.161" value="#p59#.to#h"/>
+      <Interval t1="11.311" t2="11.661" value="#p61#.YOU#h"/>
+      <Interval t1="11.711" t2="12.061" value="#p61#. LOVE#h"/>
+      <Interval t1="12.111" t2="12.511" value="#p61#. ME!#h"/>
+      <Interval t1="12.711" t2="12.911" value="#p61#.Tsu#h"/>
+      <Interval t1="12.911" t2="13.111" value="#p61#.ta#h"/>
+      <Interval t1="13.111" t2="13.311" value="#p59#.wa#h"/>
+      <Interval t1="13.311" t2="13.461" value="#p57#.ru#h"/>
+      <Interval t1="13.511" t2="13.711" value="#p56#. sa#h"/>
+      <Interval t1="13.861" t2="14.111" value="#p57#.Ki#h"/>
+      <Interval t1="14.111" t2="14.261" value="#p56#.mi#h"/>
+      <Interval t1="14.311" t2="14.511" value="#p52#. ni#h"/>
+      <Interval t1="14.561" t2="15.011" value="#p54#. ni~#h"/>
+      <Interval t1="15.111" t2="15.311" value="#p54#.a#h"/>
+      <Interval t1="15.311" t2="15.761" value="#p56#.u#h"/>
+      <Interval t1="15.911" t2="16.112" value="#p56#. ga#h"/>
+      <Interval t1="16.112" t2="16.462" value="#p57#.ra#h"/>
+      <Interval t1="16.462" t2="16.662" value="#p59#.su#h"/>
+      <Interval t1="16.712" t2="17.362" value="#p57#. no#h"/>
+      <Interval t1="17.512" t2="17.662" value="#p57#.Kut#h"/>
+      <Interval t1="17.662" t2="18.112" value="#p62#.su#h"/>
+      <Interval t1="18.162" t2="18.412" value="#p61#. wo#h"/>
+      <Interval t1="18.462" t2="18.912" value="#p59#. sa#h"/>
+      <Interval t1="18.912" t2="19.112" value="#p57#.ga#h"/>
+      <Interval t1="19.112" t2="19.862" value="#p59#.sou#h"/>
+      <Interval t1="20.012" t2="20.312" value="#p57#.Fu#h"/>
+      <Interval t1="20.312" t2="20.512" value="#p59#.ta#h"/>
+      <Interval t1="20.512" t2="20.662" value="#p61#.ri#h"/>
+      <Interval t1="20.712" t2="20.862" value="#p62#. de#h"/>
+      <Interval t1="20.912" t2="21.212" value="#p64#. STEP#h"/>
+      <Interval t1="21.262" t2="21.612" value="#p64#. AND#h"/>
+      <Interval t1="21.662" t2="22.113" value="#p64#. GO!#h"/>
+      <Interval t1="22.263" t2="22.513" value="#p64#.It#h"/>
+      <Interval t1="22.513" t2="22.663" value="#p64#.su#h"/>
+      <Interval t1="22.713" t2="22.913" value="#p62#. ma#h"/>
+      <Interval t1="22.913" t2="23.063" value="#p61#.de#h"/>
+      <Interval t1="23.113" t2="23.313" value="#p59#. mo#h"/>
+      <Interval t1="23.463" t2="23.863" value="#p57#.Shin#h"/>
+      <Interval t1="23.863" t2="24.063" value="#p59#.ya#h"/>
+      <Interval t1="24.113" t2="24.513" value="#p61#. juu#h"/>
+      <Interval t1="24.513" t2="24.813" value="#p61#.ni-ji#h"/>
+      <Interval t1="24.863" t2="25.263" value="#p61#. wo#h"/>
+      <Interval t1="25.463" t2="25.713" value="#p61#.Su#h"/>
+      <Interval t1="25.713" t2="25.913" value="#p61#.gi#h"/>
+      <Interval t1="25.913" t2="26.113" value="#p59#.ta#h"/>
+      <Interval t1="26.113" t2="26.363" value="#p57#.~a#h"/>
+      <Interval t1="26.363" t2="26.663" value="#p56#.tte#h"/>
+      <Interval t1="26.713" t2="26.963" value="#p57#. bo#h"/>
+      <Interval t1="26.963" t2="27.113" value="#p56#.ku#h"/>
+      <Interval t1="27.113" t2="27.263" value="#p52#.ra#h"/>
+      <Interval t1="27.313" t2="27.713" value="#p54#. no#h"/>
+      <Interval t1="27.863" t2="28.064" value="#p54#.Ra#h"/>
+      <Interval t1="28.064" t2="28.564" value="#p56#.bu#h"/>
+      <Interval t1="28.664" t2="28.914" value="#p56#. ma#h"/>
+      <Interval t1="28.914" t2="29.264" value="#p57#.jik#h"/>
+      <Interval t1="29.264" t2="29.464" value="#p59#.ku#h"/>
+      <Interval t1="29.514" t2="30.064" value="#p57#. wa#h"/>
+      <Interval t1="30.264" t2="30.514" value="#p57#.To#h"/>
+      <Interval t1="30.514" t2="30.864" value="#p62#.ke#h"/>
+      <Interval t1="30.914" t2="31.214" value="#p61#. wa#h"/>
+      <Interval t1="31.264" t2="31.664" value="#p59#. shi#h"/>
+      <Interval t1="31.664" t2="31.914" value="#p57#.na#h"/>
+      <Interval t1="31.914" t2="33.664" value="#p57#.i~#h"/>
+      <Interval t1="34.115" t2="34.465" value="#p58#.O#h"/>
+      <Interval t1="34.465" t2="34.865" value="#p58#.i#h"/>
+      <Interval t1="34.865" t2="35.215" value="#p58#.de#h"/>
+      <Interval t1="35.265" t2="35.665" value="#p58#. me#h"/>
+      <Interval t1="35.665" t2="35.915" value="#p58#.shi#h"/>
+      <Interval t1="35.915" t2="36.215" value="#p59#.ma#h"/>
+      <Interval t1="36.215" t2="36.715" value="#p58#.se#h"/>
+      <Interval t1="36.865" t2="37.265" value="#p58#. o#h"/>
+      <Interval t1="37.265" t2="37.465" value="#p56#.hi#h"/>
+      <Interval t1="37.465" t2="37.815" value="#p56#.me#h"/>
+      <Interval t1="37.865" t2="38.315" value="#p54#. sa#h"/>
+      <Interval t1="38.315" t2="38.765" value="#p56#.ma#h"/>
+      <Interval t1="39.265" t2="39.665" value="#p56#.Do#h"/>
+      <Interval t1="39.665" t2="40.066" value="#p58#.ku#h"/>
+      <Interval t1="40.116" t2="40.466" value="#p59#. no#h"/>
+      <Interval t1="40.516" t2="40.766" value="#p58#. ri#h"/>
+      <Interval t1="40.766" t2="41.116" value="#p54#.~in#h"/>
+      <Interval t1="41.116" t2="41.466" value="#p51#.go#h"/>
+      <Interval t1="41.516" t2="41.916" value="#p54#. wo#h"/>
+      <Interval t1="42.466" t2="42.866" value="#p56#.Ta#h"/>
+      <Interval t1="42.866" t2="43.266" value="#p58#.be#h"/>
+      <Interval t1="43.266" t2="43.616" value="#p59#.te#h"/>
+      <Interval t1="43.666" t2="43.916" value="#p58#. ne#h"/>
+      <Interval t1="43.916" t2="44.316" value="#p54#.muc#h"/>
+      <Interval t1="44.316" t2="44.616" value="#p51#.chai#h"/>
+      <Interval t1="44.666" t2="44.916" value="#p51#. sou#h"/>
+      <Interval t1="44.916" t2="45.516" value="#p54#.~ou#h"/>
+      <Interval t1="45.666" t2="46.117" value="#p56#. na#h"/>
+      <Interval t1="46.867" t2="47.217" value="#p58#.Su#h"/>
+      <Interval t1="47.217" t2="47.667" value="#p58#.na#h"/>
+      <Interval t1="47.667" t2="48.017" value="#p58#.o#h"/>
+      <Interval t1="48.067" t2="48.467" value="#p58#. su#h"/>
+      <Interval t1="48.467" t2="48.717" value="#p63#.gi#h"/>
+      <Interval t1="48.717" t2="49.017" value="#p58#.ru#h"/>
+      <Interval t1="49.067" t2="49.317" value="#p56#. ki#h"/>
+      <Interval t1="49.317" t2="49.467" value="#p54#.mi#h"/>
+      <Interval t1="49.517" t2="49.967" value="#p56#. ga#h"/>
+      <Interval t1="50.867" t2="51.267" value="#p58#.To#h"/>
+      <Interval t1="51.267" t2="51.667" value="#p59#.te#h"/>
+      <Interval t1="51.667" t2="52.017" value="#p58#.mo#h"/>
+      <Interval t1="52.068" t2="52.468" value="#p54#. i#h"/>
+      <Interval t1="52.468" t2="52.818" value="#p56#.to#h"/>
+      <Interval t1="52.818" t2="53.118" value="#p56#.shi#h"/>
+      <Interval t1="53.118" t2="53.818" value="#p54#.~i#h"/>
+      <Interval t1="56.068" t2="56.518" value="#p54#.A#h"/>
+      <Interval t1="56.668" t2="56.968" value="#p58#.tar#h"/>
+      <Interval t1="56.968" t2="57.418" value="#p56#.i#h"/>
+      <Interval t1="57.418" t2="57.718" value="#p54#.ma#h"/>
+      <Interval t1="57.718" t2="58.169" value="#p61#.e~#h"/>
+      <Interval t1="58.219" t2="58.469" value="#p54#. i#h"/>
+      <Interval t1="58.469" t2="59.069" value="#p51#.ko#h"/>
+      <Interval t1="59.269" t2="59.669" value="#p59#.ta#h"/>
+      <Interval t1="59.669" t2="60.119" value="#p58#.ka#h"/>
+      <Interval t1="60.119" t2="60.519" value="#p56#.ra#h"/>
+      <Interval t1="60.519" t2="60.919" value="#p54#.mo#h"/>
+      <Interval t1="60.919" t2="61.419" value="#p54#.no#h"/>
+      <Interval t1="61.469" t2="62.169" value="#p56#. sa#h"/>
+      <Interval t1="62.469" t2="63.069" value="#p54#.Chi#h"/>
+      <Interval t1="63.069" t2="63.269" value="#p58#.kyu#h"/>
+      <Interval t1="63.269" t2="63.819" value="#p56#.u~#h"/>
+      <Interval t1="63.869" t2="64.070" value="#p54#. wa#h"/>
+      <Interval t1="64.120" t2="64.670" value="#p61#. ma#h"/>
+      <Interval t1="64.670" t2="64.870" value="#p63#.wa#h"/>
+      <Interval t1="64.870" t2="65.370" value="#p54#.ri#h"/>
+      <Interval t1="65.670" t2="66.070" value="#p59#.Hi#h"/>
+      <Interval t1="66.120" t2="66.470" value="#p58#. wa#h"/>
+      <Interval t1="66.520" t2="66.920" value="#p56#. no#h"/>
+      <Interval t1="66.920" t2="67.320" value="#p54#.bo#h"/>
+      <Interval t1="67.320" t2="67.770" value="#p56#.ri#h"/>
+      <Interval t1="67.920" t2="68.470" value="#p51#.Ki#h"/>
+      <Interval t1="68.470" t2="68.920" value="#p53#.mi#h"/>
+      <Interval t1="68.970" t2="69.670" value="#p54#. wa#h"/>
+      <Interval t1="69.720" t2="70.471" value="#p56#. ho#h"/>
+      <Interval t1="70.521" t2="71.321" value="#p58#.ho#h"/>
+      <Interval t1="71.321" t2="72.071" value="#p59#.e#h"/>
+      <Interval t1="72.071" t2="72.971" value="#p56#.mu~#h"/>
+      <Interval t1="74.271" t2="74.671" value="#p57#.Su#h"/>
+      <Interval t1="74.671" t2="74.871" value="#p59#.na#h"/>
+      <Interval t1="74.871" t2="75.071" value="#p61#.o#h"/>
+      <Interval t1="75.121" t2="75.271" value="#p62#. ni#h"/>
+      <Interval t1="75.321" t2="75.621" value="#p64#. I#h"/>
+      <Interval t1="75.671" t2="75.971" value="#p64#. LOVE#h"/>
+      <Interval t1="76.021" t2="76.572" value="#p64#. YOU!#h"/>
+      <Interval t1="76.722" t2="76.972" value="#p64#.To#h"/>
+      <Interval t1="76.972" t2="77.172" value="#p64#.do#h"/>
+      <Interval t1="77.172" t2="77.322" value="#p62#.ke#h"/>
+      <Interval t1="77.322" t2="77.622" value="#p61#.yo#h"/>
+      <Interval t1="77.622" t2="77.872" value="#p59#.u~#h"/>
+      <Interval t1="77.922" t2="78.272" value="#p57#. kit#h"/>
+      <Interval t1="78.272" t2="78.322" value="#p59#.to#h"/>
+      <Interval t1="78.472" t2="78.822" value="#p61#.YOU#h"/>
+      <Interval t1="78.872" t2="79.172" value="#p61#. LOVE#h"/>
+      <Interval t1="79.222" t2="79.722" value="#p61#. ME!#h"/>
+      <Interval t1="79.872" t2="80.122" value="#p61#.Tsu#h"/>
+      <Interval t1="80.122" t2="80.272" value="#p61#.ta#h"/>
+      <Interval t1="80.272" t2="80.472" value="#p59#.wa#h"/>
+      <Interval t1="80.472" t2="80.672" value="#p57#.ru#h"/>
+      <Interval t1="80.722" t2="80.972" value="#p56#. sa#h"/>
+      <Interval t1="81.122" t2="81.322" value="#p57#.Ki#h"/>
+      <Interval t1="81.322" t2="81.472" value="#p56#.mi#h"/>
+      <Interval t1="81.522" t2="81.672" value="#p52#. ni#h"/>
+      <Interval t1="81.722" t2="82.273" value="#p54#. ni~#h"/>
+      <Interval t1="82.273" t2="82.523" value="#p54#.a#h"/>
+      <Interval t1="82.523" t2="83.023" value="#p56#.u#h"/>
+      <Interval t1="83.073" t2="83.323" value="#p56#. ga#h"/>
+      <Interval t1="83.323" t2="83.573" value="#p57#.ra#h"/>
+      <Interval t1="83.573" t2="83.823" value="#p59#.su#h"/>
+      <Interval t1="83.873" t2="84.423" value="#p57#. no#h"/>
+      <Interval t1="84.673" t2="84.873" value="#p57#.Kut#h"/>
+      <Interval t1="84.873" t2="85.273" value="#p62#.su#h"/>
+      <Interval t1="85.323" t2="85.523" value="#p61#. wo#h"/>
+      <Interval t1="85.573" t2="86.023" value="#p59#. sa#h"/>
+      <Interval t1="86.073" t2="86.273" value="#p57#.ga#h"/>
+      <Interval t1="86.273" t2="86.973" value="#p59#.sou#h"/>
+      <Interval t1="87.123" t2="87.473" value="#p57#.Fu#h"/>
+      <Interval t1="87.473" t2="87.673" value="#p59#.ta#h"/>
+      <Interval t1="87.673" t2="87.773" value="#p61#.ri#h"/>
+      <Interval t1="87.823" t2="88.023" value="#p62#. de#h"/>
+      <Interval t1="88.074" t2="88.374" value="#p64#. STEP#h"/>
+      <Interval t1="88.424" t2="88.774" value="#p64#. AND#h"/>
+      <Interval t1="88.824" t2="89.274" value="#p64#. GO!#h"/>
+      <Interval t1="89.474" t2="89.724" value="#p64#.It#h"/>
+      <Interval t1="89.724" t2="89.874" value="#p64#.su#h"/>
+      <Interval t1="89.924" t2="90.074" value="#p62#. ma#h"/>
+      <Interval t1="90.074" t2="90.274" value="#p61#.de#h"/>
+      <Interval t1="90.324" t2="90.524" value="#p59#. mo#h"/>
+      <Interval t1="90.674" t2="91.074" value="#p57#.Shin#h"/>
+      <Interval t1="91.074" t2="91.224" value="#p59#.ya#h"/>
+      <Interval t1="91.274" t2="91.724" value="#p61#. juu#h"/>
+      <Interval t1="91.724" t2="92.024" value="#p61#.ni-ji#h"/>
+      <Interval t1="92.074" t2="92.524" value="#p61#. wo#h"/>
+      <Interval t1="92.674" t2="92.924" value="#p61#.Su#h"/>
+      <Interval t1="92.924" t2="93.124" value="#p61#.gi#h"/>
+      <Interval t1="93.124" t2="93.324" value="#p59#.ta#h"/>
+      <Interval t1="93.324" t2="93.574" value="#p57#.~a#h"/>
+      <Interval t1="93.574" t2="93.774" value="#p56#.tte#h"/>
+      <Interval t1="93.924" t2="94.125" value="#p57#.ki#h"/>
+      <Interval t1="94.125" t2="94.275" value="#p56#.mi#h"/>
+      <Interval t1="94.325" t2="94.475" value="#p52#. wa#h"/>
+      <Interval t1="94.525" t2="95.025" value="#p54#. bo#h"/>
+      <Interval t1="95.025" t2="95.275" value="#p54#.ku#h"/>
+      <Interval t1="95.325" t2="95.825" value="#p56#. no#h"/>
+      <Interval t1="95.875" t2="96.125" value="#p56#. i#h"/>
+      <Interval t1="96.125" t2="96.425" value="#p57#.to#h"/>
+      <Interval t1="96.425" t2="96.725" value="#p59#.shi#h"/>
+      <Interval t1="96.725" t2="97.325" value="#p57#.i~#h"/>
+      <Interval t1="97.475" t2="97.675" value="#p57#.Ni#h"/>
+      <Interval t1="97.675" t2="98.025" value="#p62#.ju#h"/>
+      <Interval t1="98.025" t2="98.475" value="#p61#.u~#h"/>
+      <Interval t1="98.475" t2="98.825" value="#p59#.yo#h"/>
+      <Interval t1="98.875" t2="99.125" value="#p57#. ji#h"/>
+      <Interval t1="99.125" t2="99.475" value="#p57#.kan#h"/>
+      <Interval t1="99.625" t2="100.076" value="#p57#.Shin#h"/>
+      <Interval t1="100.076" t2="100.476" value="#p59#.de#h"/>
+      <Interval t1="100.476" t2="100.726" value="#p57#.re#h"/>
+      <Interval t1="100.726" t2="103.726" value="#p64#.ra~#h#g5"/>
+      <Interval t1="104.076" t2="104.476" value="#p1#.Hey!#h"/>
+      <Interval t1="104.676" t2="105.176" value="#p1#. hey!#h"/>
+      <Interval t1="105.276" t2="106.077" value="#p1#. hey!#h"/>
+   </IntervalLayer>
+</AnnotationFile>

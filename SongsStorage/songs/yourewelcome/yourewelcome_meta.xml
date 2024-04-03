@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DLCSong xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Genre>Pop</Genre>
+  <Id>yourewelcome</Id>
+  <Uid>965</Uid>
+  <Artist>Disney</Artist>
+  <Title>You're Welcome</Title>
+  <Year>2016</Year>
+  <Ratio>Ratio_16_9</Ratio>
+  <Difficulty>Difficulty2</Difficulty>
+  <Feat />
+  <Line1>You're Welcome</Line1>
+  <Line2></Line2>
+</DLCSong>
+        

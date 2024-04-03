@@ -1,0 +1,466 @@
+#ARTIST:Disney's Moana (Dwayne Johnson)
+#TITLE:You're Welcome
+#MP3:Disney's Moana (Dwayne Johnson) - You're Welcome.mp3
+#LANGUAGE:English
+#BPM:271.45
+#GAP:9381
+#VIDEO:Disney's Moana (Dwayne Johnson) - You're Welcome.mp4
+F 0 4 12 Ok,
+F 9 4 12  ok,
+: 36 4 7  I
+: 44 4 0  see
+: 49 2 0  what's
+: 54 10 0  happening
+: 66 2 0  here
+: 69 5 -2 ~
+- 84
+: 99 2 -2 You're
+: 102 2 10  face
+: 106 2 10  to
+: 110 2 10  face
+: 114 2 10  with
+: 118 3 10  great
+: 122 2 9 ness
+- 124
+: 126 1 7 and
+: 128 2 5  it's
+: 134 6 4  strange
+- 144
+: 146 3 0 You
+: 150 3 0  don't
+: 154 2 4  e
+: 157 3 12 ven
+: 162 6 9  know
+: 171 2 9  how
+: 174 2 5  you
+: 179 3 7  feel
+: 184 2 4 ~
+- 192
+F 195 1 12 It's
+F 197 17 14  adorable!
+- 223
+: 226 2 -2 Well,
+: 229 1 10  it's
+: 231 2 10  nice
+: 236 1 10  to
+: 239 2 10  see
+* 242 2 10  that
+: 246 2 10  hu
+: 250 2 9 mans
+- 253
+: 255 2 7 never
+: 257 2 6 ~
+: 261 6 4  change
+- 275
+: 278 4 0 o
+: 283 2 0 pen
+: 286 5 12  your
+: 293 9 9  eyes,
+: 307 6 7  let's
+: 319 3 4  be
+: 324 5 7 gin
+- 338
+: 342 2 10 Yes,
+: 347 1 10  it's
+: 351 5 10  really
+: 358 2 10  me,
+F 362 2 10  it's
+F 369 6 10  Maui:
+F 376 3 0  breathe
+F 380 2 11  it
+F 383 2 4  in!
+- 395
+: 402 2 0 I
+: 407 4 0  know
+: 412 2 0  it's
+: 415 2 12  a
+: 419 4 9  lot:
+: 431 3 4  the
+: 436 11 7  hair,
+: 448 2 4  the
+: 452 13 5  bod!
+- 475
+: 479 3 0 When
+: 483 2 0  you're
+: 486 9 10  staring
+: 496 3 10  at
+: 500 2 10  a
+: 503 3 10  de
+: 506 3 9 mi
+: 510 5 7 ~god
+- 525
+: 535 2 9 What
+: 541 2 12  can
+: 544 2 9  I
+: 551 8 16  say
+: 560 2 14  ex
+: 563 5 12 cept
+: 575 4 7  you're
+: 581 5 16  wel
+: 588 5 12 come
+- 602
+: 605 2 7 For
+: 608 2 9  the
+: 613 9 11  tides,
+: 624 3 11  the
+: 630 7 12  sun,
+: 639 3 11  the
+: 646 9 9  sky
+- 661
+: 664 3 9 Hey,
+: 668 4 12  it's
+: 673 2 9  o
+: 678 5 16 kay
+: 684 2 16  it's
+: 688 3 14  o
+: 693 7 12 kay
+- 702
+: 704 3 7 You're
+* 709 6 16  welcome
+* 717 9 12 come
+- 737
+: 741 2 10 I'm
+: 745 3 11  just
+: 749 2 11  an
+: 752 15 11  ordinary
+: 769 2 11  de
+: 771 3 12 mi
+: 776 7 16 guy
+- 784
+F 786 2 12 Hey!
+- 792
+: 794 2 0 What
+: 797 3 4  has
+: 801 3 0  two
+: 805 8 4  thumbs
+: 815 5 0  that
+: 821 8 4  pulled
+: 830 1 4  up
+: 832 2 0  the
+: 837 6 5  sky
+- 851
+: 854 2 0 When
+: 857 3 5  you
+: 861 2 5  were
+: 865 6 5  waddling
+: 874 6 7  yay
+: 881 4 5  high
+- 888
+F 890 3 12 This
+F 894 5 12  guy!
+- 909
+: 913 3 4 When
+: 917 2 4  the
+: 920 5 4  nights
+: 926 3 4  got
+: 933 10 4  cold
+- 943
+: 945 4 4 Who
+: 950 6 4  stole
+: 958 7 7  you
+: 966 8 7  fire
+: 975 3 5  from
+: 979 3 5  down
+* 984 3 4  be
+* 988 8 2 low
+- 998
+F 1000 2 12 You're
+F 1003 5 14  lookin'
+F 1010 1 4  at
+F 1012 4 0  him,
+F 1017 6 16  yo
+- 1032
+: 1035 12 12 Oh,
+: 1050 7 0  also
+: 1058 3 12  I
+: 1063 13 9  la
+: 1078 10 7 soed
+: 1090 3 4  the
+: 1095 11 7  sun
+- 1108
+F 1110 2 12 You're
+F 1114 1 12  welcome!
+- 1124
+: 1127 2 0 To
+: 1130 4 10  stretch
+: 1135 2 10  the
+: 1138 4 10  days
+: 1143 2 10  and
+: 1146 4 10  bring
+: 1151 4 9  you
+: 1157 13 7  fun
+- 1176
+: 1178 8 0 Also
+: 1187 4 12  I
+: 1192 15 9  har
+: 1208 9 7 nessed
+: 1219 3 4  the
+: 1224 13 7  breeze
+- 1237
+F 1239 2 12 You're
+F 1243 1 12  welcome!
+- 1253
+: 1256 2 0 To
+: 1260 3 10  fill
+: 1264 2 10  your
+: 1267 4 10  sails
+: 1272 2 10  and
+* 1275 5 10  shake
+: 1281 6 9  your
+: 1288 8 7  trees
+- 1302
+: 1304 1 12 So
+: 1307 2 9  what
+: 1313 2 12  can
+: 1316 2 9  I
+: 1323 8 16  say
+: 1332 2 14  ex
+: 1335 4 12 cept
+: 1348 4 7  you're
+: 1353 4 16  wel
+: 1360 5 12 come
+- 1373
+: 1376 2 7 For
+: 1380 3 11  the
+: 1385 8 11  islands
+: 1395 3 11  I
+: 1399 7 11  pulled
+: 1408 3 12  from
+: 1412 3 7  the
+: 1417 9 9  sea
+- 1431
+: 1433 2 4 There's
+: 1436 2 9  no
+: 1440 3 12  need
+: 1445 2 9  to
+: 1450 6 16  pray,
+: 1457 2 16  it's
+: 1461 3 14  o
+: 1465 5 12 kay
+- 1474
+: 1476 4 7 You're
+: 1481 5 16  wel
+: 1489 4 12 come
+- 1499
+F 1501 3 12 Ha,
+: 1513 2 10  I
+: 1517 3 11  guess
+: 1521 2 11  it's
+: 1524 5 11  just
+: 1530 2 11  my
+: 1533 4 11  way
+: 1538 3 9  of
+: 1542 2 9  being
+: 1544 2 12 ~
+* 1548 8 16  me
+- 1566
+: 1573 4 21 You're
+: 1578 5 19  wel
+: 1586 8 16 come!
+- 1602
+: 1605 3 7 You're
+: 1609 5 16  wel
+: 1617 6 12 come!
+- 1633
+F 1646 2 12 Well,
+F 1654 3 12  come
+F 1659 2 12  to
+F 1662 1 12  think
+F 1664 1 12  of
+F 1666 2 12  it
+- 1676
+F 1679 4 11 Kid,
+F 1685 8 12  honestly
+F 1694 1 15  I
+F 1696 2 7  can
+F 1699 2 0  go
+F 1702 1 -1  on
+F 1704 3 4  and
+F 1708 1 12  on
+- 1709
+F 1710 2 12 I
+F 1713 2 12  can
+F 1716 5 12  explain
+F 1722 3 12  every
+F 1726 5 12  natural
+F 1732 10 12  phenomenon
+- 1745
+F 1747 2 12 The
+F 1750 3 12  tide,
+F 1755 2 12  the
+F 1758 4 12  grass,
+F 1763 2 12  the
+F 1766 3 12  ground,
+F 1773 3 12  oh
+- 1776
+F 1777 2 12 That
+F 1780 2 12  was
+F 1783 4 12  Maui
+F 1788 2 12  just
+F 1791 4 12  messing
+F 1796 5 12  around
+- 1803
+F 1805 3 12 I
+F 1809 2 12  killed
+F 1812 2 12  an
+F 1815 4 12  eel
+- 1819
+F 1820 2 12 I
+F 1823 3 12  buried
+F 1827 2 12  its
+F 1830 4 12  guts
+- 1836
+F 1838 5 12 Sprouted
+F 1844 1 12  a
+F 1846 2 12  tree,
+F 1850 1 12  now
+F 1852 1 12  you
+F 1854 2 12  got
+F 1858 8 12  coconuts
+- 1868
+F 1870 3 12 What's
+F 1876 2 12  the
+F 1879 6 12  lesson
+- 1885
+F 1886 2 12 What
+F 1889 1 12  is
+F 1892 2 12  the
+F 1895 7 12  take-away
+- 1902
+F 1903 1 12 Don't
+F 1905 2 12  mess
+F 1908 2 12  with
+F 1911 4 12  Maui
+F 1916 2 12  when
+- 1918
+F 1919 2 12 he's
+F 1922 1 12  on
+F 1924 1 12  the
+F 1926 9 12  break-away
+- 1936
+F 1938 1 12 And
+F 1940 1 12  the
+F 1942 8 12  tapestry
+F 1951 1 12  here
+F 1953 1 12  on
+F 1955 2 12  my
+F 1960 3 12  skin
+- 1969
+F 1971 2 12 Is
+F 1974 1 12  a
+F 1976 1 12  map
+F 1978 1 12  of
+F 1980 2 12  the
+F 1983 5 12  victories
+F 1989 2 12  I
+F 1992 1 12  win
+- 1996
+F 1998 3 12 Look
+F 2002 2 12  where
+F 2005 2 12  I've
+F 2008 1 12  been
+- 2009
+F 2010 2 12 I
+F 2013 2 12  make
+F 2016 8 12  everything
+F 2025 5 12  happen
+- 2030
+F 2031 1 12 Look
+F 2033 2 12  at
+F 2036 2 12  that
+F 2039 12 12  mini-Maui
+F 2052 1 12  just
+F 2054 13 12  tippity-tappin'
+- 2103
+: 2144 4 9 Well,
+: 2149 3 12  an
+: 2153 3 9 y
+: 2158 6 16 way
+: 2165 2 16  let
+: 2168 3 14  me
+: 2173 8 12  say
+: 2185 3 7  you're
+: 2189 5 16  wel
+: 2196 14 12 come!
+- 2211
+: 2213 2 7 For
+: 2216 4 9  the
+: 2222 15 11  wonderful
+: 2239 6 12  world
+: 2246 5 11  you
+: 2253 11 9  know
+- 2270
+: 2273 3 9 Hey,
+: 2277 4 12  it's
+: 2282 3 9  o
+: 2286 6 16 kay
+: 2293 2 16  it's
+: 2297 3 14  o
+: 2302 7 12 kay
+- 2310
+: 2312 4 7 You're
+: 2317 6 16  wel
+: 2324 12 12 come!
+- 2345
+: 2349 3 4 Well,
+: 2353 2 11  come
+: 2356 2 11  to
+* 2360 4 11  think
+* 2366 2 11  of
+: 2370 3 11  it,
+: 2374 2 11  I
+: 2377 3 9  gotta
+: 2380 2 12 ~
+: 2383 8 16  go
+- 2398
+: 2401 3 9 Hey,
+: 2405 4 12  it's
+: 2410 2 9  your
+: 2415 5 16  day
+: 2425 3 14  to
+: 2430 7 12  say
+: 2441 4 7  you're
+: 2447 7 16  wel
+: 2455 11 12 come!
+- 2475
+: 2478 3 4 'Cause
+: 2482 3 11  I'm
+: 2487 6 11  gonna
+: 2495 8 12  need
+: 2505 4 11  that
+* 2511 8 9  boat
+- 2525
+: 2527 2 4 I'm
+: 2530 3 9  sai
+: 2534 4 12 ling
+: 2539 3 9  a
+: 2543 10 16 way
+: 2554 5 14  a
+: 2561 6 12 way
+- 2569
+: 2571 4 7 You're
+: 2577 7 16  wel
+: 2585 11 12 come!
+- 2604
+: 2607 2 4 'Cause
+: 2611 4 11  Maui
+: 2618 4 11  can
+: 2623 3 11  do
+: 2627 2 11  anything
+: 2629 3 12 ~
+: 2632 2 9 ~
+: 2635 3 12  but
+: 2640 6 16  float
+- 2656
+* 2667 5 21 You're
+* 2673 5 19  wel
+* 2681 7 16 come!
+- 2696
+: 2699 4 7 You're
+: 2704 5 16  wel
+: 2712 11 12 come!
+- 2733
+F 2751 3 12 And
+F 2756 4 12  thank
+F 2762 3 12  you!
+E

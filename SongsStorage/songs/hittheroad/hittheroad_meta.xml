@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DLCSong xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Genre>Pop</Genre>
+  <Id>hittheroad</Id>
+  <Uid>977</Uid>
+  <Artist>Ray Charles</Artist>
+  <Title>Hit the Road Jack</Title>
+  <Year>1969</Year>
+  <Ratio>Ratio_4_3</Ratio>
+  <Difficulty>Difficulty2</Difficulty>
+  <Feat />
+  <Line1>Hit the Road Jack</Line1>
+  <Line2></Line2>
+</DLCSong>
+        

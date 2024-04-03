@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<AnnotationFile version="3.0">
+   <IntervalLayer datatype="STRING" name="structure">
+      <Interval t1="2.000" t2="3.000" value="couplet1"/>
+   </IntervalLayer>
+   <IntervalLayer datatype="STRING" name="pages">
+      <Interval t1="0.000" t2="2.602" value=""/>
+      <Interval t1="2.602" t2="7.028" value=""/>
+      <Interval t1="7.028" t2="13.460" value=""/>
+      <Interval t1="13.460" t2="20.307" value=""/>
+      <Interval t1="20.307" t2="29.851" value=""/>
+      <Interval t1="29.851" t2="38.704" value=""/>
+      <Interval t1="38.704" t2="44.305" value=""/>
+      <Interval t1="44.305" t2="49.562" value=""/>
+      <Interval t1="49.562" t2="53.020" value=""/>
+      <Interval t1="53.020" t2="60.143" value=""/>
+      <Interval t1="60.143" t2="63.324" value=""/>
+      <Interval t1="63.324" t2="67.750" value=""/>
+      <Interval t1="67.750" t2="74.113" value=""/>
+      <Interval t1="74.113" t2="78.263" value=""/>
+      <Interval t1="78.263" t2="81.098" value=""/>
+      <Interval t1="81.098" t2="85.317" value=""/>
+      <Interval t1="85.317" t2="91.818" value=""/>
+      <Interval t1="91.818" t2="103.160" value=""/>
+      <Interval t1="103.160" t2="112.289" value=""/>
+      <Interval t1="112.289" t2="122.663" value=""/>
+      <Interval t1="122.663" t2="127.297" value=""/>
+      <Interval t1="127.297" t2="132.622" value=""/>
+      <Interval t1="132.622" t2="136.080" value=""/>
+      <Interval t1="136.080" t2="143.480" value=""/>
+      <Interval t1="143.480" t2="146.316" value=""/>
+      <Interval t1="146.316" t2="150.742" value=""/>
+      <Interval t1="150.742" t2="157.105" value=""/>
+      <Interval t1="157.105" t2="161.531" value=""/>
+      <Interval t1="161.531" t2="164.090" value=""/>
+      <Interval t1="164.090" t2="168.447" value=""/>
+      <Interval t1="168.447" t2="174.809" value=""/>
+      <Interval t1="174.809" t2="184.353" value=""/>
+      <Interval t1="184.353" t2="204.133" value=""/>
+      <Interval t1="204.133" t2="208.283" value=""/>
+      <Interval t1="208.283" t2="214.645" value=""/>
+      <Interval t1="214.645" t2="218.795" value=""/>
+      <Interval t1="218.795" t2="221.561" value=""/>
+      <Interval t1="221.561" t2="226.126" value=""/>
+      <Interval t1="226.126" t2="232.627" value=""/>
+      <Interval t1="232.627" t2="236.707" value=""/>
+      <Interval t1="236.707" t2="239.266" value=""/>
+      <Interval t1="239.266" t2="243.692" value=""/>
+      <Interval t1="243.692" t2="254.481" value=""/>
+      <Interval t1="254.481" t2="257.247" value=""/>
+      <Interval t1="257.247" t2="261.674" value=""/>
+      <Interval t1="261.674" t2="267.276" value=""/>
+      <Interval t1="267.276" t2="272.117" value=""/>
+      <Interval t1="272.117" t2="274.676" value=""/>
+      <Interval t1="274.676" t2="279.102" value=""/>
+      <Interval t1="279.102" t2="285.465" value=""/>
+      <Interval t1="285.465" t2="289.891" value=""/>
+      <Interval t1="289.891" t2="343.000" value=""/>
+   </IntervalLayer>
+   <IntervalLayer datatype="STRING" name="lyrics">
+      <Interval t1="0.320" t2="0.527" value="To"/>
+      <Interval t1="0.597" t2="1.219" value=" you"/>
+      <Interval t1="1.219" t2="2.533" value="~"/>
+      <Interval t1="2.741" t2="3.225" value="Yes,"/>
+      <Interval t1="3.294" t2="3.640" value=" my"/>
+      <Interval t1="3.709" t2="4.262" value=" love"/>
+      <Interval t1="4.470" t2="4.677" value=" to"/>
+      <Interval t1="4.815" t2="5.092" value=" you"/>
+      <Interval t1="5.092" t2="6.959" value="~"/>
+      <Interval t1="7.167" t2="7.651" value="Yes,"/>
+      <Interval t1="7.720" t2="7.997" value=" my"/>
+      <Interval t1="8.066" t2="8.688" value=" love"/>
+      <Interval t1="8.896" t2="9.103" value=" to"/>
+      <Interval t1="9.172" t2="9.795" value=" you"/>
+      <Interval t1="9.795" t2="10.348" value="~"/>
+      <Interval t1="10.348" t2="11.247" value="~,"/>
+      <Interval t1="11.662" t2="12.423" value=" you"/>
+      <Interval t1="12.423" t2="13.391" value="~"/>
+      <Interval t1="13.599" t2="13.806" value="To"/>
+      <Interval t1="13.875" t2="14.982" value=" you"/>
+      <Interval t1="14.982" t2="18.371" value="~"/>
+      <Interval t1="23.004" t2="23.627" value="Watashi"/>
+      <Interval t1="23.696" t2="24.042" value=" wa"/>
+      <Interval t1="24.111" t2="25.010" value=" watashi~,"/>
+      <Interval t1="25.217" t2="25.771" value=" anata"/>
+      <Interval t1="25.840" t2="26.255" value=" wa"/>
+      <Interval t1="26.324" t2="26.946" value=" anata"/>
+      <Interval t1="27.016" t2="27.292" value=" to"/>
+      <Interval t1="27.292" t2="28.883" value="~"/>
+      <Interval t1="31.857" t2="32.479" value="Yuube"/>
+      <Interval t1="32.548" t2="33.793" value=" itteta"/>
+      <Interval t1="34.001" t2="34.692" value=" sonna"/>
+      <Interval t1="34.761" t2="35.107" value=" ki"/>
+      <Interval t1="35.176" t2="35.384" value=" mo"/>
+      <Interval t1="35.453" t2="35.799" value=" suru"/>
+      <Interval t1="35.868" t2="36.075" value=" wa"/>
+      <Interval t1="36.075" t2="37.735" value="~"/>
+      <Interval t1="40.778" t2="41.539" value="Gurei"/>
+      <Interval t1="41.608" t2="41.816" value=" no"/>
+      <Interval t1="41.885" t2="43.130" value=" jaketto"/>
+      <Interval t1="43.199" t2="43.337" value=" ni"/>
+      <Interval t1="43.337" t2="43.960" value="~"/>
+      <Interval t1="44.444" t2="45.274" value="Mioboe"/>
+      <Interval t1="45.412" t2="45.550" value=" ga"/>
+      <Interval t1="45.619" t2="46.311" value=" aru"/>
+      <Interval t1="46.519" t2="47.556" value=" kouhii"/>
+      <Interval t1="47.625" t2="47.694" value=" no"/>
+      <Interval t1="47.763" t2="48.109" value=" shimi"/>
+      <Interval t1="48.109" t2="49.216" value="~"/>
+      <Interval t1="49.700" t2="51.152" value="Aikawarazu"/>
+      <Interval t1="51.221" t2="51.498" value=" na"/>
+      <Interval t1="51.567" t2="51.913" value=" no"/>
+      <Interval t1="51.982" t2="52.259" value=" ne"/>
+      <Interval t1="52.259" t2="52.950" value="~"/>
+      <Interval t1="53.158" t2="53.504" value="Shou"/>
+      <Interval t1="53.573" t2="54.610" value=" uindou"/>
+      <Interval t1="54.749" t2="55.233" value=" ni"/>
+      <Interval t1="55.440" t2="56.201" value=" futari"/>
+      <Interval t1="56.270" t2="57.031" value=" utsureba"/>
+      <Interval t1="57.031" t2="59.451" value="~"/>
+      <Interval t1="60.696" t2="61.042" value="Stay"/>
+      <Interval t1="61.111" t2="61.388" value=" with"/>
+      <Interval t1="61.457" t2="63.186" value=" me"/>
+      <Interval t1="63.463" t2="64.431" value="Mayonaka"/>
+      <Interval t1="64.500" t2="64.638" value=" no"/>
+      <Interval t1="64.707" t2="64.984" value=" doa"/>
+      <Interval t1="65.053" t2="65.192" value=" o"/>
+      <Interval t1="65.261" t2="65.814" value=" tataki"/>
+      <Interval t1="65.814" t2="67.681" value="~"/>
+      <Interval t1="67.889" t2="69.549" value="Kaeranaide"/>
+      <Interval t1="69.618" t2="69.964" value=" to"/>
+      <Interval t1="70.033" t2="70.517" value=" naita"/>
+      <Interval t1="70.517" t2="74.044" value="~"/>
+      <Interval t1="74.251" t2="74.666" value="Ano"/>
+      <Interval t1="74.736" t2="75.635" value=" kisetsu"/>
+      <Interval t1="75.704" t2="76.119" value=" ga"/>
+      <Interval t1="76.465" t2="76.880" value=" ima"/>
+      <Interval t1="76.949" t2="77.225" value=" me"/>
+      <Interval t1="77.295" t2="77.571" value=" no"/>
+      <Interval t1="77.640" t2="78.124" value=" mae"/>
+      <Interval t1="78.124" t2="78.194" value="~"/>
+      <Interval t1="78.401" t2="78.816" value="Stay"/>
+      <Interval t1="78.885" t2="79.162" value=" with"/>
+      <Interval t1="79.231" t2="79.508" value=" me"/>
+      <Interval t1="79.508" t2="81.029" value="~"/>
+      <Interval t1="81.237" t2="82.136" value="Kuchiguse"/>
+      <Interval t1="82.205" t2="82.481" value=" wo"/>
+      <Interval t1="82.551" t2="83.035" value=" ii"/>
+      <Interval t1="83.104" t2="83.657" value=" nagara"/>
+      <Interval t1="83.657" t2="85.248" value="~"/>
+      <Interval t1="85.455" t2="86.009" value="Futari"/>
+      <Interval t1="86.147" t2="86.424" value=" no"/>
+      <Interval t1="86.493" t2="87.253" value=" toki"/>
+      <Interval t1="87.323" t2="87.599" value=" wo"/>
+      <Interval t1="87.668" t2="88.360" value=" daite"/>
+      <Interval t1="88.360" t2="91.680" value="~"/>
+      <Interval t1="91.956" t2="92.440" value="Mada"/>
+      <Interval t1="92.510" t2="92.994" value=" wasu"/>
+      <Interval t1="92.994" t2="93.893" value="rezu"/>
+      <Interval t1="93.962" t2="94.930" value=" Daiji"/>
+      <Interval t1="94.999" t2="95.138" value=" ni"/>
+      <Interval t1="95.207" t2="96.244" value=" shite"/>
+      <Interval t1="96.383" t2="96.936" value=" ita"/>
+      <Interval t1="96.936" t2="101.224" value="~"/>
+      <Interval t1="105.857" t2="106.411" value="Koi"/>
+      <Interval t1="106.480" t2="106.756" value=" to"/>
+      <Interval t1="106.826" t2="107.310" value=" ai"/>
+      <Interval t1="107.379" t2="107.656" value=" to"/>
+      <Interval t1="107.725" t2="108.070" value=" wa"/>
+      <Interval t1="108.209" t2="108.831" value=" chigau"/>
+      <Interval t1="108.970" t2="109.799" value=" monoda"/>
+      <Interval t1="109.938" t2="110.076" value=" yo"/>
+      <Interval t1="110.145" t2="110.491" value=" to"/>
+      <Interval t1="110.491" t2="111.321" value="~"/>
+      <Interval t1="114.917" t2="115.471" value="Yuube"/>
+      <Interval t1="115.540" t2="116.715" value=" iwareta"/>
+      <Interval t1="117.130" t2="117.684" value=" sonna"/>
+      <Interval t1="117.753" t2="118.099" value=" ki"/>
+      <Interval t1="118.237" t2="118.375" value=" mo"/>
+      <Interval t1="118.444" t2="118.929" value=" suru"/>
+      <Interval t1="118.998" t2="119.343" value=" wa"/>
+      <Interval t1="119.343" t2="121.972" value="~"/>
+      <Interval t1="123.770" t2="124.600" value="Nidome"/>
+      <Interval t1="124.669" t2="124.945" value=" no"/>
+      <Interval t1="125.015" t2="125.430" value=" fuyu"/>
+      <Interval t1="125.499" t2="125.706" value=" ga"/>
+      <Interval t1="125.775" t2="126.329" value=" kit"/>
+      <Interval t1="126.329" t2="127.228" value="e~"/>
+      <Interval t1="127.435" t2="128.473" value="Hanarete"/>
+      <Interval t1="128.542" t2="129.441" value=" itta"/>
+      <Interval t1="129.579" t2="130.271" value="anata"/>
+      <Interval t1="130.340" t2="130.616" value=" no"/>
+      <Interval t1="130.686" t2="131.239" value=" kokoro"/>
+      <Interval t1="131.239" t2="132.553" value="~"/>
+      <Interval t1="132.760" t2="133.175" value="Furi"/>
+      <Interval t1="133.245" t2="134.213" value=" kaereba"/>
+      <Interval t1="134.282" t2="135.112" value=" itsumo"/>
+      <Interval t1="135.112" t2="136.011" value="~"/>
+      <Interval t1="136.218" t2="136.702" value="Soko"/>
+      <Interval t1="136.772" t2="136.979" value=" ni"/>
+      <Interval t1="137.048" t2="137.740" value=" anata"/>
+      <Interval t1="137.809" t2="138.431" value="wo"/>
+      <Interval t1="138.501" t2="139.538" value=" kanjite"/>
+      <Interval t1="139.607" t2="140.022" value=" ita"/>
+      <Interval t1="140.091" t2="141.751" value=" no"/>
+      <Interval t1="141.751" t2="142.996" value="~"/>
+      <Interval t1="143.688" t2="144.172" value="Stay"/>
+      <Interval t1="144.241" t2="144.518" value=" with"/>
+      <Interval t1="144.587" t2="145.624" value=" me"/>
+      <Interval t1="145.624" t2="146.247" value="~"/>
+      <Interval t1="146.454" t2="147.422" value="Mayonaka"/>
+      <Interval t1="147.491" t2="147.630" value=" no"/>
+      <Interval t1="147.699" t2="148.045" value=" doa"/>
+      <Interval t1="148.114" t2="148.321" value=" o"/>
+      <Interval t1="148.390" t2="148.875" value=" tataki"/>
+      <Interval t1="148.875" t2="150.673" value="~"/>
+      <Interval t1="150.880" t2="151.572" value="Kokoro"/>
+      <Interval t1="151.641" t2="152.056" value=" ni"/>
+      <Interval t1="152.125" t2="152.471" value=" ana"/>
+      <Interval t1="152.540" t2="153.439" value=" ga"/>
+      <Interval t1="153.577" t2="153.923" value=" aita"/>
+      <Interval t1="153.923" t2="156.136" value="~"/>
+      <Interval t1="156.136" t2="157.035" value="~"/>
+      <Interval t1="157.243" t2="157.658" value="Ano"/>
+      <Interval t1="157.727" t2="158.626" value=" kisetsu"/>
+      <Interval t1="158.695" t2="159.110" value=" ga"/>
+      <Interval t1="159.456" t2="159.871" value=" ima"/>
+      <Interval t1="159.940" t2="160.217" value=" me"/>
+      <Interval t1="160.286" t2="160.563" value=" no"/>
+      <Interval t1="160.632" t2="160.977" value=" mae"/>
+      <Interval t1="160.977" t2="161.462" value="~"/>
+      <Interval t1="161.669" t2="161.946" value="Stay"/>
+      <Interval t1="162.015" t2="162.292" value=" with"/>
+      <Interval t1="162.361" t2="163.329" value=" me"/>
+      <Interval t1="163.329" t2="164.020" value="~"/>
+      <Interval t1="164.228" t2="165.265" value="Sabishisa"/>
+      <Interval t1="165.335" t2="166.649" value=" magirawashite"/>
+      <Interval t1="166.649" t2="168.378" value="~"/>
+      <Interval t1="168.585" t2="169.346" value="Oita"/>
+      <Interval t1="169.415" t2="170.383" value=" rekodo"/>
+      <Interval t1="170.521" t2="170.798" value=" no"/>
+      <Interval t1="170.867" t2="171.075" value=" hari"/>
+      <Interval t1="171.075" t2="174.671" value="~"/>
+      <Interval t1="174.948" t2="175.708" value="Onaji"/>
+      <Interval t1="175.778" t2="176.331" value=" merodi"/>
+      <Interval t1="176.331" t2="176.884" value="~"/>
+      <Interval t1="176.953" t2="179.028" value=" kurikaeshite"/>
+      <Interval t1="179.097" t2="179.651" value=" ita"/>
+      <Interval t1="179.651" t2="182.417" value="~"/>
+      <Interval t1="201.505" t2="201.782" value="Stay"/>
+      <Interval t1="201.851" t2="202.127" value=" with"/>
+      <Interval t1="202.197" t2="203.165" value=" me"/>
+      <Interval t1="203.165" t2="203.995" value="~"/>
+      <Interval t1="204.271" t2="205.032" value="Mayonaka"/>
+      <Interval t1="205.101" t2="205.240" value=" no"/>
+      <Interval t1="205.309" t2="205.585" value=" doa"/>
+      <Interval t1="205.655" t2="205.931" value=" o"/>
+      <Interval t1="206.000" t2="206.484" value=" tataki"/>
+      <Interval t1="206.484" t2="208.144" value="~"/>
+      <Interval t1="208.421" t2="210.081" value="Kaeranaide"/>
+      <Interval t1="210.150" t2="210.634" value=" to"/>
+      <Interval t1="210.703" t2="211.326" value=" naita"/>
+      <Interval t1="211.326" t2="214.230" value="~"/>
+      <Interval t1="214.784" t2="215.199" value="Ano"/>
+      <Interval t1="215.268" t2="216.167" value=" kisetsu"/>
+      <Interval t1="216.236" t2="216.651" value=" ga"/>
+      <Interval t1="216.997" t2="217.412" value=" ima"/>
+      <Interval t1="217.481" t2="217.757" value=" me"/>
+      <Interval t1="217.827" t2="218.103" value="no"/>
+      <Interval t1="218.172" t2="218.380" value=" mae"/>
+      <Interval t1="218.380" t2="218.726" value="~"/>
+      <Interval t1="218.933" t2="219.210" value="Stay"/>
+      <Interval t1="219.279" t2="219.556" value=" with"/>
+      <Interval t1="219.625" t2="220.870" value=" me"/>
+      <Interval t1="220.870" t2="221.492" value="~"/>
+      <Interval t1="221.700" t2="222.599" value="Kuchiguse"/>
+      <Interval t1="222.668" t2="222.944" value=" wo"/>
+      <Interval t1="223.014" t2="223.498" value=" ii"/>
+      <Interval t1="223.567" t2="224.328" value=" nagara"/>
+      <Interval t1="224.328" t2="226.057" value="~"/>
+      <Interval t1="226.264" t2="226.817" value="Futari"/>
+      <Interval t1="226.956" t2="227.232" value=" no"/>
+      <Interval t1="227.301" t2="228.062" value=" toki"/>
+      <Interval t1="228.131" t2="228.408" value=" wo"/>
+      <Interval t1="228.477" t2="229.169" value=" daite"/>
+      <Interval t1="229.169" t2="232.350" value="~"/>
+      <Interval t1="232.765" t2="233.042" value="Mada"/>
+      <Interval t1="233.111" t2="234.701" value=" wasurezu"/>
+      <Interval t1="234.771" t2="236.085" value=" atatameteta"/>
+      <Interval t1="236.085" t2="236.638" value="~"/>
+      <Interval t1="236.845" t2="237.122" value="Stay"/>
+      <Interval t1="237.191" t2="237.468" value=" with"/>
+      <Interval t1="237.537" t2="238.574" value=" me"/>
+      <Interval t1="238.574" t2="239.197" value="~"/>
+      <Interval t1="239.404" t2="240.442" value="Mayonaka"/>
+      <Interval t1="240.511" t2="240.649" value=" no"/>
+      <Interval t1="240.718" t2="241.064" value=" doa"/>
+      <Interval t1="241.133" t2="241.341" value=" o"/>
+      <Interval t1="241.410" t2="241.894" value=" tataki"/>
+      <Interval t1="241.894" t2="243.623" value="~"/>
+      <Interval t1="243.831" t2="245.490" value="Kaeranaide"/>
+      <Interval t1="245.560" t2="246.044" value=" to"/>
+      <Interval t1="246.113" t2="246.735" value=" naita"/>
+      <Interval t1="246.735" t2="250.055" value="~"/>
+      <Interval t1="250.193" t2="250.608" value=" Ano"/>
+      <Interval t1="250.677" t2="251.576" value=" kisetsu"/>
+      <Interval t1="251.646" t2="252.061" value=" ga"/>
+      <Interval t1="252.406" t2="252.821" value=" ima"/>
+      <Interval t1="252.890" t2="253.167" value=" me"/>
+      <Interval t1="253.236" t2="253.513" value=" no"/>
+      <Interval t1="253.582" t2="253.790" value=" mae"/>
+      <Interval t1="253.790" t2="254.412" value="~"/>
+      <Interval t1="254.619" t2="254.896" value="Stay"/>
+      <Interval t1="254.965" t2="255.242" value=" with"/>
+      <Interval t1="255.311" t2="256.556" value=" me"/>
+      <Interval t1="256.556" t2="257.109" value="~"/>
+      <Interval t1="257.386" t2="258.285" value="Kuchiguse"/>
+      <Interval t1="258.354" t2="258.631" value=" wo"/>
+      <Interval t1="258.700" t2="259.184" value=" ii"/>
+      <Interval t1="259.253" t2="259.876" value=" nagara"/>
+      <Interval t1="259.876" t2="261.466" value="~"/>
+      <Interval t1="261.812" t2="262.365" value="Futari"/>
+      <Interval t1="262.434" t2="262.711" value=" no"/>
+      <Interval t1="262.780" t2="263.195" value=" toki"/>
+      <Interval t1="263.264" t2="263.748" value=" wo"/>
+      <Interval t1="263.818" t2="264.371" value=" daite"/>
+      <Interval t1="264.371" t2="266.238" value="~"/>
+      <Interval t1="266.238" t2="266.584" value="~"/>
+      <Interval t1="268.106" t2="268.382" value="Mada"/>
+      <Interval t1="268.451" t2="270.042" value=" wasurezu"/>
+      <Interval t1="270.111" t2="271.771" value=" atatameteta"/>
+      <Interval t1="271.771" t2="272.048" value="~"/>
+      <Interval t1="272.255" t2="272.532" value="Stay"/>
+      <Interval t1="272.601" t2="272.878" value=" with"/>
+      <Interval t1="272.947" t2="274.261" value=" me"/>
+      <Interval t1="274.261" t2="274.607" value="~"/>
+      <Interval t1="274.814" t2="275.851" value="Mayonaka"/>
+      <Interval t1="275.921" t2="276.059" value=" no"/>
+      <Interval t1="276.128" t2="276.474" value=" doa"/>
+      <Interval t1="276.543" t2="276.750" value=" o"/>
+      <Interval t1="276.820" t2="277.304" value=" tataki"/>
+      <Interval t1="277.304" t2="278.964" value="~"/>
+      <Interval t1="279.240" t2="280.900" value="Kaeranaide"/>
+      <Interval t1="280.969" t2="281.453" value=" to"/>
+      <Interval t1="281.522" t2="282.145" value=" naita"/>
+      <Interval t1="282.145" t2="285.395" value="~"/>
+      <Interval t1="285.603" t2="286.018" value="Ano"/>
+      <Interval t1="286.087" t2="286.986" value=" kisetsu"/>
+      <Interval t1="287.055" t2="287.470" value=" ga"/>
+      <Interval t1="287.816" t2="288.231" value=" ima"/>
+      <Interval t1="288.300" t2="288.577" value=" me"/>
+      <Interval t1="288.646" t2="288.923" value=" no"/>
+      <Interval t1="288.992" t2="289.476" value=" mae"/>
+      <Interval t1="290.029" t2="290.306" value="Stay"/>
+      <Interval t1="290.375" t2="290.652" value=" with"/>
+      <Interval t1="290.721" t2="292.795" value=" me~"/>
+      <Interval t1="302.201" t2="302.270" value=""/>
+   </IntervalLayer>
+   <IntervalLayer datatype="STRING" name="notes_full">
+      <Interval t1="0.320" t2="0.527" value="#p55#.To#h"/>
+      <Interval t1="0.597" t2="1.219" value="#p57#. you#h"/>
+      <Interval t1="1.219" t2="2.533" value="#p57#.~#h"/>
+      <Interval t1="2.741" t2="3.225" value="#p57#.Yes,#h"/>
+      <Interval t1="3.294" t2="3.640" value="#p58#. my#h"/>
+      <Interval t1="3.709" t2="4.262" value="#p57#. love#h"/>
+      <Interval t1="4.470" t2="4.677" value="#p55#. to#h"/>
+      <Interval t1="4.815" t2="5.092" value="#p55#. you#h"/>
+      <Interval t1="5.092" t2="6.959" value="#p57#.~#h"/>
+      <Interval t1="7.167" t2="7.651" value="#p57#.Yes,#h"/>
+      <Interval t1="7.720" t2="7.997" value="#p58#. my#h"/>
+      <Interval t1="8.066" t2="8.688" value="#p57#. love#h"/>
+      <Interval t1="8.896" t2="9.103" value="#p55#. to#h"/>
+      <Interval t1="9.172" t2="9.795" value="#p57#. you#h"/>
+      <Interval t1="9.795" t2="10.348" value="#p55#.~#h"/>
+      <Interval t1="10.348" t2="11.247" value="#p57#.~,#h"/>
+      <Interval t1="11.662" t2="12.423" value="#p57#. you#h"/>
+      <Interval t1="12.423" t2="13.391" value="#p57#.~#h"/>
+      <Interval t1="13.599" t2="13.806" value="#p53#.To#h"/>
+      <Interval t1="13.875" t2="14.982" value="#p57#. you#h"/>
+      <Interval t1="14.982" t2="18.371" value="#p57#.~#h"/>
+      <Interval t1="23.004" t2="23.627" value="#p50#.Watashi#h"/>
+      <Interval t1="23.696" t2="24.042" value="#p53#. wa#h"/>
+      <Interval t1="24.111" t2="25.010" value="#p53#. watashi~,#h"/>
+      <Interval t1="25.217" t2="25.771" value="#p50#. anata#h"/>
+      <Interval t1="25.840" t2="26.255" value="#p52#. wa#h"/>
+      <Interval t1="26.324" t2="26.946" value="#p53#. anata#h"/>
+      <Interval t1="27.016" t2="27.292" value="#p49#. to#h"/>
+      <Interval t1="27.292" t2="28.883" value="#p49#.~#h"/>
+      <Interval t1="31.857" t2="32.479" value="#p50#.Yuube#h"/>
+      <Interval t1="32.548" t2="33.793" value="#p53#. itteta#h"/>
+      <Interval t1="34.001" t2="34.692" value="#p50#. sonna#h"/>
+      <Interval t1="34.761" t2="35.107" value="#p52#. ki#h"/>
+      <Interval t1="35.176" t2="35.384" value="#p52#. mo#h"/>
+      <Interval t1="35.453" t2="35.799" value="#p53#. suru#h"/>
+      <Interval t1="35.868" t2="36.075" value="#p49#. wa#h"/>
+      <Interval t1="36.075" t2="37.735" value="#p49#.~#h"/>
+      <Interval t1="40.778" t2="41.539" value="#p55#.Gurei#h"/>
+      <Interval t1="41.608" t2="41.816" value="#p58#. no#h"/>
+      <Interval t1="41.885" t2="43.130" value="#p55#. jaketto#h"/>
+      <Interval t1="43.199" t2="43.337" value="#p52#. ni#h"/>
+      <Interval t1="43.337" t2="43.960" value="#p55#.~#h"/>
+      <Interval t1="44.444" t2="45.274" value="#p53#.Mioboe#h"/>
+      <Interval t1="45.412" t2="45.550" value="#p53#. ga#h"/>
+      <Interval t1="45.619" t2="46.311" value="#p57#. aru#h"/>
+      <Interval t1="46.519" t2="47.556" value="#p57#. kouhii#h"/>
+      <Interval t1="47.625" t2="47.694" value="#p53#. no#h"/>
+      <Interval t1="47.763" t2="48.109" value="#p57#. shimi#h"/>
+      <Interval t1="48.109" t2="49.216" value="#p55#.~#h"/>
+      <Interval t1="49.700" t2="51.152" value="#p57#.Aikawarazu#h"/>
+      <Interval t1="51.221" t2="51.498" value="#p57#. na#h"/>
+      <Interval t1="51.567" t2="51.913" value="#p55#. no#h"/>
+      <Interval t1="51.982" t2="52.259" value="#p53#. ne#h"/>
+      <Interval t1="52.259" t2="52.950" value="#p53#.~#h"/>
+      <Interval t1="53.158" t2="53.504" value="#p50#.Shou#h"/>
+      <Interval t1="53.573" t2="54.610" value="#p53#. uindou#h"/>
+      <Interval t1="54.749" t2="55.233" value="#p57#. ni#h"/>
+      <Interval t1="55.440" t2="56.201" value="#p53#. futari#h"/>
+      <Interval t1="56.270" t2="57.031" value="#p53#. utsureba#h"/>
+      <Interval t1="57.031" t2="59.451" value="#p55#.~#h"/>
+      <Interval t1="60.696" t2="61.042" value="#p53#.Stay#h"/>
+      <Interval t1="61.111" t2="61.388" value="#p55#. with#h"/>
+      <Interval t1="61.457" t2="63.186" value="#p57#. me#h"/>
+      <Interval t1="63.463" t2="64.431" value="#p57#.Mayonaka#h"/>
+      <Interval t1="64.500" t2="64.638" value="#p55#. no#h"/>
+      <Interval t1="64.707" t2="64.984" value="#p55#. doa#h"/>
+      <Interval t1="65.053" t2="65.192" value="#p49#. o#h"/>
+      <Interval t1="65.261" t2="65.814" value="#p58#. tataki#h"/>
+      <Interval t1="65.814" t2="67.681" value="#p57#.~#h"/>
+      <Interval t1="67.889" t2="69.549" value="#p57#.Kaeranaide#h"/>
+      <Interval t1="69.618" t2="69.964" value="#p58#. to#h"/>
+      <Interval t1="70.033" t2="70.517" value="#p57#. naita#h"/>
+      <Interval t1="70.517" t2="74.044" value="#p53#.~#h"/>
+      <Interval t1="74.251" t2="74.666" value="#p50#.Ano#h"/>
+      <Interval t1="74.736" t2="75.635" value="#p58#. kisetsu#h"/>
+      <Interval t1="75.704" t2="76.119" value="#p53#. ga#h"/>
+      <Interval t1="76.465" t2="76.880" value="#p53#. ima#h"/>
+      <Interval t1="76.949" t2="77.225" value="#p57#. me#h"/>
+      <Interval t1="77.295" t2="77.571" value="#p58#. no#h"/>
+      <Interval t1="77.640" t2="78.124" value="#p49#. mae#h"/>
+      <Interval t1="78.124" t2="78.194" value="#p53#.~#h"/>
+      <Interval t1="78.401" t2="78.816" value="#p53#.Stay#h"/>
+      <Interval t1="78.885" t2="79.162" value="#p55#. with#h"/>
+      <Interval t1="79.231" t2="79.508" value="#p57#. me#h"/>
+      <Interval t1="79.508" t2="81.029" value="#p57#.~#h"/>
+      <Interval t1="81.237" t2="82.136" value="#p57#.Kuchiguse#h"/>
+      <Interval t1="82.205" t2="82.481" value="#p55#. wo#h"/>
+      <Interval t1="82.551" t2="83.035" value="#p49#. ii#h"/>
+      <Interval t1="83.104" t2="83.657" value="#p58#. nagara#h"/>
+      <Interval t1="83.657" t2="85.248" value="#p57#.~#h"/>
+      <Interval t1="85.455" t2="86.009" value="#p55#.Futari#h"/>
+      <Interval t1="86.147" t2="86.424" value="#p57#. no#h"/>
+      <Interval t1="86.493" t2="87.253" value="#p57#. toki#h"/>
+      <Interval t1="87.323" t2="87.599" value="#p58#. wo#h"/>
+      <Interval t1="87.668" t2="88.360" value="#p57#. daite#h"/>
+      <Interval t1="88.360" t2="91.680" value="#p53#.~#h"/>
+      <Interval t1="91.956" t2="92.440" value="#p53#.Mada#h"/>
+      <Interval t1="92.510" t2="92.994" value="#p58#. wasu#h"/>
+      <Interval t1="92.994" t2="93.893" value="#p53#.rezu#h"/>
+      <Interval t1="93.962" t2="94.930" value="#p53#. Daiji#h"/>
+      <Interval t1="94.999" t2="95.138" value="#p58#. ni#h"/>
+      <Interval t1="95.207" t2="96.244" value="#p53#. shite#h"/>
+      <Interval t1="96.383" t2="96.936" value="#p55#. ita#h"/>
+      <Interval t1="96.936" t2="101.224" value="#p53#.~#h"/>
+      <Interval t1="105.857" t2="106.411" value="#p50#.Koi#h"/>
+      <Interval t1="106.480" t2="106.756" value="#p52#. to#h"/>
+      <Interval t1="106.826" t2="107.310" value="#p52#. ai#h"/>
+      <Interval t1="107.379" t2="107.656" value="#p53#. to#h"/>
+      <Interval t1="107.725" t2="108.070" value="#p53#. wa#h"/>
+      <Interval t1="108.209" t2="108.831" value="#p50#. chigau#h"/>
+      <Interval t1="108.970" t2="109.799" value="#p52#. monoda#h"/>
+      <Interval t1="109.938" t2="110.076" value="#p55#. yo#h"/>
+      <Interval t1="110.145" t2="110.491" value="#p49#. to#h"/>
+      <Interval t1="110.491" t2="111.321" value="#p49#.~#h"/>
+      <Interval t1="114.917" t2="115.471" value="#p50#.Yuube#h"/>
+      <Interval t1="115.540" t2="116.715" value="#p52#. iwareta#h"/>
+      <Interval t1="117.130" t2="117.684" value="#p50#. sonna#h"/>
+      <Interval t1="117.753" t2="118.099" value="#p53#. ki#h"/>
+      <Interval t1="118.237" t2="118.375" value="#p52#. mo#h"/>
+      <Interval t1="118.444" t2="118.929" value="#p53#. suru#h"/>
+      <Interval t1="118.998" t2="119.343" value="#p49#. wa#h"/>
+      <Interval t1="119.343" t2="121.972" value="#p49#.~#h"/>
+      <Interval t1="123.770" t2="124.600" value="#p55#.Nidome#h"/>
+      <Interval t1="124.669" t2="124.945" value="#p57#. no#h"/>
+      <Interval t1="125.015" t2="125.430" value="#p57#. fuyu#h"/>
+      <Interval t1="125.499" t2="125.706" value="#p57#. ga#h"/>
+      <Interval t1="125.775" t2="126.329" value="#p55#. kit#h"/>
+      <Interval t1="126.329" t2="127.228" value="#p55#.e~#h"/>
+      <Interval t1="127.435" t2="128.473" value="#p53#.Hanarete#h"/>
+      <Interval t1="128.542" t2="129.441" value="#p57#. itta#h"/>
+      <Interval t1="129.579" t2="130.271" value="#p53#.anata#h"/>
+      <Interval t1="130.340" t2="130.616" value="#p55#. no#h"/>
+      <Interval t1="130.686" t2="131.239" value="#p57#. kokoro#h"/>
+      <Interval t1="131.239" t2="132.553" value="#p55#.~#h"/>
+      <Interval t1="132.760" t2="133.175" value="#p55#.Furi#h"/>
+      <Interval t1="133.245" t2="134.213" value="#p57#. kaereba#h"/>
+      <Interval t1="134.282" t2="135.112" value="#p57#. itsumo#h"/>
+      <Interval t1="135.112" t2="136.011" value="#p55#.~#h"/>
+      <Interval t1="136.218" t2="136.702" value="#p53#.Soko#h"/>
+      <Interval t1="136.772" t2="136.979" value="#p57#. ni#h"/>
+      <Interval t1="137.048" t2="137.740" value="#p55#. anata#h"/>
+      <Interval t1="137.809" t2="138.431" value="#p57#.wo#h"/>
+      <Interval t1="138.501" t2="139.538" value="#p57#. kanjite#h"/>
+      <Interval t1="139.607" t2="140.022" value="#p57#. ita#h"/>
+      <Interval t1="140.091" t2="141.751" value="#p55#. no#h"/>
+      <Interval t1="141.751" t2="142.996" value="#p57#.~#h"/>
+      <Interval t1="143.688" t2="144.172" value="#p53#.Stay#h"/>
+      <Interval t1="144.241" t2="144.518" value="#p55#. with#h"/>
+      <Interval t1="144.587" t2="145.624" value="#p57#. me#h"/>
+      <Interval t1="145.624" t2="146.247" value="#p57#.~#h"/>
+      <Interval t1="146.454" t2="147.422" value="#p57#.Mayonaka#h"/>
+      <Interval t1="147.491" t2="147.630" value="#p55#. no#h"/>
+      <Interval t1="147.699" t2="148.045" value="#p55#. doa#h"/>
+      <Interval t1="148.114" t2="148.321" value="#p49#. o#h"/>
+      <Interval t1="148.390" t2="148.875" value="#p58#. tataki#h"/>
+      <Interval t1="148.875" t2="150.673" value="#p57#.~#h"/>
+      <Interval t1="150.880" t2="151.572" value="#p55#.Kokoro#h"/>
+      <Interval t1="151.641" t2="152.056" value="#p55#. ni#h"/>
+      <Interval t1="152.125" t2="152.471" value="#p57#. ana#h"/>
+      <Interval t1="152.540" t2="153.439" value="#p49#. ga#h"/>
+      <Interval t1="153.577" t2="153.923" value="#p57#. aita#h"/>
+      <Interval t1="153.923" t2="156.136" value="#p53#.~#h"/>
+      <Interval t1="156.136" t2="157.035" value="#p55#.~#h"/>
+      <Interval t1="157.243" t2="157.658" value="#p50#.Ano#h"/>
+      <Interval t1="157.727" t2="158.626" value="#p58#. kisetsu#h"/>
+      <Interval t1="158.695" t2="159.110" value="#p53#. ga#h"/>
+      <Interval t1="159.456" t2="159.871" value="#p53#. ima#h"/>
+      <Interval t1="159.940" t2="160.217" value="#p57#. me#h"/>
+      <Interval t1="160.286" t2="160.563" value="#p58#. no#h"/>
+      <Interval t1="160.632" t2="160.977" value="#p49#. mae#h"/>
+      <Interval t1="160.977" t2="161.462" value="#p49#.~#h"/>
+      <Interval t1="161.669" t2="161.946" value="#p53#.Stay#h"/>
+      <Interval t1="162.015" t2="162.292" value="#p53#. with#h"/>
+      <Interval t1="162.361" t2="163.329" value="#p57#. me#h"/>
+      <Interval t1="163.329" t2="164.020" value="#p57#.~#h"/>
+      <Interval t1="164.228" t2="165.265" value="#p57#.Sabishisa#h"/>
+      <Interval t1="165.335" t2="166.649" value="#p49#. magirawashite#h"/>
+      <Interval t1="166.649" t2="168.378" value="#p57#.~#h"/>
+      <Interval t1="168.585" t2="169.346" value="#p57#.Oita#h"/>
+      <Interval t1="169.415" t2="170.383" value="#p55#. rekodo#h"/>
+      <Interval t1="170.521" t2="170.798" value="#p57#. no#h"/>
+      <Interval t1="170.867" t2="171.075" value="#p57#. hari#h"/>
+      <Interval t1="171.075" t2="174.671" value="#p53#.~#h"/>
+      <Interval t1="174.948" t2="175.708" value="#p53#.Onaji#h"/>
+      <Interval t1="175.778" t2="176.331" value="#p58#. merodi#h"/>
+      <Interval t1="176.331" t2="176.884" value="#p53#.~#h"/>
+      <Interval t1="176.953" t2="179.028" value="#p57#. kurikaeshite#h"/>
+      <Interval t1="179.097" t2="179.651" value="#p53#. ita#h"/>
+      <Interval t1="179.651" t2="182.417" value="#p53#.~#h"/>
+      <Interval t1="201.505" t2="201.782" value="#p53#.Stay#h"/>
+      <Interval t1="201.851" t2="202.127" value="#p55#. with#h"/>
+      <Interval t1="202.197" t2="203.165" value="#p57#. me#h"/>
+      <Interval t1="203.165" t2="203.995" value="#p57#.~#h"/>
+      <Interval t1="204.271" t2="205.032" value="#p57#.Mayonaka#h"/>
+      <Interval t1="205.101" t2="205.240" value="#p55#. no#h"/>
+      <Interval t1="205.309" t2="205.585" value="#p55#. doa#h"/>
+      <Interval t1="205.655" t2="205.931" value="#p49#. o#h"/>
+      <Interval t1="206.000" t2="206.484" value="#p58#. tataki#h"/>
+      <Interval t1="206.484" t2="208.144" value="#p57#.~#h"/>
+      <Interval t1="208.421" t2="210.081" value="#p55#.Kaeranaide#h"/>
+      <Interval t1="210.150" t2="210.634" value="#p58#. to#h"/>
+      <Interval t1="210.703" t2="211.326" value="#p57#. naita#h"/>
+      <Interval t1="211.326" t2="214.230" value="#p53#.~#h"/>
+      <Interval t1="214.784" t2="215.199" value="#p53#.Ano#h"/>
+      <Interval t1="215.268" t2="216.167" value="#p58#. kisetsu#h"/>
+      <Interval t1="216.236" t2="216.651" value="#p53#. ga#h"/>
+      <Interval t1="216.997" t2="217.412" value="#p50#. ima#h"/>
+      <Interval t1="217.481" t2="217.757" value="#p57#. me#h"/>
+      <Interval t1="217.827" t2="218.103" value="#p58#.no#h"/>
+      <Interval t1="218.172" t2="218.380" value="#p49#. mae#h"/>
+      <Interval t1="218.380" t2="218.726" value="#p53#.~#h"/>
+      <Interval t1="218.933" t2="219.210" value="#p53#.Stay#h"/>
+      <Interval t1="219.279" t2="219.556" value="#p53#. with#h"/>
+      <Interval t1="219.625" t2="220.870" value="#p57#. me#h"/>
+      <Interval t1="220.870" t2="221.492" value="#p57#.~#h"/>
+      <Interval t1="221.700" t2="222.599" value="#p57#.Kuchiguse#h"/>
+      <Interval t1="222.668" t2="222.944" value="#p55#. wo#h"/>
+      <Interval t1="223.014" t2="223.498" value="#p49#. ii#h"/>
+      <Interval t1="223.567" t2="224.328" value="#p58#. nagara#h"/>
+      <Interval t1="224.328" t2="226.057" value="#p57#.~#h"/>
+      <Interval t1="226.264" t2="226.817" value="#p57#.Futari#h"/>
+      <Interval t1="226.956" t2="227.232" value="#p55#. no#h"/>
+      <Interval t1="227.301" t2="228.062" value="#p57#. toki#h"/>
+      <Interval t1="228.131" t2="228.408" value="#p57#. wo#h"/>
+      <Interval t1="228.477" t2="229.169" value="#p57#. daite#h"/>
+      <Interval t1="229.169" t2="232.350" value="#p53#.~#h"/>
+      <Interval t1="232.765" t2="233.042" value="#p53#.Mada#h"/>
+      <Interval t1="233.111" t2="234.701" value="#p58#. wasurezu#h"/>
+      <Interval t1="234.771" t2="236.085" value="#p53#. atatameteta#h"/>
+      <Interval t1="236.085" t2="236.638" value="#p53#.~#h"/>
+      <Interval t1="236.845" t2="237.122" value="#p53#.Stay#h"/>
+      <Interval t1="237.191" t2="237.468" value="#p55#. with#h"/>
+      <Interval t1="237.537" t2="238.574" value="#p57#. me#h"/>
+      <Interval t1="238.574" t2="239.197" value="#p58#.~#h"/>
+      <Interval t1="239.404" t2="240.442" value="#p53#.Mayonaka#h"/>
+      <Interval t1="240.511" t2="240.649" value="#p55#. no#h"/>
+      <Interval t1="240.718" t2="241.064" value="#p55#. doa#h"/>
+      <Interval t1="241.133" t2="241.341" value="#p49#. o#h"/>
+      <Interval t1="241.410" t2="241.894" value="#p58#. tataki#h"/>
+      <Interval t1="241.894" t2="243.623" value="#p57#.~#h"/>
+      <Interval t1="243.831" t2="245.490" value="#p55#.Kaeranaide#h"/>
+      <Interval t1="245.560" t2="246.044" value="#p58#. to#h"/>
+      <Interval t1="246.113" t2="246.735" value="#p57#. naita#h"/>
+      <Interval t1="246.735" t2="250.055" value="#p53#.~#h"/>
+      <Interval t1="250.193" t2="250.608" value="#p53#. Ano#h"/>
+      <Interval t1="250.677" t2="251.576" value="#p58#. kisetsu#h"/>
+      <Interval t1="251.646" t2="252.061" value="#p53#. ga#h"/>
+      <Interval t1="252.406" t2="252.821" value="#p53#. ima#h"/>
+      <Interval t1="252.890" t2="253.167" value="#p57#. me#h"/>
+      <Interval t1="253.236" t2="253.513" value="#p58#. no#h"/>
+      <Interval t1="253.582" t2="253.790" value="#p53#. mae#h"/>
+      <Interval t1="253.790" t2="254.412" value="#p55#.~#h"/>
+      <Interval t1="254.619" t2="254.896" value="#p53#.Stay#h"/>
+      <Interval t1="254.965" t2="255.242" value="#p55#. with#h"/>
+      <Interval t1="255.311" t2="256.556" value="#p57#. me#h"/>
+      <Interval t1="256.556" t2="257.109" value="#p53#.~#h"/>
+      <Interval t1="257.386" t2="258.285" value="#p57#.Kuchiguse#h"/>
+      <Interval t1="258.354" t2="258.631" value="#p55#. wo#h"/>
+      <Interval t1="258.700" t2="259.184" value="#p49#. ii#h"/>
+      <Interval t1="259.253" t2="259.876" value="#p58#. nagara#h"/>
+      <Interval t1="259.876" t2="261.466" value="#p57#.~#h"/>
+      <Interval t1="261.812" t2="262.365" value="#p57#.Futari#h"/>
+      <Interval t1="262.434" t2="262.711" value="#p53#. no#h"/>
+      <Interval t1="262.780" t2="263.195" value="#p50#. toki#h"/>
+      <Interval t1="263.264" t2="263.748" value="#p57#. wo#h"/>
+      <Interval t1="263.818" t2="264.371" value="#p57#. daite#h"/>
+      <Interval t1="264.371" t2="266.238" value="#p53#.~#h"/>
+      <Interval t1="266.238" t2="266.584" value="#p53#.~#h"/>
+      <Interval t1="268.106" t2="268.382" value="#p53#.Mada#h"/>
+      <Interval t1="268.451" t2="270.042" value="#p58#. wasurezu#h"/>
+      <Interval t1="270.111" t2="271.771" value="#p58#. atatameteta#h"/>
+      <Interval t1="271.771" t2="272.048" value="#p55#.~#h"/>
+      <Interval t1="272.255" t2="272.532" value="#p53#.Stay#h"/>
+      <Interval t1="272.601" t2="272.878" value="#p55#. with#h"/>
+      <Interval t1="272.947" t2="274.261" value="#p57#. me#h"/>
+      <Interval t1="274.261" t2="274.607" value="#p57#.~#h"/>
+      <Interval t1="274.814" t2="275.851" value="#p57#.Mayonaka#h"/>
+      <Interval t1="275.921" t2="276.059" value="#p55#. no#h"/>
+      <Interval t1="276.128" t2="276.474" value="#p55#. doa#h"/>
+      <Interval t1="276.543" t2="276.750" value="#p49#. o#h"/>
+      <Interval t1="276.820" t2="277.304" value="#p58#. tataki#h"/>
+      <Interval t1="277.304" t2="278.964" value="#p57#.~#h"/>
+      <Interval t1="279.240" t2="280.900" value="#p55#.Kaeranaide#h"/>
+      <Interval t1="280.969" t2="281.453" value="#p57#. to#h"/>
+      <Interval t1="281.522" t2="282.145" value="#p57#. naita#h"/>
+      <Interval t1="282.145" t2="285.395" value="#p53#.~#h"/>
+      <Interval t1="285.603" t2="286.018" value="#p50#.Ano#h"/>
+      <Interval t1="286.087" t2="286.986" value="#p58#. kisetsu#h"/>
+      <Interval t1="287.055" t2="287.470" value="#p53#. ga#h"/>
+      <Interval t1="287.816" t2="288.231" value="#p50#. ima#h"/>
+      <Interval t1="288.300" t2="288.577" value="#p53#. me#h"/>
+      <Interval t1="288.646" t2="288.923" value="#p58#. no#h"/>
+      <Interval t1="288.992" t2="289.476" value="#p53#. mae#h"/>
+      <Interval t1="290.029" t2="290.306" value="#p52#.Stay#h"/>
+      <Interval t1="290.375" t2="290.652" value="#p55#. with#h"/>
+      <Interval t1="290.721" t2="292.795" value="#p57#. me~#h"/>
+      <Interval t1="302.201" t2="302.270" value="#p57#.#h"/>
+   </IntervalLayer>
+</AnnotationFile>

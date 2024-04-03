@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DLCSong xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Genre>Rock</Genre>
+  <Id>dschinghiskhan</Id>
+  <Uid>989</Uid>
+  <Artist>Dschinghis Khan</Artist>
+  <Title>Dschinghis Khan</Title>
+  <Year>1979</Year>
+  <Ratio>Ratio_16_9</Ratio>
+  <Difficulty>Difficulty4</Difficulty>
+  <Feat />
+  <Line1>Dschinghis Khan</Line1>
+  <Line2></Line2>
+</DLCSong>
+        

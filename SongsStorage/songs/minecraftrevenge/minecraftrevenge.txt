@@ -1,0 +1,598 @@
+#ARTIST:TryHardNinja feat. CaptainSparklez
+#TITLE:Revenge (Minecraft Creeper Song)
+#MP3:TryHardNinja feat. CaptainSparklez - Revenge (Minecraft Creeper Song).mp3
+#LANGUAGE:English
+#BPM:246,6
+#GAP:8700
+#VIDEO:TryHardNinja feat. CaptainSparklez - Revenge (Minecraft Creeper Song).mp4
+: 0 2 2 So 
+: 4 2 2 we're 
+: 8 2 2 back 
+: 12 2 2 in 
+: 16 2 0 the 
+: 20 4 0 mine
+- 27
+: 28 2 0 Got 
+: 32 2 0 our 
+: 36 2 0 pick
+: 40 2 0 axe 
+: 44 2 0 swin
+: 48 2 2 ging 
+: 52 4 -2 from 
+: 60 4 -5 side 
+: 68 4 -2 to 
+: 76 6 2 side 
+- 84
+: 90 4 -5 side, 
+: 98 2 -5 side 
+: 102 4 -2 to 
+: 110 6 2 side
+- 120
+: 130 2 2 This 
+: 134 2 2 task's 
+: 138 2 2 a 
+: 142 2 2 grue
+: 146 2 0 ling 
+: 150 4 0 one
+- 157
+: 159 2 0 Hope 
+: 163 2 0 to 
+: 167 2 0 find 
+: 171 2 0 some 
+: 175 2 0 dia
+: 179 2 2 monds 
+: 183 4 -2 to
+: 191 4 -5 ni~
+: 199 4 -2 ni~
+: 207 6 2 night
+- 217
+: 220 4 -5 Dia
+: 228 2 -5 monds 
+: 232 4 -2 to
+: 240 6 2 night
+- 250
+: 258 10 2 Heads 
+: 270 4 -2 up
+- 276
+: 286 2 -2 You 
+: 290 2 0 hear 
+: 294 2 0 a 
+: 298 2 0 sound
+- 304
+: 308 2 0 turn 
+: 312 2 0 a
+: 316 2 2 round 
+: 320 2 3 and 
+: 324 10 2 look 
+: 336 4 -2 up
+- 342
+: 356 2 0 To
+: 360 2 0 tal 
+: 364 2 0 shock 
+: 372 2 0 fills 
+: 376 2 0 your 
+: 380 2 -2 bo
+: 384 3 -3 dy
+- 390
+: 394 2 2 Oh 
+: 398 2 2 no, 
+: 402 2 2 it's 
+: 406 2 2 you 
+: 410 2 0 a
+: 414 4 1 gain
+- 420
+: 424 2 0 I 
+: 428 2 0 could 
+: 432 2 0 ne
+: 436 2 0 ver 
+: 440 2 0 for
+: 444 2 2 get 
+: 448 4 -2 these 
+: 456 4 -5 eyes, 
+: 464 4 -2 eyes, 
+: 472 6 2 eyes
+- 476
+: 484 4 -5 Eyes,
+: 492 2 -5  eyes,
+: 496 2 -2  eyes
+- 499
+: 500 2 2 'Cause 
+: 504 2 7 ba
+: 508 2 7 by 
+: 512 2 9 to
+* 516 10 10 night
+- 532
+: 546 2 2 The 
+: 550 6 10 cre
+: 558 2 10 eper's 
+: 562 2 9 trying 
+: 566 2 9 to 
+: 570 2 7 steel 
+: 574 2 7 all 
+: 578 2 5 our 
+: 582 6 5 stuff 
+: 590 2 7 a
+* 594 10 7 gain
+- 610
+: 632 2 2 'Cause 
+: 636 2 7 ba
+: 640 2 7 by 
+: 644 2 9 to
+* 648 10 10 night
+- 664
+: 678 2 2 You 
+: 682 6 10 grab 
+: 690 2 10 your 
+: 694 4 9 pick, 
+: 702 2 7 sho
+: 706 2 7 vel 
+: 710 2 5 and 
+: 714 6 5 bolt 
+: 722 2 7 a
+* 726 10 7 gain
+- 742
+: 780 2 -2 And 
+: 784 4 0 run, 
+: 792 4 0 run, 
+: 800 4 0 un
+: 806 2 0 til
+- 808
+: 812 2 -2 It's 
+: 816 4 0 done, 
+: 824 4 0 done, 
+: 832 4 0 un
+: 840 2 0 til 
+: 844 2 -2 the 
+: 848 4 0 sun 
+: 856 4 0 comes
+- 864
+: 866 4 0 up 
+: 872 4 2 in 
+: 878 2 -2 the 
+: 882 3 -2 mo
+: 886 2 -5 rn'
+- 892
+: 895 2 2 'Cause 
+: 899 2 7 ba
+: 903 2 7 by 
+: 907 2 9 to
+* 911 10 10 night
+- 927
+: 941 2 2 The 
+: 945 6 10 Cre
+: 953 2 10 eper's 
+: 957 2 9 trying 
+: 961 2 9 to 
+: 965 2 7 steel 
+: 969 2 7 all 
+: 973 2 5 our 
+: 977 6 5 stuff 
+: 985 2 7 a
+* 989 10 7 gain
+- 1005
+: 1051 2 2 Just 
+: 1055 2 2 when 
+: 1059 2 2 you 
+: 1063 2 2 think 
+: 1067 2 0 you're 
+: 1071 4 0 safe
+- 1077
+: 1080 2 0 O
+: 1084 2 0 ver
+: 1088 2 0 hear 
+: 1092 2 0 some 
+: 1096 2 0 his
+: 1100 2 2 sing 
+: 1104 4 -2 from 
+: 1112 6 -5 right 
+: 1120 6 -2 be
+: 1128 6 2 hind
+- 1136
+: 1140 6 -5 right, 
+: 1148 2 -5 right 
+: 1152 6 -2 be
+: 1160 6 2 hind
+- 1170
+: 1182 2 2 That's 
+: 1186 2 2 a 
+: 1190 2 2 nice 
+: 1194 2 2 life 
+: 1198 2 5 you 
+: 1202 4 0 have
+- 1208
+: 1212 2 0 Shame 
+: 1216 2 0 it's 
+: 1220 2 0 go
+: 1224 2 0 tta 
+: 1228 2 0 end 
+: 1232 2 2 at 
+: 1236 2 -2 this 
+: 1244 6 -5 time, 
+: 1252 6 -2 time, 
+: 1260 6 2 time
+- 1268
+: 1272 6 -5 time, 
+: 1280 2 -5 time, 
+: 1284 6 -2 time, 
+: 1292 6 2 time
+- 1302
+: 1310 10 2 blows 
+: 1322 4 -2 up 
+- 1328
+: 1339 1 -2 Then 
+: 1342 1 -2 you 
+: 1344 2 0 health 
+: 1348 2 0 bar 
+: 1352 2 0 drops 
+- 1358
+: 1360 2 0 You 
+: 1364 2 0 could 
+: 1368 2 2 use 
+: 1372 2 3 a 
+: 1376 7 2 1
+: 1384 2 0 ~
+: 1388 1 0 u
+: 1390 4 -2 ~p
+- 1394
+: 1410 2 0 Get 
+: 1414 2 0 in
+: 1418 4 0 side, 
+: 1426 2 0 don't 
+: 1430 2 0 be 
+: 1434 2 -2 tar
+: 1438 3 -3 dy
+- 1444
+: 1446 2 5 So 
+: 1450 2 5 now 
+: 1454 2 2 you're 
+: 1458 2 2 stuck 
+: 1462 2 0 in 
+: 1466 1 0 the
+: 1468 1 -2 ~
+: 1470 2 -5 re
+- 1473
+: 1475 2 0 Half 
+: 1479 2 0 a 
+: 1483 2 0 heart 
+: 1487 2 0 is 
+: 1491 2 0 left, 
+: 1495 2 2 but 
+: 1499 4 -2 don't 
+: 1507 4 -5 die, 
+: 1515 4 -2 die, 
+: 1523 6 2 die
+- 1531
+: 1535 4 -5 Die,
+: 1543 2 -5  die,
+: 1547 2 -2  die
+- 1550
+: 1552 2 2 'Cause 
+: 1556 2 7 ba
+: 1560 2 7 by 
+: 1564 2 9 to
+* 1568 10 10 night
+- 1584
+: 1598 2 2 The 
+: 1602 6 10 cre
+: 1610 2 10 eper's 
+: 1614 2 9 trying 
+: 1618 2 9 to 
+: 1622 2 7 steel 
+: 1626 2 7 all 
+: 1630 2 5 our 
+: 1634 6 5 stuff 
+: 1642 2 7 a
+* 1646 10 7 gain
+- 1662
+: 1684 2 2 'Cause 
+: 1688 2 7 ba
+: 1692 2 7 by 
+: 1696 2 9 to
+* 1700 10 10 night
+- 1716
+: 1730 2 2 You 
+: 1734 6 10 grab 
+: 1742 2 10 your 
+: 1746 4 9 pick, 
+: 1754 2 7 sho
+: 1758 2 7 vel 
+: 1762 2 5 and 
+: 1766 6 5 bolt 
+: 1774 2 7 a
+* 1778 10 7 gain
+- 1794
+: 1832 2 -2 And 
+: 1836 4 0 run, 
+: 1844 4 0 run, 
+: 1852 4 0 un
+: 1858 2 0 til
+- 1860
+: 1864 2 -2 It's 
+: 1868 4 0 done, 
+: 1876 4 0 done, 
+: 1884 4 0 un
+: 1892 2 0 til 
+: 1896 2 -2 the 
+: 1900 4 0 sun 
+: 1908 4 0 comes
+- 1916
+: 1918 4 0 up 
+: 1924 4 2 in 
+: 1930 2 -2 the 
+: 1934 3 -2 mo
+: 1938 2 -5 rn'
+- 1944
+: 1948 2 2 'Cause 
+: 1952 2 7 ba
+: 1956 2 7 by 
+: 1960 2 9 to
+* 1964 10 10 night
+- 1980
+: 1993 2 2 The 
+: 1997 6 10 Cre
+: 2005 2 10 eper's 
+: 2009 2 9 trying 
+: 2013 2 9 to 
+: 2017 2 7 steel 
+: 2021 2 7 all 
+: 2025 2 5 our 
+: 2029 6 5 stuff 
+: 2037 2 7 a
+* 2041 10 7 gain
+- 2057
+F 2097 2 4 Dig
+F 2101 2 4  up
+F 2105 2 4  dia
+F 2109 2 4 monds,
+F 2113 2 4  and
+F 2115 2 4  craft
+F 2117 2 4  those
+F 2119 2 4  dia
+F 2121 2 4 monds,
+F 2125 2 4  and
+F 2129 2 4  make
+F 2133 2 4  some
+F 2137 2 4  armor
+- 2139
+F 2147 1 4 Get
+F 2151 2 4  it
+F 2155 2 4  ba
+F 2157 2 4 by
+- 2159
+F 2159 1 4 Go
+F 2161 1 4  and
+F 2165 2 4  forge
+F 2167 1 4  that
+F 2169 1 4  like
+F 2173 2 4  you
+F 2177 2 4  so
+F 2181 2 4  M
+F 2185 2 4 L
+F 2187 1 4 G
+F 2189 2 4  pro,
+- 2191
+F 2193 1 4 The
+F 2197 2 4  sword's
+F 2199 1 4  made
+F 2201 1 4  of 
+F 2205 2 4  dia
+F 2209 2 4 monds,
+F 2211 1 4  so
+F 2213 1 4  come
+F 2217 2 4  at
+F 2221 2 4  me
+F 2224 2 4  bro
+- 2229
+F 2231 2 4 Hah!
+- 2233
+F 2241 1 4 Trai
+F 2243 1 4 ning
+F 2245 1 4  in
+F 2247 1 4  your
+F 2249 1 4  room
+F 2251 1 4  un
+F 2253 1 4 der
+F 2255 1 4  the
+F 2257 2 4  torch
+F 2261 2 4  light
+- 2264
+F 2265 1 4 Hone
+F 2269 2 4  that
+F 2273 1 4  form
+F 2275 1 4  to
+F 2277 1 4  get
+F 2279 1 4  you
+F 2281 1 4  ready
+F 2283 1 4  for
+F 2285 1 4  the
+F 2287 1 4  big
+F 2289 2 4  fight,
+- 2294
+F 2301 1 4 E
+F 2303 1 4 very
+F 2305 1 4  sin
+F 2307 1 4 gle
+F 2309 2 4  day
+F 2313 1 4  and
+F 2315 1 4  the
+F 2317 2 4  whole
+F 2321 2 4  night
+- 2324
+F 2325 1 4 Cre
+F 2327 1 4 eper's
+F 2329 2 4  out
+F 2333 2 4  prow
+F 2337 2 4 lin',
+F 2349 2 4  al
+F 2353 2 4 right
+- 2359
+F 2365 1 4 Look
+F 2367 1 4  at
+F 2369 2 4  me,
+F 2371 1 4  look
+F 2373 1 4  at
+F 2375 4 4  you
+- 2383
+F 2385 1 4 Take
+F 2387 1 4  my
+F 2389 2 4  re
+F 2391 2 4 venge,
+F 2397 1 4  that's
+F 2399 2 4  what
+F 2403 2 4  I'm
+F 2407 1 4  gon
+F 2409 1 4 na
+F 2411 4 4  do,
+- 2413
+F 2415 1 4 I'm
+F 2417 2 4  a
+F 2425 2 4  war
+F 2427 1 4 rier
+F 2429 2 4  ba
+F 2433 2 4 by,
+F 2437 1 4  what
+F 2439 2 4  else
+F 2443 2 4  is
+F 2447 2 4  new
+- 2451
+F 2453 1 4 And
+F 2455 2 4  my
+F 2461 2 4  blade's
+F 2465 1 4  gon
+F 2467 2 4 na
+F 2469 2 4  tear
+F 2471 1 4  through
+F 2473 1 4  you
+- 2473
+: 2474 2 2 'Cause 
+: 2478 2 7 ba
+: 2482 2 7 by 
+: 2486 2 9 to
+* 2490 10 10 night
+- 2506
+: 2519 2 2 The 
+: 2523 6 10 cre
+: 2531 2 10 eper's 
+: 2535 2 9 trying 
+: 2539 2 9 to 
+: 2543 2 7 steel 
+: 2547 2 7 all 
+: 2551 2 5 our 
+: 2555 6 5 stuff 
+: 2563 2 7 a
+* 2567 10 7 gain
+- 2583
+: 2605 2 2 Yeah, 
+: 2609 2 9 ba
+: 2613 2 7 by 
+: 2617 2 5 to
+* 2621 3 7 ni
+* 2625 3 2 ~
+* 2629 7 7 ~
+* 2637 3 5 ~
+* 2641 2 7 ~ght
+- 2645
+: 2650 2 2 You 
+: 2654 6 5 grab 
+: 2662 2 2 your 
+: 2666 4 2 sword, 
+: 2674 2 0 ar
+: 2678 2 -2 mor 
+: 2682 2 -2 and 
+: 2686 6 2 go
+- 2694
+: 2753 2 -2 So 
+: 2757 4 0 fight 
+: 2765 4 0 fight 
+: 2773 4 0 like 
+: 2779 2 0 it's 
+- 2781
+: 2785 2 -2 The 
+: 2789 4 0 last, 
+: 2797 4 0 last 
+: 2805 4 0 night 
+: 2813 2 0 of 
+: 2817 2 -2 your 
+: 2821 4 0 life, 
+: 2829 4 0 life
+- 2837
+: 2840 4 0 Show 
+: 2846 4 2 them 
+: 2852 2 -2 your 
+: 2856 3 -2 bi
+: 2860 2 -5 te
+- 2866
+: 2868 2 2 'Cause 
+: 2872 2 7 ba
+: 2876 2 7 by 
+: 2880 2 9 to
+* 2884 10 10 night
+- 2900
+: 2913 2 2 The 
+: 2917 6 10 cre
+: 2925 2 10 eper's 
+: 2929 2 9 trying 
+: 2933 2 9 to 
+: 2937 2 7 steel 
+: 2941 2 7 all 
+: 2945 2 5 our 
+: 2949 6 5 stuff 
+: 2957 2 7 a
+* 2961 10 7 gain
+- 2977
+: 2999 2 2 'Cause 
+: 3003 2 7 ba
+: 3007 2 7 by 
+: 3011 2 9 to
+* 3015 10 10 night
+- 3029
+: 3045 2 2 You 
+: 3049 6 10 grab 
+: 3057 2 10 your 
+: 3061 4 9 pick, 
+: 3069 2 7 sho
+: 3073 2 7 vel 
+: 3077 2 5 and 
+: 3081 6 5 bolt 
+: 3089 2 7 a
+* 3093 10 7 gain
+- 3109
+: 3148 2 -2 And 
+: 3152 4 0 run, 
+: 3160 4 0 run, 
+: 3168 4 0 un
+: 3174 2 0 til
+- 3176
+: 3180 2 -2 It's 
+: 3184 4 0 done, 
+: 3192 4 0 done, 
+: 3200 4 0 un
+: 3208 2 0 til 
+: 3212 2 -2 the 
+: 3216 4 0 sun 
+: 3224 4 0 comes
+- 3232
+: 3234 4 0 up 
+: 3240 4 2 in 
+: 3246 2 -2 the 
+: 3250 3 -2 mo
+: 3254 2 -5 rn'
+- 3260
+: 3262 2 2 'Cause 
+: 3266 2 7 ba
+: 3270 2 7 by 
+: 3274 2 9 to
+* 3278 10 10 night
+- 3294
+: 3307 2 2 The 
+: 3311 6 10 Cre
+: 3319 2 10 eper's 
+: 3323 2 9 trying 
+: 3327 2 9 to 
+: 3331 2 7 steel 
+: 3335 2 7 all 
+: 3339 2 5 our 
+: 3343 6 5 stuff 
+: 3351 2 7 a
+* 3355 10 7 gain
+E

@@ -1,0 +1,191 @@
+#ARTIST:Digimon
+#TITLE:Leb deinen Traum
+#MP3:Digimon - Leb deinen Traum.mp3
+#LANGUAGE:German
+#BPM:170
+#GAP:18600
+#VIDEO:Digimon - Leb deinen Traum [VD#-2].avi
+#VIDEOGAP:-2
+: 1 4 8 Du
+: 5 3 11  wirst
+: 8 3 11  noch
+: 11 4 11  viel
+: 15 2 8  er
+: 17 4 13 le
+: 21 7 11 ben
+- 30
+: 34 4 8 Du
+: 38 2 11  musst
+: 40 2 11  die
+: 42 2 11 sen
+: 44 4 11  Test
+: 48 2 8  be
+: 50 4 13 ste
+: 54 5 15 hen
+- 60
+: 62 2 8 Es
+: 64 2 6  kommt
+: 66 2 8  der
+: 68 2 6  Ta
+: 70 7 4 ~g
+- 78
+: 79 2 4 An
+: 81 2 4  dem
+: 83 4 7  du
+: 87 4 6  dein
+: 91 6 9  Ziel
+* 97 2 7  er
+* 99 2 6 rei
+* 101 15 4 chst!
+- 118
+: 131 2 8 Ein
+: 133 3 11  Di
+: 136 2 11 gi
+: 138 2 11 mon
+: 140 2 11  wird
+: 142 4 11  dich
+: 146 2 8  be
+: 148 4 13 glei
+: 152 6 11 ten
+- 160
+: 163 2 8 Der
+: 165 3 8  be
+: 168 3 11 ste
+: 171 4 11  Freund
+: 175 4 11  al
+: 179 2 8 ler
+: 181 4 13  Zei
+: 185 7 15 ten
+- 193
+: 195 2 8 Ihr
+: 197 2 6  seid
+: 199 2 8  ein
+: 201 2 6  Te
+: 203 6 4 am
+- 210
+: 211 2 4 Wer
+: 213 2 4 det
+: 215 4 7  al
+: 219 2 7 le
+: 221 2 6  A
+: 223 2 6 ben
+: 225 2 9 teu
+: 227 2 9 er
+* 229 2 7  be
+* 231 2 6 steh
+* 233 12 4 en
+- 247
+: 261 4 8 Wow
+* 265 5 16  wow
+* 270 4 15  wow
+* 274 3 13  wow
+* 277 4 11 wow
+* 281 6 8  wow
+- 289
+: 293 2 8 Wir
+: 295 2 6  blei
+: 297 2 8 ben
+: 299 2 6  Freun
+: 301 2 4 de
+- 303
+: 303 2 4  was
+: 305 2 4  auch
+: 307 2 4  im
+: 309 2 6 mer
+* 311 2 4  pas
+* 313 12 8 siert!
+- 326
+: 327 4 8 Wow
+* 331 5 16  wow
+* 336 4 15  wow
+* 340 3 13  wow
+* 343 4 11 wow
+* 347 6 8  wow
+- 355
+: 361 4 8 Doch
+: 365 2 9  wir
+: 367 2 9  wis
+: 369 2 9 sen
+: 371 4 11  nicht
+- 375
+: 375 4 11  was
+: 379 4 12  mor
+: 383 2 12 gen
+: 385 2 12  sein
+* 387 11 14  wi~
+* 398 19 11 rd!
+- 419
+: 431 6 16 Leb
+: 437 6 18  dei
+: 443 4 20 nen
+: 447 6 18  Traum
+: 453 5 18  denn
+: 458 2 16  er
+: 460 2 15  wird
+: 462 7 16  wahr
+- 471
+: 474 2 16 Geh
+: 476 2 16  dei
+: 478 2 18 nen
+: 480 5 20  Weg
+: 485 2 18  stel
+: 487 2 18 le
+: 489 2 16  dich
+: 491 2 16  der
+: 493 2 15  Ge
+: 495 6 16 fahr
+- 503
+: 505 2 11 Al
+: 507 3 10 les
+: 510 2 11  was
+: 512 4 11  wich
+: 516 4 11 tig
+: 520 5 13  ist
+- 526
+: 528 2 13 Wirst
+: 530 2 16  du
+: 532 2 13  er
+: 534 2 16 ken
+: 536 2 13 nen
+- 538
+: 538 2 16  wenn
+: 540 2 13  die
+: 542 2 16  Zeit
+: 544 2 16  ge
+: 546 3 20 kom
+: 549 3 18 men
+: 552 4 16  ist
+: 556 2 16  ja
+: 558 4 18 ~!
+- 563
+: 563 6 16 Greif
+: 569 6 18  nach
+: 575 4 20  den
+: 579 5 18  Ster
+: 584 2 18 nen
+: 586 4 18  du
+: 590 2 16  bist
+: 592 2 15  be
+: 594 9 16 reit
+- 605
+: 607 2 13 Glaub
+: 609 2 16  an
+: 611 4 20  dich
+: 615 4 18  bald
+: 619 4 23  ist
+: 623 2 15  es
+: 625 2 15  so
+: 627 6 16 weit
+- 635
+: 637 2 16 Wir
+: 639 2 15  wer
+: 641 2 13 den
+: 643 4 11  bei
+: 647 5 18  dir
+: 652 3 18  sei
+: 655 4 16 ~n
+- 662
+* 662 16 16 Sei
+* 678 16 14  be
+* 694 35 16 reit!
+E

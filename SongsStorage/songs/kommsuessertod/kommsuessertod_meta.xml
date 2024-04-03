@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DLCSong xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Genre>Pop</Genre>
+  <Id>kommsuessertod</Id>
+  <Uid>964</Uid>
+  <Artist>Evangelion</Artist>
+  <Title>Komm, sueßer Tod</Title>
+  <Year>1997</Year>
+  <Ratio>Ratio_16_9</Ratio>
+  <Difficulty>Difficulty4</Difficulty>
+  <Feat />
+  <Line1>Komm, sueßer Tod</Line1>
+  <Line2></Line2>
+</DLCSong>
+        

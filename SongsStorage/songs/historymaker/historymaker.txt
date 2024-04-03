@@ -1,0 +1,207 @@
+#TITLE:History Maker (TV)
+#ARTIST:Dean Fujioka
+#LANGUAGE:English
+#YEAR:2016
+#CREATOR:asdFer
+#MP3:Dean Fujioka - History Maker (TV).mp3
+#COVER:Dean Fujioka - History Maker (TV).jpg
+#VIDEO:Dean Fujioka - History Maker (TV).mp4
+#BPM:267.38
+#GAP:8450
+: 0 3 -6 Can
+: 5 3 -4  you
+: 11 10 -4  hear
+: 32 3 -4  my
+: 37 3 -1  heart
+: 43 8 -1 beat?
+- 56
+: 58 3 -3 Tired
+: 63 3 -1  of
+: 69 3 -6  feel
+: 75 10 -6 ing
+: 95 1 -6  ne
+: 98 1 -6 ver
+: 101 4 -4  e
+: 107 1 -6 nough
+: 110 3 -4 ~
+- 115
+: 117 7 -6 I
+: 128 3 -4  close
+: 133 3 -4  my
+: 139 10 -4  eyes and
+: 160 3 -4  tell
+: 165 3 -1  my
+: 171 5 -1 self
+- 179
+: 181 3 1 That
+: 186 8 -6  my
+: 197 3 -6  dreams
+: 202 8 -6  will
+: 213 3 -4  come
+: 218 12 -8  true
+- 236
+: 239 3 -4 There'll
+: 244 3 -3  be
+* 250 8 -1  no
+* 261 3 -1  more
+: 266 3 -1  dark
+: 271 2 -3 ness
+- 274
+: 276 3 -4 When
+: 281 5 -6  you
+: 289 5 -8  be
+: 297 5 -6 lieve
+: 304 5 -4  in
+: 313 8 -1  your
+: 323 2 -1 self
+- 327
+: 329 3 -1 You
+: 334 3 -3  are
+: 339 3 -4  uns
+: 345 5 -6 top
+* 353 2 -6 pa
+* 356 3 -4 ~
+: 361 8 -6 ble
+- 375
+: 377 3 -3 Where
+: 382 3 -1 ~
+: 387 3 -1  your
+: 393 3 -1  des
+: 398 3 -3 ti
+: 404 3 -4 ny
+: 409 3 -6  lies
+: 414 9 -8 ~
+- 428
+: 430 3 -3 Danc
+: 435 3 -3 ing
+: 440 8 -1  on
+: 451 3 -1  the
+: 456 2 -1  blades,
+- 460
+: 462 3 1 you
+: 467 4 3  set
+: 473 5 4  my
+* 481 5 3  heart
+: 489 5 4  on
+: 497 5 6  fire
+: 505 7 4 ~
+- 514
+* 516 3 -1 Don't
+* 521 3 4  stop
+: 526 3 6  us
+: 531 8 4  now,
+- 545
+: 547 3 -1 the
+: 553 3 6  mo
+: 558 3 4 ment
+: 563 3 6  of
+: 569 8 6  truth
+- 583
+: 585 3 6 We
+: 590 7 4  were
+: 601 3 6  born
+: 606 3 4  to
+* 611 3 6  make
+* 617 3 9  his
+* 622 3 8 to
+* 627 7 4 ry
+- 640
+: 643 3 -1 We'll
+: 648 3 4  make
+: 653 3 6  it
+: 659 3 4  hap
+: 664 7 4 pen,
+- 674
+: 676 3 -1 we'll
+: 681 3 6  turn
+: 686 3 4  it
+: 691 3 6  a
+: 696 7 6 round
+- 709
+: 712 3 6 Yes,
+: 717 3 6  we
+: 722 3 4  were
+: 728 3 6  born
+: 733 3 4  to
+: 738 3 6  make
+: 744 3 9  his
+: 749 3 8 to
+: 755 8 4 ry
+- 798
+: 856 3 6 Born
+: 861 3 4  to
+: 866 3 6  make
+: 872 3 9  his
+: 877 3 8 to
+: 883 10 4 ry
+- 928
+* 973 3 6 Born-
+* 978 3 6 born-
+* 983 3 6 born
+: 989 3 4  to
+: 994 3 6  make
+: 1000 3 9  his
+: 1005 3 8 to
+: 1010 8 4 ry
+- 1024
+: 1026 3 -1 Don't
+: 1031 3 4  stop
+: 1036 3 6  us
+: 1042 8 4  now,
+- 1056
+: 1058 3 -1 the
+: 1064 3 6  mo
+: 1069 3 4 ment
+: 1074 3 6  of
+: 1079 8 6  truth
+- 1093
+: 1095 3 6 We
+: 1100 7 4  were
+: 1111 3 6  born
+: 1116 3 4  to
+: 1121 3 6  make
+: 1127 3 9  his
+: 1132 3 8 to
+: 1138 7 4 ry
+- 1151
+: 1154 3 -1 We'll
+: 1159 3 4  make
+: 1164 3 6  it
+: 1170 3 4  hap
+: 1175 7 4 pen,
+- 1185
+: 1187 3 -1 we'll
+: 1192 3 6  turn
+: 1197 3 4  it
+: 1202 3 6  a
+: 1207 7 6 round
+- 1217
+* 1219 3 6 Yes,
+: 1224 5 6  we
+* 1231 5 4  were
+* 1239 3 6  born
+: 1244 3 4  to
+: 1249 3 6  make
+: 1255 3 9  his
+: 1260 3 8 to
+: 1265 8 4 ry
+- 1283
+: 1293 3 6 We
+: 1298 3 4  were
+: 1303 3 6  born
+: 1308 3 4  to
+: 1313 3 6  make
+: 1319 3 9  his
+: 1324 3 8 to
+: 1329 7 4 ry
+- 1347
+: 1351 3 6 Yes,
+: 1356 3 6  we
+: 1361 3 4  were
+: 1366 3 6  born
+: 1371 3 4  to
+: 1376 3 6  make
+: 1382 3 9  his
+: 1387 3 8 to
+: 1393 36 4 ry!
+E

@@ -1,0 +1,172 @@
+#ARTIST:Detektiv Conan
+#TITLE:Nur Fragen in meinem Kopf
+#MP3:Detektiv Conan - Nur Fragen in meinem Kopf.mp3
+#LANGUAGE:German
+#BPM:159
+#GAP:13380
+#VIDEO:Detektiv Conan - Nur Fragen in meinem Kopf [VD#0].avi
+: 0 2 13 Hun
+: 2 3 13 dert
+: 5 2 13  Jah
+: 7 2 13 re
+: 9 3 16  gehn
+: 12 3 16  vor
+: 15 6 16 bei
+- 23 24
+: 33 5 13 Jetzt
+: 38 3 13  ist
+: 41 3 13  es
+: 44 3 11  so
+: 47 7 9  weit
+- 56
+: 64 2 13 Sie
+: 66 2 13  woll
+: 68 2 13 ten
+: 70 2 13  mei
+: 72 2 13 ne
+: 74 2 16  Trä
+: 76 3 16 nen
+: 79 6 16  sehn
+- 87
+: 95 3 13 Doch
+: 98 4 13  ich
+: 102 3 13  hab'
+: 105 3 13  nur
+: 108 3 11  ge
+: 111 8 9 lacht
+- 121 174
+: 194 3 13 Denn
+: 197 2 13  ich
+: 199 3 13  fol
+: 202 1 13 ge
+: 203 2 13  ei
+: 205 2 16 ner
+: 207 9 16  Spur
+- 218
+: 224 2 13 Und
+: 226 5 13  flie
+: 231 4 13 ge
+: 235 3 13  heut'
+: 238 4 11 noch
+: 242 6 9 weit
+- 250
+: 257 3 13 Mit
+: 260 2 13  dem
+: 262 2 13  was
+: 264 2 13  Hun
+: 266 2 13 der
+: 268 2 16  Jah
+: 270 2 16 re
+: 272 7 16  war
+- 281 282
+: 291 5 13 wird
+: 296 3 13  jetzt
+: 299 3 13  Schluss
+: 302 3 11  ge
+: 305 6 9 macht
+- 313
+: 320 5 16 Kennst
+: 325 9 18  du
+: 334 2 16  die
+: 336 2 14  Ant
+: 338 2 13 wort
+: 340 2 14  kennst
+: 342 2 16  du
+: 344 4 18  sie?
+- 349
+: 350 2 18 Ob
+: 352 2 18  Mann
+: 354 2 18  ob
+: 356 10 16  Kind
+: 366 3 14 das
+: 369 2 13  Rät
+: 371 2 11 sel
+: 373 2 13  löst
+: 375 2 14  du
+: 377 5 16  nie
+- 384
+: 386 2 16 E
+: 388 10 18 gal
+: 398 2 16  so
+: 400 2 14  viel
+: 402 2 13  es
+: 404 2 14  bleibt
+: 406 2 16  ge
+: 408 6 18 heim
+- 415
+: 417 4 16 Nur
+: 421 4 16  was
+: 425 4 16  das
+: 429 4 16  Herz
+: 433 4 18  sagt
+: 437 4 16  kann
+: 441 4 14  wahr
+: 445 4 13  sei
+: 449 5 11 ~n
+- 455
+: 457 3 13 Nur
+: 460 5 13  Fra
+: 465 2 11 gen
+: 467 2 11  in
+: 469 2 9  mei
+: 471 4 11 nem
+: 475 7 13  Kopf
+- 484
+: 490 3 13 Noch
+: 493 4 13  kei
+: 497 4 11 ne
+: 501 3 11  Ant
+: 504 4 9 wort
+: 508 2 11  ent
+: 510 6 13 deckt
+- 518
+: 522 5 14 Hörst
+: 527 3 14  du
+: 530 4 13  nicht
+: 534 2 13  wie
+: 536 4 11  mein
+: 540 2 13  Herz
+: 542 8 14  klopft?
+- 551
+: 553 5 14 Die
+: 558 4 14  Wahr
+: 562 4 13 heit
+: 566 3 13  hat
+: 569 3 11  sich
+: 572 4 9  gut
+: 576 4 11  ver
+: 580 5 13 steckt
+- 586
+: 586 4 13 Nur
+: 590 5 13  Fra
+: 595 2 11 gen
+: 597 2 11  in
+: 599 3 9  mei
+: 602 3 11 nem
+: 605 7 13  Kopf
+- 614
+: 618 4 13 Noch
+: 622 4 13  kei
+: 626 4 11 ne
+: 630 2 11  Ant
+: 632 4 9 wort
+: 636 2 11  ent
+: 638 8 13 deckt
+- 648
+: 651 4 14 Hörst
+: 655 4 14  du
+: 659 4 13  nicht
+: 663 2 13  wie
+: 665 4 11  mein
+: 669 2 13  Herz
+: 671 8 14  klopft?
+- 680
+: 682 4 14 Die
+: 686 5 14  Wahr
+: 691 4 13 heit
+: 695 3 13  hat
+: 698 3 11  sich
+: 701 4 9  gut
+: 705 4 11  ver
+: 709 9 13 steckt
+E

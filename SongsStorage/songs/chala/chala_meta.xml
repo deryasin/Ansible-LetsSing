@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DLCSong xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Genre>Rock</Genre>
+  <Id>chala</Id>
+  <Uid>957</Uid>
+  <Artist>Dragon Ball Z</Artist>
+  <Title>Chala Head Chala</Title>
+  <Year>1989</Year>
+  <Ratio>Ratio_16_9</Ratio>
+  <Difficulty>Difficulty3</Difficulty>
+  <Feat />
+  <Line1>Chala Head Chala</Line1>
+  <Line2></Line2>
+</DLCSong>
+        

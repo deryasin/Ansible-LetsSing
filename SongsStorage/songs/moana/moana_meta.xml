@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DLCSong xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Genre>Pop</Genre>
+  <Id>moana</Id>
+  <Uid>966</Uid>
+  <Artist>Disney</Artist>
+  <Title>How Far I'll Go</Title>
+  <Year>2016</Year>
+  <Ratio>Ratio_16_9</Ratio>
+  <Difficulty>Difficulty4</Difficulty>
+  <Feat />
+  <Line1>How Far I'll Go</Line1>
+  <Line2></Line2>
+</DLCSong>
+        

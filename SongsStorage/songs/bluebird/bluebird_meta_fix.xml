@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DLCSong xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Genre>Rock</Genre>
+  <Id>bluebird</Id>
+  <Uid>982</Uid>
+  <Artist>Naruto</Artist>
+  <Title>Blue Bird</Title>
+  <Year>2008</Year>
+  <Ratio>Ratio_16_9</Ratio>
+  <Difficulty>Difficulty3</Difficulty>
+  <Feat />
+  <Line1>Blue Bird</Line1>
+  <Line2></Line2>
+</DLCSong>
+        

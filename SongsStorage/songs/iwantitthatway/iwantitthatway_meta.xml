@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DLCSong xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Genre>Rock</Genre>
+  <Id>iwantitthatway</Id>
+  <Uid>995</Uid>
+  <Artist>Backstreet Boys</Artist>
+  <Title>I Want It That Way</Title>
+  <Year>2012</Year>
+  <Ratio>Ratio_4_3</Ratio>
+  <Difficulty>Difficulty2</Difficulty>
+  <Feat />
+  <Line1>I Want It That Way</Line1>
+  <Line2></Line2>
+</DLCSong>
+        

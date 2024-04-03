@@ -1,0 +1,178 @@
+#ARTIST:Gummibaerenbande
+#TITLE:Theme
+#MP3:Gummibaerenbande - Theme.mp3
+#EDITION:UltraStar Themes
+#LANGUAGE:German
+#BPM:214,44
+#GAP:5000
+#VIDEO:Gummibaerenbande Intro German (Deutsch)-1.flv
+: 0 3 2 Mu
+: 4 3 -2 tig
+: 8 3 2  und
+: 12 3 5  freund
+: 16 3 2 lich
+- 20
+: 20 3 5 So
+: 24 3 7  tap
+: 29 3 9 fer
+: 33 2 10  und
+: 36 3 5  glaeu
+: 40 4 2 big
+- 46
+: 49 3 7 Froeh
+: 53 3 5 lich
+: 57 3 3  und
+: 61 2 5  frech
+- 64
+: 65 3 2 kaemp
+: 70 2 5 fen
+: 74 2 3  sie
+: 77 4 2  auch
+: 82 3 -2  fuer
+: 86 5 0  dich
+- 93
+: 99 3 2 Le
+: 103 3 -2 ben
+: 107 3 2  im
+: 111 4 5  Wald
+- 115
+: 115 3 2 un
+: 119 3 5 ter
+: 123 3 7  Baeu
+: 127 3 9 men
+: 131 3 10  und
+: 135 3 5  Stei
+: 139 3 2 nen
+- 144
+: 148 3 7 In
+: 152 3 5  ih
+: 156 2 3 ren
+: 160 2 5  Hoeh
+: 164 2 2 len
+- 167
+: 168 3 5 da
+: 172 3 7  sind
+: 177 2 9  sie
+: 181 2 10  zu
+: 185 5 12  Haus
+- 192
+: 196 5 14 Gum
+: 202 3 15 mi
+: 206 10 17 baeren
+- 218
+: 224 4 17 Huep
+: 229 3 17 fen
+: 233 2 17  hier
+: 236 2 15  und
+: 239 2 14  dort
+: 242 2 12  und
+: 245 5 14  ue
+: 251 2 17 ber
+: 254 6 10 all
+- 262 263
+: 274 4 17 Sie
+: 279 2 17  sind
+: 282 2 17  fuer
+: 285 2 15  dich
+: 288 2 14  da
+: 291 2 12  wenn
+: 294 5 14  du
+: 300 3 17  sie
+: 304 5 10  brauchst
+- 311
+: 316 4 17 Das
+: 322 5 15  sind
+: 328 2 14  die
+: 331 5 12  Gum
+: 337 2 10 mi
+: 340 6 10 baeren
+- 348 373
+: 393 3 2 Lasst
+: 397 3 -2  euch
+: 401 3 2  ver
+: 405 3 5 zau
+: 409 4 2 bern
+- 414
+: 414 3 5 von
+: 418 3 7  ih
+: 422 3 9 rem
+: 426 3 10  Ge
+: 430 3 5 heim
+: 434 2 2 nis
+- 437
+: 439 2 5 Der
+: 442 4 7  Saft
+: 447 3 5  bringt
+: 451 2 3  die
+: 455 3 5  Kraft
+- 460
+: 464 2 2 Das
+: 467 2 3  A
+: 470 1 2 ben
+: 472 2 0 teu
+: 475 3 -2 er
+: 479 3 0  lacht
+- 484
+: 488 2 0 Ge
+: 491 3 4 mein
+: 495 3 0 sam
+: 500 2 4  koennt
+: 503 3 7  ihr
+- 507
+: 507 3 4 so
+: 511 3 7  viel
+: 515 4 9  mehr
+: 520 3 11  noch
+: 524 3 12  er
+: 528 3 7 le
+: 532 3 4 ben
+- 537
+: 540 4 9 Kommt
+: 545 3 7  doch
+: 549 3 5  hier
+: 553 4 7  her
+- 559
+: 561 3 7 und
+: 565 3 9  singt
+: 569 3 11  ein
+: 573 3 12 fach
+: 577 4 14  mit
+- 583
+: 590 4 16 Gum
+: 595 3 17 mi
+: 599 9 19 baeren
+- 610
+: 618 4 19 Huep
+: 623 2 19 fen
+: 626 2 19  hier
+: 629 2 17  und
+: 632 2 16  dort
+: 635 2 14  und
+: 638 5 16  ue
+: 644 2 19 ber
+: 647 5 12 all
+- 654 655
+: 666 4 19 Sie
+: 671 3 19  sind
+: 675 2 19  fuer
+: 678 2 17  dich
+: 681 2 16  da
+: 684 3 14  wenn
+: 688 4 16  du
+: 693 3 19  sie
+: 697 6 12  brauchst
+- 705
+: 710 4 19 Das
+: 715 5 17  sind
+: 721 3 16  die
+: 725 4 14  Gum
+: 730 2 12 mi
+: 733 6 12 baeren
+- 741 742
+: 758 4 19 Das
+: 764 5 17  sind
+: 770 3 16  die
+: 774 4 17  Gum
+: 779 3 19 mi
+: 783 6 24 baeren
+E

@@ -1,0 +1,69 @@
+ENABLED	UID	ID	ARTIST	TITLE	YEAR	DIFFICULTY	SKU_INT	SKU_FR	SKU_SPA	SKU_GER	DLC_INDEX	VIDEO_RATIO	GENRE_POP_UNLOCKED	GENRE_RAP	GENRE_BALLAD	GENRE_ROCK	GENRE_HAPPY_UNLOCKED	GENRE_FIESTA	GENRE_LOVE	GENRE_SAD	GENRE_OLD_UNLOCKED	GENRE_2000	GENRE_RECENT	GENRE_RANDOM_UNLOCKED	GENRE_VO	GENRE_WOMEN	GENRE_ENGLISH	GENRE_MEN
+x	144	AllNightLong	Lionel_Richie	All Night Long	1983	0	x	x	x	x	1	RATIO_4_3	x					x			x			x			x	x
+x	116	AThousandMiles	Vanessa Carlton	A Thousand Miles	2001	2	x	x	x	x	1	RATIO_16_9			x		x		x			x		x		x	x	
+x	96	BadRomance	Lady Gaga	Bad Romance	2009	0	x	x	x	x	1	RATIO_16_9	x					x	x			x		x		x	x	
+x	111	BlueMonday	New Order	Blue Monday	1988	1	x	x	x	x	1	RATIO_4_3	x					x			x			x			x	x
+x	113	BoysDontCry	The Cure	Boys Don't Cry	1980	2	x	x	x	x	1	RATIO_4_3				x	x				x			x			x	x
+x	142	ComeOnEileen	Dexy's Midnight_Runners	Come On Eileen	1982	1	x	x	x	x	1	RATIO_4_3				x	x				x			x			x	x
+x	136	CrazyLittleThingCalledLove	Queen	Crazy Little Thing Called Love	1980	2	x	x	x	x	1	RATIO_16_9				x	x				x			x			x	x
+x	133	EverybodyWantsToRuleTheWorld	Tears For Fears	Everybody Wants To Rule The World	1985	1	x	x	x	x	1	RATIO_16_9				x	x				x			x			x	x
+x	131	FallingInLoveWithYou	UB40	(I Can't Help) Falling In Love With You	1993	1	x	x	x	x	1	RATIO_16_9			x				x		x			x			x	x
+x	109	HeartOfGlass	Blondie	Heart Of Glass	1978	0	x	x	x	x	1	RATIO_4_3	x				x		x		x			x		x	x	
+x	115	IWillSurvive	Gloria Gaynor	I Will Survive	1978	0	x	x	x	x	1	RATIO_4_3	x					x			x			x		x	x	
+x	108	MadWorld	Tears For Fears	Mad World	1983	2	x	x	x	x	1	RATIO_4_3			x					x	x			x			x	x
+x	145	NoMoney	Galantis	No Money	2016	2	x	x	x	x	1	RATIO_16_9	x					x					x	x			x	
+x	132	OurHouse	Madness	Our House	1982	1	x	x	x	x	1	RATIO_4_3	x				x				x			x			x	x
+x	146	PerfectStrangers	Jonas Blue Ft. JP Cooper	Perfect Strangers	2016	1	x	x	x	x	1	RATIO_16_9	x				x		x				x	x			x	x
+x	143	Reality	Lost Frequencies Ft. Janieck Devy	Reality	2016	2	x	x	x	x	1	RATIO_16_9	x				x						x	x			x	x
+x	135	Sacrifice	Elton_John	Sacrifice	1989	0	x	x	x	x	1	RATIO_4_3			x					x	x			x			x	x
+x	141	SweetLovin	Sigala Ft. Bryn Christopher	Sweet Lovin'	2014	2	x	x	x	x	1	RATIO_16_9	x					x				x		x			x	x
+x	138	TaintedLove	Soft Cell	Tainted Love	1981	1	x	x	x	x	1	RATIO_4_3	x						x		x			x			x	x
+x	80	TakeOnMe	A-ha	Take On Me	1985	2	x	x	x	x	1	RATIO_4_3				x	x	x			x			x			x	x
+x	140	Tears	Clean Bandit Ft.Louisa Johnson	Tears	2016	2	x	x	x	x	1	RATIO_16_9	x					x					x	x		x	x	
+x	114	TheFear	Lily Allen	The Fear	2009	1	x	x	x	x	1	RATIO_16_9	x				x					x		x		x	x	
+x	139	UpsideDown	Diana_Ross	Upside Down	1980	1	x	x	x	x	1	RATIO_4_3	x				x				x			x		x	x	
+x	95	WeWillRockYou	Queen	We Will Rock You	1977	1	x	x	x	x	1	RATIO_16_9				x		x			x			x			x	x
+x	137	Zombie	The Cranberries	Zombie	1994	1	x	x	x	x	1	RATIO_4_3				x				x	x			x		x	x	
+x	999	bakamitai	Shun Akiyama	Baka Mitai	2005	4	x	x	x	x	1	RATIO_16_9			x				x	x	x			x   			x	
+x	998	rockmeamadeus	Falco	Rock Me Amadeus	1985	3	x	x	x	x	1	RATIO_4_3		x	x	x					x			x   		x	x	
+x	997	pokemon	Pokemon	Pokemon Theme	1999	2	x	x	x	x	1	RATIO_4_3			x	x	x	x				x		x   		x	x	
+x	996	kisskiss	Tarkan	Simarik	1999	2	x	x	x	x	1	RATIO_4_3					x	x	x		x	x		x   			x	
+x	995	iwantitthatway	Backstreet Boys	I Want It That Way	2012	2	x	x	x	x	1	RATIO_4_3				x	x		x		x	x		x   		x	x	
+x	994	showyourself	Frozen 2	Show Yourself	2019	4	x	x	x	x	1	RATIO_16_9			x					x			x	x   	x	x		
+	993	callmemaybe	Carly Rae Japsen	Call Me Maybe	2012	2	x	x	x	x	1	RATIO_16_9					x		x		x	x		x   	x	x		
+x	992	seieinmann	Mulan	Sei ein Mann	1998	1	x	x	x	x	1	RATIO_4_3			x		x	x			x	x		x   		x	x	
+x	991	mitallerkraft	Detektiv Conan	Mit aller Kraft	2003	2	x	x	x	x	1	RATIO_16_9					x		x		x	x		x   	x	x		
+x	990	diereisebeginnt	One Piece	Die Reise beginnt	2007	2	x	x	x	x	1	RATIO_4_3			x	x	x	x			x	x		x   	x	x	x	
+x	989	dschinghiskhan	Dschinghis Khan	Dschinghis Khan	1979	4	x	x	x	x	1	RATIO_16_9			x		x	x	x		x			x   	x	x	x	
+x	988	staywithme	Miki Matsubara	Stay with me	1979	4	x	x	x	x	1	RATIO_4_3			x				x	x	x			x   	x	x		
+x	987	dota	Basshunter	DOTA	2006	1	x	x	x	x	1	RATIO_16_9		x			x	x			x	x		x   		x	x	
+x	986	slightlymad	Queen	I'm Going Slightly Mad	1990	4	x	x	x	x	1	RATIO_4_3			x	x	x				x			x   		x	x	
+x	985	wienerblut	Falco	Wiener Blut	1988	2	x	x	x	x	1	RATIO_4_3		x		x	x				x			x   		x	x	
+x	984	meingeheimnis	Detektiv Conan	Mein Geheimnis	2004	2	x	x	x	x	1	RATIO_4_3							x	x	x	x		x   	x	x		
+x	983	lebdeinentraum	Digimon	Leb deinen Traum	2000	2	x	x	x	x	1	RATIO_4_3			x	x	x	x			x	x		x   		x	x	
+x	982	bluebird	Naruto	Blue Bird	2008	3	x	x	x	x	1	RATIO_16_9					x	x			x	x		x   	x			
+x	981	cinderella24	Goro Majima	24 Hour Cinderella	2015	3	x	x	x	x	1	RATIO_16_9		x	x	x	x	x	x	x	x	x	x	x   	x	x	x	
+x	980	untenimmeer	Disney	Unten im Meer	1998	1	x	x	x	x	1	RATIO_16_9			x		x				x			x   	x	x	x	
+x	979	go	Flow	Go	2004	2	x	x	x	x	1	RATIO_16_9			x	x	x	x						x   		x	x	
+x	978	colors	Flow	Colors	2007	2	x	x	x	x	1	RATIO_16_9				x	x	x						x   		x	x	
+x	976	sasageo	Attack on Titan	Shinzou Wo Sasageyo	2004	3	x	x	x	x	1	RATIO_16_9				x	x	x						x   		x	x	
+x	975	historymaker	Yuri on ICE	History Maker	2016	4	x	x	x	x	1	RATIO_16_9			x		x							x   		x	x	
+x	973	sailormoon	Sailor Moon	Sag das Zauberwort	1997	3	x	x	x	x	1	RATIO_4_3			x		x	x			x	x		x   	x	x		
+x	972	minecraftrevenge	CaptainSparklez	Revenge	2011	3	x	x	x	x	1	RATIO_16_9		x	x	x	x	x	x	x	x	x	x	x   	x	x	x	
+x	971	theday	Porno Graffitti	The Day	2016	3	x	x	x	x	1	RATIO_16_9				x	x	x					x	x   		x	x	
+x	970	hotarunohiraki	Naruto	Hotaru no Hikari	2009	3	x	x	x	x	1	RATIO_16_9			x									x   	x	x		
+x	969	dielegende	One Piece	Die Legende	2003	1	x	x	x	x	1	RATIO_16_9		x	x	x	x	x	x	x	x	x	x	x   	x	x	x	
+x	968	unravel	Tokyo Ghoul	Unravel	2014	3	x	x	x	x	1	RATIO_16_9				x			x	x			x	x   		x	x	
+x	967	hikarunara	Goose House	Hikaru Nara (TV)	2014	3	x	x	x	x	1	RATIO_16_9			x		x		x				x	x   	x	x	x	
+x	966	moana	Disney	How Far I'll Go	2016	4	x	x	x	x	1	RATIO_16_9			x		x			x			x	x   	x	x		
+x	965	yourewelcome	Disney	You're Welcome	2016	2	x	x	x	x	1	RATIO_16_9			x		x						x	x   		x	x	
+x	964	kommsuessertod	Evangelion	Komm, sueßer Tod	1997	4	x	x	x	x	1	RATIO_16_9			x				x	x	x	x		x   	x	x		
+x	963	numberone	Lazy Town	We are Number One	2014	3	x	x	x	x	1	RATIO_16_9					x	x						x   		x	x	
+x	962	flyers	BRADIO	Flyers	2015	4	x	x	x	x	1	RATIO_16_9		x	x	x	x	x					x	x   		x	x	
+x	961	fliegtdurchdiezeit	Inu Yasha	Fliegt Durch Die Zeit	2000	3	x	x	x	x	1	RATIO_16_9			x		x		x		x	x		x   	x	x		
+x	960	duwirstunbesiegbarsein	Dragonball Z	Du wirst unbesiegbar sein	1990	2	x	x	x	x	1	RATIO_16_9		x	x		x	x			x	x		x   		x	x	
+x	959	wirwerdensiegen	Digimon	Wir werden siegen	2000	2	x	x	x	x	1	RATIO_4_3					x	x			x	x		x   		x	x	
+x	958	wirdrehenauf	Digimon	Wir drehen auf	2000	2	x	x	x	x	1	RATIO_4_3			x		x	x			x	x		x   		x	x	
+x	956	nurfrageninmeinemkopf	Detektiv Conan	Nur Fragen in meinem Kopf	1996	3	x	x	x	x	1	RATIO_16_9			x	x	x	x	x		x	x		x   		x	x	
+x	955	skterboi	Avril Lavigne	Sk8er Boi	2002	3	x	x	x	x	1	RATIO_16_9				x	x		x	x	x	x		x   	x	x		
+x	954	gummibaerenbande	Gummibaerenbande	Gummibaerenbande	1985	0	x	x	x	x	1	RATIO_4_3			x		x	x			x			x   		x	x	

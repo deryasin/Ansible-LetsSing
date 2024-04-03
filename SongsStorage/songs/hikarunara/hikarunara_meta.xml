@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DLCSong xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Genre>Pop</Genre>
+  <Id>hikarunara</Id>
+  <Uid>967</Uid>
+  <Artist>Goose House</Artist>
+  <Title>Hikaru Nara (TV)</Title>
+  <Year>2014</Year>
+  <Ratio>Ratio_16_9</Ratio>
+  <Difficulty>Difficulty3</Difficulty>
+  <Feat />
+  <Line1>Hikaru Nara (TV)</Line1>
+  <Line2></Line2>
+</DLCSong>
+        

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DLCSong xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Genre>Rock</Genre>
+  <Id>wirwerdensiegen</Id>
+  <Uid>959</Uid>
+  <Artist>Digimon</Artist>
+  <Title>Wir werden siegen</Title>
+  <Year>2000</Year>
+  <Ratio>Ratio_4_3</Ratio>
+  <Difficulty>Difficulty2</Difficulty>
+  <Feat />
+  <Line1>Wir werden siegen</Line1>
+  <Line2></Line2>
+</DLCSong>
+        

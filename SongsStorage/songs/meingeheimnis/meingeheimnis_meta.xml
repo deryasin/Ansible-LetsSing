@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DLCSong xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Genre>Rock</Genre>
+  <Id>meingeheimnis</Id>
+  <Uid>984</Uid>
+  <Artist>Detektiv Conan</Artist>
+  <Title>Mein Geheimnis</Title>
+  <Year>2004</Year>
+  <Ratio>Ratio_4_3</Ratio>
+  <Difficulty>Difficulty2</Difficulty>
+  <Feat />
+  <Line1>Mein Geheimnis</Line1>
+  <Line2></Line2>
+</DLCSong>
+        

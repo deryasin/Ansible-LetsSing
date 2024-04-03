@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DLCSong xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Genre>Rock</Genre>
+  <Id>slightlymad</Id>
+  <Uid>986</Uid>
+  <Artist>Queen</Artist>
+  <Title>I'm Going Slightly Mad</Title>
+  <Year>1990</Year>
+  <Ratio>Ratio_4_3</Ratio>
+  <Difficulty>Difficulty4</Difficulty>
+  <Feat />
+  <Line1>I'm Going Slightly Mad</Line1>
+  <Line2></Line2>
+</DLCSong>
+        

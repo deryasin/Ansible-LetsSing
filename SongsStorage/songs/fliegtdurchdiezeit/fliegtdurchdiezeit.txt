@@ -1,0 +1,203 @@
+#ARTIST:Inuyasha
+#TITLE:Flieg Durch Die Zeit
+#MP3:Inuyasha - Flieg Durch Die Zeit.mp3
+#EDITION:Anime Edition
+#GENRE:Anime
+#LANGUAGE:German
+#BPM:269,62
+#GAP:1845
+#VIDEO:Opening 1.mp4
+: 1 2 1 Ein
+: 5 2 0  Ge
+: 9 5 1 heim
+: 17 2 1 nis
+: 21 2 0  in
+: 25 4 1  dir
+: 33 2 1  ist
+: 37 2 1  zum
+: 41 6 1  Le
+: 50 2 3 ben
+: 54 2 0  er
+: 58 4 1 wacht
+- 64
+: 69 2 1 Du
+: 73 4 1  weißt
+: 81 2 0  es
+: 85 2 0  ist
+: 89 5 0  da,
+: 97 2 1  denn
+: 101 2 0  du
+: 105 4 1  spürst
+: 113 2 3  sei
+: 117 2 0 ne
+: 121 4 1  Kraft
+- 127
+: 129 2 1 Es
+: 133 2 1  beg
+: 137 6 8 lei
+: 145 4 1 tet
+: 153 4 1  dich
+: 161 4 1  durch
+: 169 5 8  Raum
+: 177 4 1  und
+: 185 4 1  Zeit
+- 191
+: 193 2 1 In
+: 197 2 1  ei
+: 201 2 1 ne
+: 205 5 5  neu
+: 213 2 6 e
+: 217 3 3  fre
+: 221 2 1 ~m
+: 225 4 1 de
+: 233 6 3  We
+: 240 3 1 ~lt
+- 245
+F 285 2 1 Flieg
+F 289 2 1  durch
+F 293 4 1  die
+F 301 4 1  Zeit
+- 307
+: 417 2 1 Ein
+: 421 2 0  ver
+: 425 5 1 ges
+: 433 2 0 se
+: 437 2 0 ner
+: 441 4 1  Bann
+: 449 2 1  hat
+: 453 2 0  das
+: 457 6 1  Feu
+: 465 2 3 er
+: 469 2 0  ent
+: 473 3 1 facht
+- 478
+: 481 2 1 Ein
+: 485 2 0  ge
+: 489 5 1 hei
+: 497 2 1 mes
+: 501 2 0  Ju
+: 505 2 1 wel
+: 513 2 1  und
+: 517 2 0  der
+: 521 5 3  Kampf
+: 529 2 3  um
+: 533 2 1  die
+: 537 4 3  Macht
+- 543
+: 549 2 0 Aus
+: 553 6 8  ei
+: 561 5 1 ner
+: 569 3 1  längst
+: 576 7 1  ver
+: 585 5 8 gan
+: 593 2 1 ge
+: 596 2 1 nen
+: 601 6 1  Zeit
+- 609
+: 613 2 0 Wer
+: 617 2 1 den
+: 621 4 5  dei
+: 629 2 5 ne
+: 633 4 5  Wirk
+: 641 4 9 lich
+: 649 2 5 kei
+: 653 2 3 ~
+: 657 8 5 ~t
+- 667
+: 835 4 -2 Flieg
+: 841 2 0  durch
+: 845 6 10  die
+: 853 10 8  Zeit
+- 865
+: 877 4 1 Schau
+: 883 2 0  nicht
+: 889 4 0  zu
+: 897 3 -2 rück
+- 902
+: 905 3 -2 Sei
+: 910 2 10  be
+: 914 5 8 rei
+: 921 3 10 ~t
+- 926
+: 938 2 1 Je
+: 942 2 1 den
+: 946 2 3  Au
+: 949 2 1 ~
+: 954 4 1 gen
+: 962 3 5 blick
+- 967
+: 974 3 1 Dein
+: 979 4 -2  Weg
+: 986 5 0  führt
+: 994 4 1  durch
+: 1001 5 3  die
+: 1009 4 -2  Dun
+: 1016 6 0 kel
+: 1025 4 1 heit
+- 1031
+: 1033 2 1 Kannst
+: 1037 2 3  du
+: 1041 2 1  das
+: 1045 4 5  Licht
+: 1053 3 5  am
+: 1058 3 5  E
+: 1062 2 3 ~n
+: 1066 3 3 de
+: 1070 3 1 ~
+: 1075 5 3  se
+: 1082 4 5 hen
+- 1088
+: 1093 2 -2 Flieg
+: 1097 2 -2  durch
+* 1101 4 10  die
+* 1109 8 8  Zeit
+- 1119
+: 1133 4 1 Schau
+: 1139 2 0  nicht
+: 1145 4 0  zu
+: 1153 3 -2 rück
+- 1158
+: 1161 3 -2 Sei
+: 1166 2 10  be
+* 1170 5 8 rei
+: 1177 3 10 ~t
+- 1182
+: 1193 2 1 Je
+: 1197 2 1 den
+: 1201 2 3  Au
+: 1204 2 1 ~
+: 1209 4 1 gen
+: 1217 3 5 blick
+- 1222
+: 1229 2 1 Du
+: 1233 5 -2  nä
+: 1241 4 0 herst
+: 1249 4 1  dich
+: 1257 3 3  mit
+: 1265 5 -2  je
+: 1273 3 0 dem
+: 1281 4 1  Schritt
+- 1287
+: 1289 2 1 Du
+: 1293 2 3  bist
+: 1297 2 1  be
+: 1301 4 5 reit
+: 1309 2 5  die
+: 1313 2 5 sen
+: 1317 2 5  Test
+: 1321 2 3  zu
+: 1325 2 1  be
+: 1329 7 3 ste
+: 1338 5 5 hen
+- 1345
+: 1604 6 13 Flieg
+: 1612 3 12  durch
+: 1617 3 10  die
+: 1626 3 8  Zei
+: 1631 3 8 ~
+: 1635 2 10 ~
+: 1638 2 8 ~
+: 1641 5 3 ~
+: 1647 2 3 ~
+: 1650 3 1 ~t
+E

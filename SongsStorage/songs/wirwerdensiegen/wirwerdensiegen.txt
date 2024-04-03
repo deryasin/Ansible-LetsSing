@@ -1,0 +1,180 @@
+#ARTIST:Digimon
+#TITLE:Wir werden siegen
+#MP3:Digimon - Wir werden siegen.mp3
+#EDITION:Anime
+#GENRE:Anime
+#LANGUAGE:German
+#BPM:125
+#GAP:32500
+#VIDEO:Digimon - Wir werden siegen.mp4
+: 0 2 9 Spuerst
+: 2 2 7  du die
+: 4 3 9  Kraft
+: 7 3 11  in
+: 10 5 12  dir
+- 15
+: 15 2 12 Die
+: 17 2 14  dich
+: 19 2 12  wei
+: 21 1 12 ter
+: 22 6 9  treibt
+- 28
+: 28 2 9 Durch
+: 30 1 9  die
+: 31 2 9 se
+: 33 2 7  frem
+: 35 3 7 de
+: 38 10 4  Welt
+- 49
+: 56 2 9 Du
+: 58 2 9  musst
+: 60 2 9  dein
+: 62 1 11  Bes
+: 63 4 11 tes
+: 67 3 12  ge
+: 70 2 12 ben
+- 72
+: 72 1 12 Al
+: 73 2 14 so
+: 75 2 11  sei
+: 77 2 9  be
+: 79 5 7 reit
+- 84
+: 84 2 9 Doch
+: 86 4 9  Du hast
+: 90 1 11  je
+: 91 2 11 mand
+: 93 2 11  der
+: 95 4 12  zu
+: 99 3 12  dir
+: 102 4 14  haelt
+- 105
+* 105 2 7 Wir
+* 107 2 7  wer
+* 109 2 7 den
+* 111 5 17  Sie~
+* 116 2 16 ger
+* 118 5 16  sein
+- 125
+: 125 2 14 Wir
+: 127 2 14  ha
+: 129 2 14 ben's
+: 131 3 19  drauf
+- 133
+: 133 2 14 Wir
+: 135 1 14  ge
+: 136 1 14 hen
+: 137 2 16  durch
+: 139 2 14  dick
+: 141 4 12  und
+: 145 5 12  duenn
+- 151
+: 151 2 9 Wir
+: 153 2 11  ge
+: 155 1 11 ben
+: 156 2 11  nie
+: 158 4 16  auf
+- 162
+: 162 2 11 Wir
+: 164 2 11  wer
+: 166 1 11 den
+: 167 6 9  stark
+: 173 3 11  und
+: 176 3 12  blei
+: 179 3 13 ben
+: 182 3 14  Freun
+: 185 6 9 de
+- 192
+: 192 1 11 Bis
+: 193 2 12  ans
+: 195 4 11  En
+: 199 2 12 de
+: 201 4 14  die
+: 205 2 14 ser
+* 207 9 16  Welt
+- 222
+: 232 2 12 Du
+: 234 2 14  weisst
+: 236 2 16  ge
+: 238 4 16 nau
+: 243 2 19  die
+: 245 2 19  Rei
+: 247 3 19 se
+: 250 2 17  muss
+: 252 2 16  wei
+: 254 2 16 ter
+: 256 2 14 ge
+: 258 4 14 hen
+- 262
+: 262 2 11 Gib
+: 264 2 12  nicht
+: 266 4 14  auf
+- 273
+: 273 2 17 Es
+: 275 3 16  wird
+: 278 2 14  noch
+: 280 2 14  viel
+: 282 1 16  ge
+: 283 3 16 sche
+: 286 4 14 hen
+- 297
+: 297 4 9 Und
+: 301 2 11  je
+: 303 4 12 der
+: 307 3 17  Wunsch
+: 310 2 16  wird
+: 312 1 14  in
+: 313 2 14  Er
+: 315 2 14 fuel
+: 317 3 14 lung
+* 320 15 14  ge~
+* 335 3 14 hen
+- 345
+: 345 3 12 Lauf
+: 348 2 14  nicht
+: 350 3 16  weg
+- 356
+: 356 2 16 Denn
+: 358 2 19  wir
+: 360 2 17  kaemp
+: 362 2 16 fen
+: 364 2 14  fuer
+: 366 2 14  den
+: 368 5 14  Sie~
+: 373 2 14 g
+- 375
+: 375 2 11 Gib
+: 377 2 12  nicht
+: 379 4 14  auf
+- 383
+: 383 3 14 Wenn
+: 386 2 17  dir
+: 388 2 16  et
+: 390 2 14 was
+: 392 2 14  dar
+: 394 2 14 an
+: 396 6 14  lie
+: 402 2 14 gt
+- 406
+: 406 3 9 Und
+: 409 3 17  du
+: 412 2 16  wirst
+: 414 2 14  seh
+: 416 4 12 en
+- 421
+: 421 2 19 Es
+: 423 3 17  wird
+: 426 1 16  ge
+: 427 4 14 scheh
+: 431 3 12 en
+- 434
+: 434 3 12 Wir
+: 437 3 17  wer
+: 440 2 16 den
+: 442 3 14  sie
+: 445 3 12 gen
+- 448
+* 448 14 12 Glaub
+* 462 15 12  da
+* 477 6 16 dran!
+E

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DLCSong xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Genre>Rock</Genre>
+  <Id>dielegende</Id>
+  <Uid>969</Uid>
+  <Artist>One Piece</Artist>
+  <Title>Die Legende</Title>
+  <Year>2003</Year>
+  <Ratio>Ratio_16_9</Ratio>
+  <Difficulty>Difficulty1</Difficulty>
+  <Feat />
+  <Line1>Die Legende</Line1>
+  <Line2></Line2>
+</DLCSong>
+        
