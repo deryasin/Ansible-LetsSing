@@ -15,7 +15,6 @@
   yt_dlp_ansible:
     url: "{{ song.url }}"
     options:
-      cachedir: False
       format: 'mp4'
       outtmpl: "{{song.uid}}.%(ext)s"
       writethumbnail: True

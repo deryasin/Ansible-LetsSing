@@ -5,13 +5,12 @@ singstar_force: []
 singstar_force_url: []
 singstar_force_txt: []
 singstar:
-  - titleid: 0100D7701692E000
-    dlcid: 0100D7701692F009
-    songfolder: "/home/yasin/singstar-cp/singstar/songs/"
-    validationfilefolder: "/home/yasin/singstar-cp/singstar/songs/"
+  - titleid: 0100CC30149B8000
+    dlcid: 0100CC30149B900E
+    songfolder: /home/yasin/singstar/songs
     #atmospherefolder: "/media/yasin/2E32-AB9F/atmosphere"
-    atmospherefolder: "/home/yasin/singstar-cp/singstar/atmosphere-2023/"
-    #atmospherefolder: "/media/f/atmosphere"
+    atmospherefolder: "/home/yasin/.local/share/yuzu/sdmc/atmosphere/"
+    validationfilefolder: "/home/yasin/singstar/songs/"
     songs:
       - name: Baka Mitai
         enabled: True
@@ -568,32 +567,31 @@ singstar:
         english: True
         men: True
 
-      # - name: Hit the Road Jack
-      #   enabled: True
-      #   uid: hittheroad
-      #   id: 977
-      #   artist: Ray Charles
-      #   release: 1969
-      #   ratio: "4:3"
-      #   difficulty: 2
-      #   line1: Hit the Road Jack
-      #   genre: Pop
-      #   url: "https://www.youtube.com/watch?v=uFpSMRIx6PM"
-      #   pop: True
-      #   rap:
-      #   ballad: True
-      #   rock:
-      #   happy: True
-      #   fiesta:
-      #   love:
-      #   sad:
-      #   old: True
-      #   2000:
-      #   recent:
-      #   women:
-      #   english: True
-      #   men: True
-      #   pitch: -12
+      - name: Hit the Road Jack
+        enabled: True
+        uid: hittheroad
+        id: 977
+        artist: Ray Charles
+        release: 1969
+        ratio: "4:3"
+        difficulty: 2
+        line1: Hit the Road Jack
+        genre: Pop
+        url: "https://www.youtube.com/watch?v=uFpSMRIx6PM"
+        pop: True
+        rap:
+        ballad: True
+        rock:
+        happy: True
+        fiesta:
+        love:
+        sad:
+        old: True
+        2000:
+        recent:
+        women:
+        english: True
+        men: True
 
       - name: Shinzou Wo Sasageyo
         enabled: True
@@ -1121,7 +1119,7 @@ singstar:
         difficulty: 3
         line1: 
         genre: Rock
-        url: https://youtu.be/1ZD-EXc4hA0      
+        url: https://youtu.be/_msgKxw-JKk      
         pop: True
         rap: 
         ballad: True
